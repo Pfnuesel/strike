@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+ul.a{
+    list-style-type: square;
+    margin-left: 20px;
+}
 a {
     text-decoration: none;
     color: #5eb787;
@@ -72,7 +76,7 @@ footer {
   grid-column-end: 4;
 }
 /*navbar*/
-ul{
+.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -81,7 +85,7 @@ ul{
     box-shadow: 0 5px, 0 -5px;
 }
 
-li {
+.button {
     float: left;
 }
 

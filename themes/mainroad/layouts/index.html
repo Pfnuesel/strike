@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Content }}
+
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+
+	{{ with (index (where site.RegularPages "Type" "posts").ByDate.Reverse 0) }}
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  	{{ end }}
+
+
+
+
+</main>
+
+{{ partial "pagination.html" . }}
+{{ end }}

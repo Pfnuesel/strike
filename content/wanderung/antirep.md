@@ -1,7 +1,7 @@
 ---
 title: "Antirep"
 authorbox: false
-sidebar: false
+sidebar: true
 menu: main
 ---
 

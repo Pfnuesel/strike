@@ -1,7 +1,7 @@
 ---
 title: "Konsens"
 authorbox: false
-sidebar: false
+sidebar: true
 menu: main
 ---
 

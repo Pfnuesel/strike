@@ -1,7 +1,7 @@
 ---
 title: "Packliste"
 authorbox: false
-sidebar: false
+sidebar: true
 menu: main
 ---
 

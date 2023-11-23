@@ -2,7 +2,7 @@
 title: "Kontakt"
 date: 2023-07-04T09:38:56+02:00
 authorbox: false
-sidebar: false
+sidebar: true
 menu: main
 ---
 

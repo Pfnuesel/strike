@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'strikewef.org'
 languageCode = 'de-de'
 title = 'Strike WEF'
 theme = 'mainroad'

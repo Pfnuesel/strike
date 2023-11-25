@@ -1,99 +1,64 @@
-baseURL = 'strikewef.org'
-languageCode = 'de'
+baseURL = '/'
+languageCode = 'de-de'
 title = 'Strike WEF'
 theme = 'mainroad'
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
 
-[Params.logo]
-  image = "images/logo-red.svg"
-  title = false
+[Params]
+	pager = true
 
 [Params.style.vars]
-  highlightColor = "#d3244e"
+  highlightColor = "#70cee8"
+  fontFamilyPrimary = "'Helvetica'"
+
+[Params.logo]
+  image = "img/logo-red.svg" # Logo image. Path relative to "static"
+ 
 
 [Params.sidebar]
-  home = "right"
-  list = "right"
-  single = "right"
-  widgets = ["social", "languages"]
+	home = "right"
 
+	widgets = ["social", "languages"]
 
+[Params.widgets.social]              
+	cached = false
 
+	instagram = "strike.wef"
+	telegram = "+2TxRe_-qBFE3MGFk"
+	email = "strike.wef@posteo.de"
 
+[languages]
+  [languages.de]
+    contentDir = 'content/de'
+    disabled = false
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    title = 'Strike WEF'
+    weight = 1
+    [languages.de.params]
+      subtitle = '13. - 14. Januar 2024'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Strike WEF'
+    weight = 2
+    [languages.en.params]
+      subtitle = '13. - 14. January 2024'
 
-[Params.widgets.social]
-  # Enable parts of social widget
-  instagram = "strike.wef"
-  telegram = "+2TxRe_-qBFE3MGFk"
-  email = "strike.wef@posteo.de"
 
 [menu]
+
   [[menu.main]]
     identifier = "home"
     name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
     url = "/"
     weight = 1
-#wanderung
-  [[menu.main]]
-    identifier = "Wanderung"
-    name = "Wanderung"
-    url = "/wanderung"
-    weight = 2
-  [[menu.main]]
-    identifier = "Packliste"
-    name = "Packliste"
-    url = "/wanderung/packliste"
-    parent = "Wanderung"
-    weight = 1
-  [[menu.main]]
-    identifier = "Route"
-    name = "Route"
-    url = "/wanderung/route"
-    parent = "Wanderung"
-    weight = 2
-  [[menu.main]]
-    identifier = "Konsens"
-    name = "Konsens"
-    url = "/wanderung/konsens"
-    parent = "Wanderung"
-    weight = 3
-  [[menu.main]]
-    identifier = "Antirep"
-    name = "Antirep"
-    url = "/wanderung/antirep"
-    parent = "Wanderung"
-    weight = 4
-#Mitwirken
-  [[menu.main]]
-    identifier = "Mitwirken"
-    name = "Mitwirken"
-    url = "/mitwirken"
-    weight = 3
-  [[menu.main]]
-    identifier = "Mitmachen"
-    name = "Mitmachen"
-    url = "/mitwirken/mitmachen"
-    parent = "Mitwirken"
-    weight = 1
-  [[menu.main]]
-    identifier = "Druckmaterialien"
-    name = "Druckmaterialien"
-    url = "/mitwirken/druckmaterialien"
-    parent = "Mitwirken"
-    weight = 2
-#Fotos
-  [[menu.main]]
-    identifier = "Fotos"
-    name ="Fotos"
-    url = "/fotos"
-    weight = 4
-#Presse
-  [[menu.main]]
-    identifier = "Presse"
-    name ="Presse"
-    url = "/presse"
-    weight = 5
-  [[menu.main]]
-    identifier = "Kontakt"
-    name = "Kontakt"
-    url = "/kontakt"
-    weight = 6
+
+
+

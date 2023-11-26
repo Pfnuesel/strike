@@ -9,4 +9,10 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-hier wird die Route erscheinen!
+### Bewilligung ist eingereicht!
+
+## Geplante Route
+
+- Januar 2024: Start (Eröffnungswochenende des WEF): Küblis - Klosters
+- Januar: Klosters - Davos
+- Januar, 15.00 Uhr: Juso-Kundgebung auf dem Davoser Platz

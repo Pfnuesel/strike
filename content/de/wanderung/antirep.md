@@ -8,8 +8,8 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-### Allgemeine Antirep Informationen:
 **Wichtig: Die Wanderung ist bewilligt. Im Prinzip musst du keinen Kontakt mit der Polizei erwarten. Es ist trotzdem wichtig seine Rechte zu kennen. Wenn du auf der sicheren Seite sein willst, lies die folgenden Antirep Informationen durch.**
+
 
 #### Allgemeines:
 

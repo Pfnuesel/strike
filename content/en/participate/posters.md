@@ -1,5 +1,5 @@
 ---
-title: "Mobilisation Material"
+title: "Posters & Flyers"
 date: 2023-07-04T12:06:11+02:00
 authorbox: false
 sidebar: true
@@ -9,7 +9,9 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-### Here are Posters and flyers for your own use
+### Here are posters and flyers for your own use
+
+**Don't you have a printer? We have pre-printed! Write us an email and we'll see how you can get a poster :)**
 
 ## Poster
 

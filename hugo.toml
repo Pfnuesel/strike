@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = true
 
 	widgets = ["social", "languages"]
 
-[Params.widgets.social]              
+[Params.widgets.social]
 	cached = false
 
 	instagram = "strike.wef"
@@ -49,16 +49,13 @@ defaultContentLanguageInSubdir = true
     weight = 2
     [languages.en.params]
       subtitle = '13. - 14. January 2024'
-
-
-[menu]
-
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/"
-    weight = 1
-
-
-
+  [languages.fr]
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'Strike WEF'
+    weight = 3
+    [languages.fr.params]
+      subtitle = '13. - 14. Janvier 2024'

@@ -11,6 +11,8 @@ menu:
 
 ### Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen
 
+**Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)**
+
 ## Poster
 
 ### Deutsch

@@ -10,11 +10,13 @@ Every year, representatives of large corporations, politicians and scientists ga
 
 We stand up for social justice, fight for a world in which everyone has enough to live on and campaign for an economy that puts people's needs first.
 
-## Plan of the approved hike:
+---
 
-- January 13, 2024: Start (opening weekend of the WEF): Küblis - Klosters 
-- January 14: Klosters - Davos
-- January 14, 15.00 : Juso rally on the Davos square
+## Crowdfunding
+{{< hp5 "https://www.crowdify.net/de/projekt/protest-hike-ans-wef/widget/v3" >}}
+
+---
+
 
 ## Catering and sleeping places are getting organized. 
 
@@ -23,5 +25,4 @@ Please register so that we can ensure that the infrastructure is sufficient. Reg
 
 For more details and regular updates, join our Telegram chat and/or follow us on Instagram.
 
----
----
+

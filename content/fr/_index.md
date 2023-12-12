@@ -12,12 +12,13 @@ Chaque année, des représentants de grandes entreprises, des hommes politiques 
 Nous nous engageons pour la justice sociale, nous luttons pour un monde dans lequel chacun a assez pour vivre et nous nous engageons pour une économie qui place les besoins des gens au centre de ses préoccupations.
 
 
-## Plan de la randonnée autorisée :
+---
 
+## Crowdfunding
+{{< hp5 "https://www.crowdify.net/de/projekt/protest-hike-ans-wef/widget/v3" >}}
 
-- 13 janvier 2024 : Départ (week-end d'ouverture du WEF) : Küblis - Klosters 
-- 14 janvier : Klosters - Davos
-- 14 janvier, 15h00 : manifestation des JS sur la place de Davos
+---
+
 
 ## Le ravitaillement et les places pour dormir sont déjà organisés. 
 
@@ -32,7 +33,3 @@ Merci de t'inscrire afin que nous puissions assurer une infrastructure suffisant
 
 Pour plus de détails et des mises à jour régulières, rejoignez notre chat Telegram et/ou suivez-nous sur Instagram.
 
-
----
-
----

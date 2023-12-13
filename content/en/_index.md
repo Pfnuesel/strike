@@ -10,6 +10,8 @@ Every year, representatives of large corporations, politicians and scientists ga
 
 We stand up for social justice, fight for a world in which everyone has enough to live on and campaign for an economy that puts people's needs first.
 
+You can find out more under ["Why are we hiking against the WEF?"]({{< ref "/hike/why.md" >}} "Why")
+
 ---
 
 ## Crowdfunding
@@ -25,4 +27,5 @@ Please register so that we can ensure that the infrastructure is sufficient. Reg
 
 For more details and regular updates, join our Telegram chat and/or follow us on Instagram.
 
+---
 

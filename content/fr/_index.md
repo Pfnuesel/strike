@@ -11,6 +11,7 @@ Chaque année, des représentants de grandes entreprises, des hommes politiques 
 
 Nous nous engageons pour la justice sociale, nous luttons pour un monde dans lequel chacun a assez pour vivre et nous nous engageons pour une économie qui place les besoins des gens au centre de ses préoccupations.
 
+Tu trouveras plus d'informations sur ["Pourquoi randonner contre le WEF ?"]({{< ref "/Randonnée/pourquoi.md" >}} "Pourquoi")
 
 ---
 
@@ -33,3 +34,4 @@ Merci de t'inscrire afin que nous puissions assurer une infrastructure suffisant
 
 Pour plus de détails et des mises à jour régulières, rejoignez notre chat Telegram et/ou suivez-nous sur Instagram.
 
+---

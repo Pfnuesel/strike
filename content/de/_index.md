@@ -5,9 +5,11 @@ draft = false
 +++
 # Es geht wieder los nach Davos!
 
-Jedes Jahr treffen sich Vertreter großer Unternehmen, Politiker und Wissenschaftler auf dem Weltwirtschaftsforum (WEF), um über globale Fragen zu diskutieren. Sie behaupten, sie würden die Welt retten. Doch ihre eigenen Interessen stehen im Vordergrund. Während die am WEF vertretenen Superreichen und Konzerne ihren Reichtum weiter vermehren, leiden Milliarden von Menschen unter Armut, Ungleichheit und den Folgen des Klimawandels. 
+Jedes Jahr versammeln sich Vertreter:innen von Grosskonzernen, Politiker:innen und Wissenschaftler:innen auf dem Weltwirtschaftsforum (WEF), um globale Themen zu erörtern. Sie behaupten, dabei die Welt zu retten. Doch im Vordergrund steht ihr Eigeninteresse. Während die Superreichen und Konzerne, die auf dem WEF vertreten sind, ihren Reichtum immer weiter vermehren, leiden Milliarden von Menschen unter Armut, Ungleichheit und den Folgen des Klimawandels. 
 
-Wir setzen uns für soziale Gerechtigkeit ein, kämpfen für eine Welt, in der alle genug zum Leben haben, und setzen uns für eine Wirtschaft ein, die die Bedürfnisse der Menschen in den Mittelpunkt stellt.
+Wir setzen uns für soziale Gerechtigkeit ein, kämpfen für eine Welt, in der alle genug zum Leben haben, und setzen uns für eine Wirtschaft ein, die die Bedürfnisse der Menschen in den Vordergrund stellt.
+
+Mehr dazu findest du unter ["Wieso wandern wir gegen das WEF?"]({{< ref "/wanderung/warum.md" >}} "Warum")
 
 ---
 
@@ -25,5 +27,5 @@ Bitte melde dich an, damit wir für eine ausreichende Infrastruktur sorgen könn
 
 Für weitere Details und regelmäßige Updates, tretet unserem Telegram-Chat bei und/oder folgt uns auf Instagram.
 
-
+---
 

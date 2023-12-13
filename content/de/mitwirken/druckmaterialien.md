@@ -15,16 +15,16 @@ menu:
 
 ## Poster
 
-### Deutsch
+### Deutsch - [Download](/files/Poster_DE.pdf)
 ![Poster Deutsch](/img/Poster_DE.jpg)
-### Englisch
+### Englisch - [Download](/files/Poster_EN.pdf)
 ![Poster Englisch](/img/Poster_EN.jpg)
-### Französisch
+### Französisch - [Download](/files/Poster_FR.pdf)
 ![Poster Französisch](/img/Poster_FR.jpg)
 
 ## Flyer
 
-### Deutsch
+### Deutsch - [Download](/files/Flyer_DE.pdf)
 ![Flyer Deutsch](/img/Flyer_DE.jpg)
-### Englisch
+### Englisch - [Download](/files/Flyer_EN.pdf)
 ![Flyer Englisch](/img/Flyer_EN.jpg)

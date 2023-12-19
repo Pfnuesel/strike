@@ -1,5 +1,5 @@
 ---
-title: "Consensus"
+title: "Consensus d'Action"
 authorbox: false
 sidebar: true
 menu: 

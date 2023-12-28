@@ -10,17 +10,21 @@ menu:
 
 ### Consensus d'action Randonnée WEF 2024
 
-Afin que la randonnée hivernale soit transparente et évaluable pour tous les participants*, nous avons élaboré un consensus d'action :
+Afin que la randonnée d'hiver soit aussi sûre et accessible que possible pour tous les participant.e.s, nous avons élaboré un consensus d'action. En tant qu'action de protestation pacifique et civile contre le World Economic Forum (WEF), nous devons faire attention les uns aux autres et voulons donc orienter notre action selon les principes suivants :
 
-Nous respectons les limites personnelles des autres activistes*.
-La violence contre les êtres vivants de toute nature et la mise en danger de ces derniers sont rejetées en tant que forme d'action. Par violence, nous entendons tout ce qui cause de la douleur à l'autre, que ce soit de nature psychique ou physique. Nous n'encourageons pas l'escalade et ne cédons pas aux provocations.
+- **Nous voulons avoir un comportement respectueux et durable envers nous-mêmes en tant que groupe d'activistes, c'est-à-dire:** 
+  - Nous respectons les limites personnelles des autres militants*.
+  - Nous agissons avec calme et prudence et nous nous efforçons de ne mettre personne (y compris nous-mêmes) en danger.
+  - Nous créons une culture régénératrice en prenant soin de nous-mêmes et des autres afin de pouvoir agir efficacement et de rester capables d'agir durablement. 
+  
+- **Toute forme de violence ne fait pas partie de notre action.**
 
+- **Gestion de la consommation de stupéfiants :**
+  - Nous veillons à pouvoir agir de manière responsable à tout moment. Celui qui consomme de l'alcool ou des stupéfiants le fait avec attention et fait attention aux personnes qui l'entourent. Avant de consommer, demandez aux personnes qui vous entourent si cela leur convient. 
+  
+- **Gestion de la répression:**
+  - Nous nous informons en permanence sur les conséquences juridiques de nos actes et en assumons la responsabilité.
+  - Pendant et après la randonnée, nous nous comportons de manière solidaire et nous nous soutenons mutuellement au cas où la randonnée serait confrontée à la répression et qu'il pourrait y avoir des conséquences juridiques.
 
-Les dommages matériels ne font pas partie de cette action.
-Notre marche doit donner une image de diversité, de créativité et d'ouverture. Nous venons de différents mouvements sociaux et spectres politiques.
-Ensemble, nous assumons la responsabilité de la réussite de la randonnée.
-
-Pendant et après la randonnée, nous nous comportons de manière solidaire et nous nous soutenons mutuellement, même si la randonnée est confrontée à la répression et à des problèmes juridiques.
-En outre, nous nous abstenons de consommer des drogues (y compris de l'alcool) pendant la randonnée et nous nous distançons des idéologies conspirationnistes.
-
-Avec cette randonnée hivernale, nous souhaitons porter nos revendications à la connaissance du public et faire de la justice climatique un sujet de discussion. C'est pourquoi nous accompagnerons la randonnée avec des journalistes et des photographes.
+- Nous nous distançons de tout symbole ou contenu nationaliste (pas de drapeaux nationaux ni de slogans).- Nous sommes une action de protestation pacifique et civile et nous nous distançons donc de toute idéologie de conspiration. 
+- Nous veillons à une utilisation respectueuse de notre environnement et donc à une gestion correcte des déchets.

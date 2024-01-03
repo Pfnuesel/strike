@@ -9,23 +9,31 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-# L'autorisation est déposée !
+## Annonce Importante
 
-### Calendrier approximatif
+Les municipalités et la police ne souhaitent pas nous voir sur la route cantonale cette année non plus. Nous sommes toujours en négociation et ne pouvons donc pas encore déterminer l'itinéraire exact.
 
-- Janvier 2024 : Départ (week-end d'ouverture du WEF) : Küblis - Klosters
-- Janvier : Klosters - Davos
-- Janvier, 15h00 : manifestation de la Juso sur la place de Davos
+La municipalité a perturbé notre plan, nous avons donc malheureusement dû apporter des ajustements de timing !
 
-## Route soumise - jour 1
+ ---
 
-![Route jour 1](/img/route/route1.png)
-Le jour 1 est l'itinéraire rouge, qui nous mènera cette année de Küblis à Klosters par la route principale.
+## Samedi
 
-## Route soumise - jour 2
+- Point de rencontre: **10h00, Küblis Bahnhof**
+- Arrivée à Klosters: environ 16h30
 
-![Route jour 2](/img/route/route2.png)
-Le jour 2, l'itinéraire indiqué en bleu, nous conduira sur le chemin de randonnée comme l'année dernière.
+## Dimanche
+
+- Point de rencontre: **08h00, Klosters Bahnhof**
+- Arrivée à Davos: environ 14h00
+
+### Prendrez-vous le train dimanche ?
+
+Comme la manifestation de Davos a été avancée, il n'y a pas de liaison ferroviaire très tôt pour Klosters. Voici donc les stations avec lesquelles tu peux te joindre à nous pendant la randonnée.
+
+- **09h08, Cavadürli**
+- **11h14, Larett**
+- **14h00, Davos**
 
  ---
 

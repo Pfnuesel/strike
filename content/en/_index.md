@@ -15,10 +15,14 @@ Please register so that we can ensure that the infrastructure is sufficient. Reg
 
 ---
 
-## Route has been submitted for authorisation!
+## Important Update
 
-We have submitted the route. Want to know what it looks like?
-[Find out here!]({{< ref "/hike/route.md" >}} "Route")
+The local authorities and police continue to discourage our presence on the cantonal road this year. Negotiations are ongoing, preventing us from confirming the exact route at this time.
+
+Due to the municipality's interference, regrettably, we've had to make time adjustments to our plans!
+
+All infos regarding the route & meeting points you can find here:
+[Route]({{< ref "/hike/route.md" >}} "Route")
 
 ---
 

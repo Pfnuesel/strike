@@ -15,10 +15,15 @@ Bitte melde dich an, damit wir für eine ausreichende Infrastruktur sorgen könn
 
 ---
 
-## Route wurde eingereicht!
+## Wichtige Neuigkeiten
 
-Wir haben die Route eingereicht. Willst du wissen wie sie Aussieht?
-[Hier findest du es raus!]({{< ref "/wanderung/route.md" >}} "Route")
+Die Gemeinden und Polizei wollen uns auch dieses Jahr nicht auf der Kantonsstrasse sehen.
+Wir sind noch am Verhandeln und die genaue Route können wir aufgrund dessen noch nicht festlegen.
+
+Die Gemeinde hat unseren Plan durcheinander gebracht, aufgrund dessen mussten wir leider einige Zeitliche Anpassungen vornehmen!
+
+Alle Infos zu Zeiten & Route findest du hier:
+[Route]({{< ref "/wanderung/route.md" >}} "Route")
 
 ---
 

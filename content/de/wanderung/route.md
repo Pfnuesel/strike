@@ -9,23 +9,32 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-# Bewilligung ist eingereicht!
+## Wichtige Neuigkeiten
 
-### Grober Zeitplan
+Die Gemeinden und Polizei wollen uns auch dieses Jahr nicht auf der Kantonsstrasse sehen.
+Wir sind noch am Verhandeln und die genaue Route können wir aufgrund dessen noch nicht festlegen.
 
-- Januar 2024: Start (Eröffnungswochenende des WEF): Küblis - Klosters
-- Januar: Klosters - Davos
-- Januar, 15.00 Uhr: Juso-Kundgebung auf dem Davoser Platz
+Die Gemeinde hat unseren Plan durcheinander gebracht, aufgrund dessen mussten wir leider einige Zeitliche Anpassungen vornehmen!
 
-## Eingereichte Route - Tag 1
+ ---
 
-![Route Tag 1](/img/route/route1.png)
-Tag 1 ist die rote Route, welche uns dieses Jahr über die Hauptsstrasse von Küblis nach Klosters führen wird.
+## Samstag
 
-## Eingereichte Route - Tag 2
+- Treffpunkt: **10:00 Uhr, Küblis Bahnhof**
+- Ankunft Klosters: ca. 16:30 Uhr
 
-![Route Tag 2](/img/route/route2.png)
-Tag 2 der blau eingezeichnete Weg, wird uns über den Wanderweg führen wie bereits im letzten Jahr.
+## Sonntag
+
+- Treffpunkt: **08:00 Uhr, Klosters Bahnhof**
+- Ankunft Davos: ca. 14:00 Uhr
+
+### Kommst du am Sonntag mit dem Zug?
+
+Da die Kundgebung in Davos vorverlegt wurde, gibt es keine so frühen Zugverbindungen nach Klosters. Darum hier Stationen mit welchen du während der Wanderung noch dazustossen kannst.
+
+- **09:08 Uhr, Cavadürli**
+- **11:14 Uhr, Larett**
+- **14:00 Uhr, Davos**
 
  ---
 

@@ -15,10 +15,14 @@ Merci de t'inscrire afin que nous puissions assurer une infrastructure suffisant
 
 ---
 
-## Route soumise !
+## Annonce Importante
 
-Nous avons soumis l'itinéraire. Tu veux savoir à quoi elle ressemble ?
-[Tu peux le découvrir ici !]({{< ref "/Randonnée/route.md" >}} "Route")
+Les municipalités et la police ne souhaitent pas nous voir sur la route cantonale cette année non plus. Nous sommes toujours en négociation et ne pouvons donc pas encore déterminer l'itinéraire exact.
+
+La municipalité a perturbé notre plan, nous avons donc malheureusement dû apporter des ajustements de timing !
+
+Tu trouveras toutes les informations sur les horaires et l'itinéraire ici :
+[Route]({{< ref "/Randonnée/route.md" >}} "Route")
 
 ---
 

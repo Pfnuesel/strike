@@ -9,24 +9,32 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-# The authorisation has been submitted!
+## Important Update
 
-### Rough Schedule
+The local authorities and police continue to discourage our presence on the cantonal road this year. Negotiations are ongoing, preventing us from confirming the exact route at this time.
 
-- January 13, 2024: Start (opening weekend of the WEF): Küblis - Klosters
-- January 14: Klosters - Davos
-- January 14, 15.00 : Juso rally on the Davos square
-
-## Submitted route - Day 1
-
-![Route day 1](/img/route/route1.png)
-Day 1 is the red route, which this year will take us along the main road from Küblis to Klosters.
+Due to the municipality's interference, regrettably, we've had to make time adjustments to our plans!
 
 
-## Submitted route - day 2
+ ---
 
-![Route day 2](/img/route/route2.png)
-Day 2, the route marked in blue, will take us along the same hiking trail as last year.
+## Saturday
+
+- Meeting Point: **10:00 AM, Küblis Bahnhof**
+- Arrival Klosters: approx. 04:30 PM
+
+## Sunday
+
+- Meeting Point: **08:00 AM, Klosters Bahnhof**
+- Arrival Davos: approx. 02:00 PM
+
+### Will you be taking the train on Sunday?
+
+As the rally in Davos has been brought forward, there are no early train connections to Klosters. Therefore, here are the stations where you can join us during the hike.
+
+- **09:08 AM, Cavadürli**
+- **11:14 AM, Larett**
+- **02:00 PM, Davos**
 
  ---
 

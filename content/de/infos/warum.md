@@ -1,6 +1,5 @@
 ---
 title: "Wieso wandern wir gegen das WEF?"
-date: 2023-07-04T12:01:33+02:00
 authorbox: false
 sidebar: true
 menu: 

@@ -22,7 +22,7 @@ The local authorities and police continue to discourage our presence on the cant
 Due to the municipality's interference, regrettably, we've had to make time adjustments to our plans!
 
 All infos regarding the route & meeting points you can find here:
-[Route]({{< ref "/hike/route.md" >}} "Route")
+[Route]({{< ref "/infos/route.md" >}} "Route")
 
 ---
 
@@ -32,7 +32,7 @@ Every year, representatives of large corporations, politicians and scientists ga
 
 We stand up for social justice, fight for a world in which everyone has enough to live on and campaign for an economy that puts people's needs first.
 
-You can find out more under ["Why are we hiking against the WEF?"]({{< ref "/hike/why.md" >}} "Why")
+You can find out more under ["Why are we hiking against the WEF?"]({{< ref "/infos/why.md" >}} "Why")
 
 ---
 

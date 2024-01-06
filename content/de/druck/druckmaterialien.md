@@ -1,13 +1,12 @@
----
-title: "Druckmaterialien"
-date: 2023-07-04T12:06:11+02:00
-authorbox: false
-sidebar: true
-menu: 
-    main:
-        parent: Mitwirken
-        pre: <i class="fa-solid fa-code"></i>
----
++++
+title = 'Poster & Flyer'
+date = 2023-11-23T15:00:51+01:00
+draft = false
+[menu] 
+    [menu.main]
+        pre = '<i class="fa-solid fa-code"></i>'
+        weight = 2
++++
 
 ### Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen
 

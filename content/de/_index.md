@@ -23,7 +23,7 @@ Wir sind noch am Verhandeln und die genaue Route können wir aufgrund dessen noc
 Die Gemeinde hat unseren Plan durcheinander gebracht, aufgrund dessen mussten wir leider einige Zeitliche Anpassungen vornehmen!
 
 Alle Infos zu Zeiten & Route findest du hier:
-[Route]({{< ref "/wanderung/route.md" >}} "Route")
+[Route]({{< ref "/infos/route.md" >}} "Route")
 
 ---
 
@@ -34,7 +34,7 @@ Jedes Jahr versammeln sich Vertreter:innen von Grosskonzernen, Politiker:innen u
 
 Wir setzen uns für soziale Gerechtigkeit ein, kämpfen für eine Welt, in der alle genug zum Leben haben, und setzen uns für eine Wirtschaft ein, die die Bedürfnisse der Menschen in den Vordergrund stellt.
 
-Mehr dazu findest du unter ["Wieso wandern wir gegen das WEF?"]({{< ref "/wanderung/warum.md" >}} "Warum")
+Mehr dazu findest du unter ["Wieso wandern wir gegen das WEF?"]({{< ref "/infos/warum.md" >}} "Warum")
 
 ---
 

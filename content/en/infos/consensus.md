@@ -4,7 +4,7 @@ authorbox: false
 sidebar: true
 menu: 
     main:
-        parent: Hike
+        parent: Infos
         pre: <i class="fa-solid fa-code"></i>
 ---
 

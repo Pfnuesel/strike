@@ -4,7 +4,7 @@ authorbox: false
 sidebar: true
 menu: 
     main:
-        parent: Randonnée
+        parent: Info
         pre: <i class="fa-solid fa-code"></i>
 ---
 

@@ -22,7 +22,7 @@ Les municipalités et la police ne souhaitent pas nous voir sur la route cantona
 La municipalité a perturbé notre plan, nous avons donc malheureusement dû apporter des ajustements de timing !
 
 Tu trouveras toutes les informations sur les horaires et l'itinéraire ici :
-[Route]({{< ref "/Randonnée/route.md" >}} "Route")
+[Route]({{< ref "/info/route.md" >}} "Route")
 
 ---
 
@@ -33,7 +33,7 @@ Chaque année, des représentants de grandes entreprises, des hommes politiques 
 
 Nous nous engageons pour la justice sociale, nous luttons pour un monde dans lequel chacun a assez pour vivre et nous nous engageons pour une économie qui place les besoins des gens au centre de ses préoccupations.
 
-Tu trouveras plus d'informations sur ["Pourquoi randonner contre le WEF ?"]({{< ref "/Randonnée/pourquoi.md" >}} "Pourquoi")
+Tu trouveras plus d'informations sur ["Pourquoi randonner contre le WEF ?"]({{< ref "/info/pourquoi.md" >}} "Pourquoi")
 
 ---
 

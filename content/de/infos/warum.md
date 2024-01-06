@@ -5,7 +5,7 @@ authorbox: false
 sidebar: true
 menu: 
     main:
-        parent: Wanderung
+        parent: Infos
         pre: <i class="fa-solid fa-code"></i>
 ---
 

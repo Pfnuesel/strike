@@ -1,41 +1,23 @@
 +++
 title = 'Home'
-date = 2023-11-23T13:28:32+01:00
 draft = false
 +++
 
-## Crowdfunding
-{{< hp5 "https://www.crowdify.net/de/projekt/protest-hike-ans-wef/widget/v3" >}}
+## Thank you for hiking with us!
+
+We successfully carried the protest to Davos!
+Despite the undesirable route, we made it to Davos and were able to make a statement against bigwigs and climate killers.
+Despite excessive repression by the police in Davos against peaceful demonstrators, we were able to be loud!
+
+_Venceremos_
 
 ---
 
-## Catering and sleeping places are getting organized.
+## Crowdfunding accomplished!
 
-Please register so that we can ensure that the infrastructure is sufficient. Registration (via our anonymous portal) here: [Framaforms](https://framaforms.org/strike-wef-anmeldung-2024-strike-wef-registration-2024-1699460623)
-
----
-
-## Important Update
-
-The local authorities and police continue to discourage our presence on the cantonal road this year. Negotiations are ongoing, preventing us from confirming the exact route at this time.
-
-Due to the municipality's interference, regrettably, we've had to make time adjustments to our plans!
-
-All infos regarding the route & meeting points you can find here:
-[Route]({{< ref "/infos/route.md" >}} "Route")
+A big thank you to all the people who donated and made the protest in Davos possible!
 
 ---
-
-## It's time to hike to Davos again!
-
-Every year, representatives of large corporations, politicians and scientists gather at the World Economic Forum (WEF) to discuss global issues. They claim to be saving the world. But their own interests are at the forefront. While the super-rich and corporations represented at the WEF continue to increase their wealth, billions of people are suffering from poverty, inequality and the consequences of climate change. 
-
-We stand up for social justice, fight for a world in which everyone has enough to live on and campaign for an economy that puts people's needs first.
-
-You can find out more under ["Why are we hiking against the WEF?"]({{< ref "/infos/why.md" >}} "Why")
-
----
-
 
 *Whether young or old, this fight concerns us all and we welcome everyone!*
 

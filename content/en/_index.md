@@ -7,7 +7,8 @@ draft = false
 
 We successfully carried the protest to Davos!
 Despite the undesirable route, we made it to Davos and were able to make a statement against bigwigs and climate killers.
-Despite excessive repression by the police in Davos against peaceful demonstrators, we were able to be loud!
+
+Despite excessive inspections by the police in Davos against peaceful demonstrators, we were able to be loud!
 
 _Venceremos_
 

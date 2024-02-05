@@ -8,7 +8,7 @@ draft = false
 Wir haben den Protest erfolgreich nach Davos getragen!
 Laut sind wir trotz der unerwünscht vorgegeben Route bis nach Davos gekommen und konnten so ein Zeichen gegen Bonzen und Klimakiller setzen.
 
-Trotz übermässiger Repression der Polizei in Davos gegen friedliche Demonstrant*Innen, konnten wir Laut sein!
+Trotz übermässiger Kontrollen der Polizei in Davos gegen friedliche Demonstrant*Innen, konnten wir Laut sein!
 
 _Venceremos_
 

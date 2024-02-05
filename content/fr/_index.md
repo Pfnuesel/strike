@@ -8,7 +8,7 @@ draft = false
 Nous avons réussi à porter la manifestation jusqu'à Davos !
 Nous sommes arrivés à Davos à voix haute, malgré l'itinéraire imposé non souhaité, et avons ainsi pu donner un signal contre les bonzes et les tueurs de climat.
 
-Malgré la répression excessive de la police à Davos contre les manifestant-e-s pacifiques, nous avons pu faire du bruit !
+Malgré des inspections excessive de la police à Davos contre les manifestant-e-s pacifiques, nous avons pu faire du bruit !
 
 _Venceremos_
 

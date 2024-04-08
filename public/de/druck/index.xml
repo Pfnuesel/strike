@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drucks on Strike WEF</title>
+    <link>//localhost:1313/de/druck/</link>
+    <description>Recent content in Drucks on Strike WEF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 23 Nov 2023 15:00:51 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/de/druck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poster &amp; Flyer</title>
+      <link>//localhost:1313/de/druck/druckmaterialien/</link>
+      <pubDate>Thu, 23 Nov 2023 15:00:51 +0100</pubDate>
+      <guid>//localhost:1313/de/druck/druckmaterialien/</guid>
+      <description>Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)&#xA;Poster Deutsch - Download Englisch - Download Französisch - Download Flyer Deutsch - Download Englisch - Download </description>
+    </item>
+  </channel>
+</rss>

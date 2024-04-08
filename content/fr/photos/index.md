@@ -9,17 +9,26 @@ menu:
         weight: 4
 ---
 
+## 2024
 
-## 2020
+_Merci beaucoup [Sepp de Vries](https://seppdevries.ch/)_
 
-{{< foldergallery src="img/fotos/2020/" >}}
-
----
-
-## 2022
-{{< foldergallery src="img/fotos/2022/" >}}
+{{< foldergallery src="img/fotos/2024/" >}}
 
 ---
 
 ## 2023
+
 {{< foldergallery src="img/fotos/2023/" >}}
+
+---
+
+## 2022
+
+{{< foldergallery src="img/fotos/2022/" >}}
+
+---
+
+## 2020
+
+{{< foldergallery src="img/fotos/2020/" >}}

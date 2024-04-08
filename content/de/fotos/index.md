@@ -9,9 +9,15 @@ menu:
         weight: 4
 ---
 
-## 2020
+## 2024
 
-{{< foldergallery src="img/fotos/2020/" >}}
+_Vielen Dank an [Sepp de Vries](https://seppdevries.ch/)_
+
+{{< foldergallery src="img/fotos/2024/" >}}
+---
+
+## 2023
+{{< foldergallery src="img/fotos/2023/" >}}
 
 ---
 
@@ -20,5 +26,6 @@ menu:
 
 ---
 
-## 2023
-{{< foldergallery src="img/fotos/2023/" >}}
+## 2020
+{{< foldergallery src="img/fotos/2020/" >}}
+

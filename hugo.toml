@@ -38,7 +38,7 @@ defaultContentLanguageInSubdir = true
     title = 'Strike WEF'
     weight = 1
     [languages.de.params]
-      subtitle = '13. - 14. Januar 2024'
+      subtitle = 'Januar 2025'
   [languages.en]
     contentDir = 'content/en'
     disabled = false
@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = true
     title = 'Strike WEF'
     weight = 2
     [languages.en.params]
-      subtitle = '13. - 14. January 2024'
+      subtitle = 'January 2025'
   [languages.fr]
     contentDir = 'content/fr'
     disabled = false
@@ -58,4 +58,4 @@ defaultContentLanguageInSubdir = true
     title = 'Strike WEF'
     weight = 3
     [languages.fr.params]
-      subtitle = '13. - 14. Janvier 2024'
+      subtitle = 'Janvier 2025'

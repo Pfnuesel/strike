@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kontakts on Strike WEF</title>
+    <link>//localhost:1313/de/kontakt/</link>
+    <description>Recent content in Kontakts on Strike WEF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/de/kontakt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>//localhost:1313/de/kontakt/kontakt/</link>
+      <pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
+      <guid>//localhost:1313/de/kontakt/kontakt/</guid>
+      <description>Gerne dürft ihr uns eine Mail schreiben mit Anregungen oder bei Interesse an strike.wef@posteo.de Auch für Medienanfragen erreicht ihr uns unter dieser Mailadresse.</description>
+    </item>
+  </channel>
+</rss>

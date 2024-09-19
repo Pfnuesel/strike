@@ -3,8 +3,8 @@ title = 'Home'
 draft = false
 +++
 
-*🚀❄️ Liebe Freund*innen des WEF-Widerstands!
-Der Winterwind weht bald und hoffentlich damit unsere Anti-WEF-Transparente auch! :) 🔥🧡💜*
+# 🚀❄️ Liebe Freund*innen des WEF-Widerstands!
+## Der Winterwind weht bald und hoffentlich damit unsere Anti-WEF-Transparente auch! :) 🔥🧡💜
 
 Leider ist das WEF auch dieses Jahr noch nicht Geschichte. Kapitalisten, Diktatoren und andere Ausbeutende dieser Welt schütteln sich in Davos beim Aperitif die Pfoten. Also, worauf warten, wenn sie alle beisammen sind?
 

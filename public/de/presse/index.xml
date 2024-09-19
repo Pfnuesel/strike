@@ -4,7 +4,7 @@
     <title>Presses on Strike WEF</title>
     <link>//localhost:1313/de/presse/</link>
     <description>Recent content in Presses on Strike WEF</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Tue, 04 Jul 2023 12:06:39 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/de/presse/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/de/presse/presse/</link>
       <pubDate>Tue, 04 Jul 2023 12:06:39 +0200</pubDate>
       <guid>//localhost:1313/de/presse/presse/</guid>
-      <description>Für Medienanfragen kontaktieren Sie uns unter strike.wef@posteo.de</description>
+      <description>&lt;p&gt;Für Medienanfragen kontaktieren Sie uns unter &lt;a href=&#34;mailto:strike.wef@posteo.de&#34;&gt;strike.wef@posteo.de&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

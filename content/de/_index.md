@@ -3,20 +3,16 @@ title = 'Home'
 draft = false
 +++
 
-## Danke für das Mitwandern!
+*🚀❄️ Liebe Freund*innen des WEF-Widerstands!
+Der Winterwind weht bald und hoffentlich damit unsere Anti-WEF-Transparente auch! :) 🔥🧡💜*
 
-Wir haben den Protest erfolgreich nach Davos getragen!
-Laut sind wir trotz der unerwünscht vorgegeben Route bis nach Davos gekommen und konnten so ein Zeichen gegen Bonzen und Klimakiller setzen.
+Leider ist das WEF auch dieses Jahr noch nicht Geschichte. Kapitalisten, Diktatoren und andere Ausbeutende dieser Welt schütteln sich in Davos beim Aperitif die Pfoten. Also, worauf warten, wenn sie alle beisammen sind?
 
-Trotz übermässiger Kontrollen der Polizei in Davos gegen friedliche Demonstrant*Innen, konnten wir Laut sein!
+Auf geht’s, los geht's an die  Winterwanderung gegen das WEF!!Doch dafür brauchen wir Unterstützung: Für die Organisation von Infrastruktur, Mobilisierung, Social Media, Finanzen etc. brauchen wir motivierte Menschen. Ohne euch können wir diese Aktion nicht umsetzen.
 
-_Venceremos_
+Hast du Lust, mit uns das WEF abzuschaffen? Dann schreib uns eine PM oder eine Mail an (strike.wef@posteo.de.)
 
----
-
-## Crowdfunding geschafft!
-
-Ein grosses Danke an alle Menschen welche einen Batzen gespendet haben und so den Protest auf Davos möglich machten!
+Wir freuen uns auf deine Nachricht!
 
 ---
 

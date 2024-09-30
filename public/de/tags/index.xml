@@ -4,7 +4,7 @@
     <title>Tags on Strike WEF</title>
     <link>//localhost:1313/de/tags/</link>
     <description>Recent content in Tags on Strike WEF</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <atom:link href="//localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

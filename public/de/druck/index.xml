@@ -4,7 +4,7 @@
     <title>Drucks on Strike WEF</title>
     <link>//localhost:1313/de/druck/</link>
     <description>Recent content in Drucks on Strike WEF</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Thu, 23 Nov 2023 15:00:51 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/de/druck/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/de/druck/druckmaterialien/</link>
       <pubDate>Thu, 23 Nov 2023 15:00:51 +0100</pubDate>
       <guid>//localhost:1313/de/druck/druckmaterialien/</guid>
-      <description>&lt;h3 id=&#34;hier-sind-flyer-und-poster-für-eigenes-ausdrucken-und-gebrauchen&#34;&gt;Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;&#xA;&lt;h3 id=&#34;deutsch---downloadfilesposter_depdf&#34;&gt;Deutsch - &lt;a href=&#34;//localhost:1313/files/Poster_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Poster Deutsch&#34; src=&#34;//localhost:1313/img/Poster_DE.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;englisch---downloadfilesposter_enpdf&#34;&gt;Englisch - &lt;a href=&#34;//localhost:1313/files/Poster_EN.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Poster Englisch&#34; src=&#34;//localhost:1313/img/Poster_EN.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;französisch---downloadfilesposter_frpdf&#34;&gt;Französisch - &lt;a href=&#34;//localhost:1313/files/Poster_FR.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Poster Französisch&#34; src=&#34;//localhost:1313/img/Poster_FR.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;flyer&#34;&gt;Flyer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;deutsch---downloadfilesflyer_depdf&#34;&gt;Deutsch - &lt;a href=&#34;//localhost:1313/files/Flyer_DE.pdf&#34;&gt;Download&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Flyer Deutsch&#34; src=&#34;//localhost:1313/img/Flyer_DE.jpg&#34;&gt;&lt;/p&gt;</description>
+      <description>Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)&#xA;Poster Deutsch - Download Englisch - Download Französisch - Download Flyer Deutsch - Download Englisch - Download </description>
     </item>
   </channel>
 </rss>

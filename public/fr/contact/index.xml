@@ -4,7 +4,7 @@
     <title>Contacts on Strike WEF</title>
     <link>//localhost:1313/fr/contact/</link>
     <description>Recent content in Contacts on Strike WEF</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/fr/contact/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>//localhost:1313/fr/contact/contact/</link>
       <pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
       <guid>//localhost:1313/fr/contact/contact/</guid>
-      <description>&lt;p&gt;N&amp;rsquo;hésitez pas à nous envoyer un e-mail pour nous faire part de vos suggestions ou si vous êtes intéressés, à &lt;a href=&#34;mailto:strike.wef@posteo.de&#34;&gt;strike.wef@posteo.de&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Vous pouvez également nous contacter à cette adresse pour les demandes des médias.&lt;/p&gt;</description>
+      <description>N&amp;rsquo;hésitez pas à nous envoyer un e-mail pour nous faire part de vos suggestions ou si vous êtes intéressés, à strike.wef@posteo.de.&#xA;Vous pouvez également nous contacter à cette adresse pour les demandes des médias.</description>
     </item>
   </channel>
 </rss>

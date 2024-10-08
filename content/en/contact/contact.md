@@ -11,4 +11,5 @@ menu:
 ---
 
 
-Contact address for media inquiries, suggestions and feedback: <strike.wef@posteo.de> 
+Please feel free to send us an email with suggestions or if you are interested in joining in to <strike.wef@posteo.de>.
+You can also contact us at this email address for media enquiries.

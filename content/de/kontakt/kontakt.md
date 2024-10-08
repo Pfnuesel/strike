@@ -11,5 +11,5 @@ menu:
 ---
 
 
-Gerne dürft ihr uns eine Mail schreiben mit Anregungen oder bei Interesse an <strike.wef@posteo.de>
-Auch für Medienanfragen erreicht ihr uns unter dieser Mailadresse.
+Gerne dürft ihr uns eine Mail schreiben mit Anregungen oder bei Interesse an <strike.wef@posteo.de>.
+Auch für Medienanfragen erreicht ihr uns unter dieser Mailadresse.​​​​​​​

@@ -3,20 +3,18 @@ title = 'Home'
 draft = false
 +++
 
-## Thank you for hiking with us!
+# 🚀❄️ Dear friends of the WEF resistance!
+## The winter wind will be blowing soon and our anti-WEF banners with it! :) 🔥🧡💜
+### From 18. to 19. of January 2025
 
-We successfully carried the protest to Davos!
-Despite the undesirable route, we made it to Davos and were able to make a statement against bigwigs and climate killers.
 
-Despite excessive inspections by the police in Davos against peaceful demonstrators, we were able to be loud!
+Unfortunately, the WEF is not history yet this year either. Capitalists, dictators and other exploiters of our world will once again be shaking hands in Davos over an aperitif. So, what are we waiting for when they are all together?
 
-_Venceremos_
 
----
+Let's go, let's go on a winter hike against the WEF! But for that we need your support: we need motivated people to organise infrastructure, mobilisation, social media, finances, etc. We can't do this without you and you don't need any previous experience to join.
 
-## Crowdfunding accomplished!
 
-A big thank you to all the people who donated and made the protest in Davos possible!
+Do you want to help us abolish the WEF? Then write us a PM or an email to (strike.wef@posteo.de). We look forward to your message!
 
 ---
 

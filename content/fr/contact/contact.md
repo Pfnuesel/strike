@@ -10,7 +10,5 @@ menu:
     
 ---
 
-N'hésitez pas à nous envoyer un e-mail pour nous faire part de vos suggestions ou si vous êtes intéressés, à <strike.wef@posteo.de>.
-
-Vous pouvez également nous contacter à cette adresse pour les demandes des médias.
-
+N'hésite pas à nous envoyer un e-mail pour nous faire part de tes suggestions ou si tu es intéressé par <strike.wef@posteo.de>.
+Tu peux également nous contacter à cette adresse e-mail pour les questions relatives aux médias.

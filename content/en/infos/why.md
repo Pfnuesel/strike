@@ -3,6 +3,7 @@ title: "Why are we hiking against the WEF?"
 date: 2023-07-04T12:01:33+02:00
 authorbox: false
 sidebar: true
+summary: "Read here why we are hiking against the WEF"
 menu: 
     main:
         parent: Infos

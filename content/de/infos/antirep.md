@@ -2,6 +2,7 @@
 title: "Antirep"
 authorbox: false
 sidebar: true
+summary: 'Hier gibt es alle wichtigen rechtlichen Hinweise, welche während der Wanderung relevant sein könnten.'
 menu: 
     main:
         parent: Infos

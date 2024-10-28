@@ -2,7 +2,8 @@
 title: "Antirep"
 authorbox: false
 sidebar: true
-menu: 
+summary: "Here you will find all the important legal information that could be relevant during the hike."
+menu:
     main:
         parent: Infos
         pre: <i class="fa-solid fa-code"></i>

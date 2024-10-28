@@ -100,6 +100,12 @@
                 href="//localhost:1313/fr/contact/"
                 />
   </url><url>
+    <loc>//localhost:1313/fr/donations/</loc>
+    <lastmod>2023-07-04T09:38:56+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/fr/donations/donations/</loc>
+    <lastmod>2023-07-04T09:38:56+02:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/fr/info/antirep/</loc>
   </url><url>
     <loc>//localhost:1313/fr/categories/</loc>

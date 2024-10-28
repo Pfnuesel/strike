@@ -2,6 +2,7 @@
 title: "Aktionskonsens"
 authorbox: false
 sidebar: true
+summary: 'Hier gehts zum Aktionskonsens welcher während der Wanderung für alle gilt.'
 menu: 
     main:
         parent: Infos
@@ -10,9 +11,10 @@ menu:
 
 ### Aktionskonsens WEF Wanderung 2024
 
+
 Damit die Winterwanderung für alle Teilnehmer*innen möglichst sicher und zugänglich ist, haben wir einen Aktionskonsens ausgearbeitet. Als Aktion des friedlichen, zivilen Protests, gegen das World Economic Forum (WEF), müssen wir auf einander acht geben und wollen deshalb unser handeln nach folgenden Grundsätzen richten:
 
-**Wir wollen einen achtsamen und nachhaltigen Umgang mit uns als Gruppe von Aktivist*innen haben, dass heisst:** 
+**Wir wollen einen achtsamen und nachhaltigen Umgang mit uns als Gruppe von Aktivist*innen haben, dass heisst:**
 : Wir respektieren die persönlichen Grenzen anderer Aktivist*innen.
 : Wir gehen ruhig und vorsichtig vor und bemühen uns, niemanden (einschließlich uns selbst) zu gefährden.
 : Wir schaffen eine regenerative Kultur, indem wir auf uns selbst und einander achten, um effektiv handeln zu können und dauerhaft handlungsfähig zu bleiben. 
@@ -25,10 +27,9 @@ Damit die Winterwanderung für alle Teilnehmer*innen möglichst sicher und zugä
 **Umgang mit Repression:**
 : ​​​​​​​​​​​​​​Wir informieren uns laufend über die rechtlichen Konsequenzen unseres Handelns und übernehmen die Verantwortung für dieses.
 : Während und nach der Wanderung verhalten wir uns solidarisch und unterstützen einander, falls der Wanderung mit Repressionen begegnet werden sollte und es juristische Konsequenzen geben könnte.
- 
- 
-Wir distanzieren uns von jeglichen nationalistischen Symbolen und Inhalten (keine Länderfahnen, Parolen). 
 
 Wir sind eine Aktion des friedlichen, zivilen Protests und distanzieren uns deshalb von jeglichen Verschwörungsidiologien. 
 
 Wir achten auf einen sorgsamen Umgang mit unserer Umwelt und somit auch eine korrekten Umgang mit Müll.
+
+---

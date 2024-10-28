@@ -6,7 +6,7 @@ sidebar: true
 menu: 
     main:
         pre: <i class="fa-solid fa-code"></i>
-        weight: 6
+        weight: 5
     
 ---
 

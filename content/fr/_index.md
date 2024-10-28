@@ -3,6 +3,28 @@ title = 'Home'
 draft = false
 +++
 
+## Inscription
+
+Afin que nous puissions mieux évaluer le nombre de places de couchage et de nourriture nécessaires et que nous puissions mieux organiser la randonnée, nous avons à nouveau créé un formulaire d'inscription.
+
+[Cliquez ici pour vous inscrire](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
+
+---
+## 🏛 Le Tribunal fédéral a pris une décision importante pour la protection du droit de manifester ! 🎉
+
+En 2023, nous avons déposé un recours contre les conditions de la randonnée hivernale du Strike WEF de l'époque.
+Les autorités ont refusé de nous donner un itinéraire approprié et nous ont envoyés sur des sentiers invisibles.
+
+Nous ne protestons pas pour nous-mêmes, mais pour montrer à ceux qui pensent que l'argent et le pouvoir peuvent les protéger que nous ne resterons pas les bras croisés.
+
+Et maintenant, le Tribunal fédéral nous donne raison sur le fond. La protestation doit être visible !
+
+C'est une victoire importante, mais cela ne nous suffit pas. Nous avons besoin du plus grand nombre de personnes possible pour montrer aux riches et aux puissants que nous allons combattre le #Worlddeconomicfailure.
+
+Plus d'infos sur Instagram ou dans le [communiqué de presse](https://www.djs-jds.ch/fr/djs-schweiz/activites/communiques-de-presse/bundesgericht-bestaetigt-unzulaessiger-eingriff-in-die-meinungs-und-versammlungsfreiheit-durch-buendner-behoerden-die-wef-winderwanderung-haette-auf-der-kantonsstrasse-bewilligt-werden-muessen) des Juristes Démocrates de Suisse!
+
+---
+
 # 🚀❄️ Chers amis de la résistance au WEF !
 ## Le vent d'hiver va bientôt souffler et nos bannières anti-WEF avec ! :) 🔥🧡💜
 ### De 18. à 19. Janvier 2025

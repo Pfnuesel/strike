@@ -2,6 +2,7 @@
 title: "Consensus d'Action"
 authorbox: false
 sidebar: true
+summary: "Cliquez ici pour accéder au consensus d'action qui s'applique à tous pendant la randonnée."
 menu: 
     main:
         parent: Info
@@ -10,24 +11,22 @@ menu:
 
 ### Consensus d'action Randonnée WEF 2024
 
-Afin que la randonnée d'hiver soit aussi sûre et accessible que possible pour tous les participant.e.s, nous avons élaboré un consensus d'action. En tant qu'action de protestation pacifique et civile contre le World Economic Forum (WEF), nous devons faire attention les uns aux autres et voulons donc orienter notre action selon les principes suivants :
+Afin de rendre la randonnée hivernale aussi sûre et accessible que possible pour tous les participant·e·x, nous avons développé un consensus d'action. En tant que manifestation citoyenne pacifique contre le Forum économique mondial (WEF), nous devons prendre soin les uns des autres et nous voulons donc baser nos actions sur les principes suivants :
 
-**Nous voulons avoir un comportement respectueux et durable envers nous-mêmes en tant que groupe d'activistes, c'est-à-dire:** 
-: Nous respectons les limites personnelles des autres militants*.
-: Nous agissons avec calme et prudence et nous nous efforçons de ne mettre personne (y compris nous-mêmes) en danger.
-: Nous créons une culture régénératrice en prenant soin de nous-mêmes et des autres afin de pouvoir agir efficacement et de rester capables d'agir durablement. 
+**Nous voulons créer une ambiance agréable et rassembler un groupe d'activistes qui se traitent mutuellement avec respect, ce qui signifie :**
+: Nous respectons les limites personnelles des autres activistes.*.
+: Nous agissons calmement et prudemment et nous essayons de ne mettre personne en danger (y compris nous-mêmes).
+: Nous créons une culture régénératrice en prenant soin de nous-mêmes et des autres afin de pouvoir agir efficacement pendant cette mobilisation et de rester capables d'agir sur le long terme.
   
-**Toute forme de violence ne fait pas partie de notre action.**
+**La violence, sous quelque forme que ce soit, ne fait pas partie de notre action.**
 
-**Gestion de la consommation de stupéfiants :**
-: Nous veillons à pouvoir agir de manière responsable à tout moment. Celui qui consomme de l'alcool ou des stupéfiants le fait avec attention et fait attention aux personnes qui l'entourent. Avant de consommer, demandez aux personnes qui vous entourent si cela leur convient. 
+**Gestion de la consommation de drogues :**
+: Nous veillons à agir de manière responsable à tout moment. Les personnes qui consomment de l'alcool ou d’autres drogues le font en pleine conscience et en prêtant attention aux personnes qui les entourent. Avant de consommer, demandez à votre entourage s'il est d'accord.
   
-**Gestion de la répression:**
-: Nous nous informons en permanence sur les conséquences juridiques de nos actes et en assumons la responsabilité.
-: Pendant et après la randonnée, nous nous comportons de manière solidaire et nous nous soutenons mutuellement au cas où la randonnée serait confrontée à la répression et qu'il pourrait y avoir des conséquences juridiques.
+**Faire face à la répression :**
+: Nous nous tenons informés des conséquences juridiques de nos actes et en assumons la responsabilité.
+: Pendant et après la randonnée, nous agissons de manière solidaire et nous nous soutenons mutuellement en cas de répression et de conséquences juridiques.
 
-Nous nous distançons de tout symbole ou contenu nationaliste (pas de drapeaux nationaux ni de slogans).
+Nous sommes une manifestation pacifique et citoyenne et nous nous distançons donc de toute idéologie conspirationniste.
 
-Nous sommes une action de protestation pacifique et civile et nous nous distançons donc de toute idéologie de conspiration. 
-
-Nous veillons à une utilisation respectueuse de notre environnement et donc à une gestion correcte des déchets.
+Nous veillons à traiter notre environnement avec respect et donc à traiter nos déchets correctement.

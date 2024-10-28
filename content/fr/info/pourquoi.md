@@ -3,6 +3,7 @@ title: "Pourquoi randonner contre le WEF ?"
 date: 2023-07-04T12:01:33+02:00
 authorbox: false
 sidebar: true
+summary: "Lisez ici pourquoi nous marchons contre le WEF."
 menu: 
     main:
         parent: Info

@@ -2,6 +2,7 @@
 title: "Action Consensus"
 authorbox: false
 sidebar: true
+summary: "Click here for the action consensus which applies to everyone during the hike."
 menu: 
     main:
         parent: Infos
@@ -25,8 +26,6 @@ To ensure that the winter hike is as safe and accessible as possible for all par
 **Dealing with repression:**
 : We constantly inform ourselves about the legal consequences of our actions and take responsibility for them. 
 : During and after the hike, we will act in solidarity and support each other if the hike is met with repression and there could be legal consequences.
-
-We distance ourselves from any nationalist symbols and content (no national flags, slogans). 
 
 We are an action of peaceful, civil protest and therefore distance ourselves from any conspiracy ideologies. 
 

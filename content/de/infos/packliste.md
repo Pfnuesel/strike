@@ -2,6 +2,7 @@
 title: "Packliste"
 authorbox: false
 sidebar: true
+summary: 'Weisst du nicht was alles mitnehmen? Dann findest du hier eine Packliste!'
 menu: 
     main:
         parent: Infos

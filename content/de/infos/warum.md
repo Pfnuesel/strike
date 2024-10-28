@@ -2,6 +2,7 @@
 title: "Wieso wandern wir gegen das WEF?"
 authorbox: false
 sidebar: true
+summary: 'Lies hier warum wir gegen das WEF wandern'
 menu: 
     main:
         parent: Infos

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spendens on Strike WEF</title>
+    <link>//localhost:1313/de/spenden/</link>
+    <description>Recent content in Spendens on Strike WEF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 04 Jul 2023 09:38:56 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/de/spenden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spenden</title>
+      <link>//localhost:1313/de/spenden/spenden/</link>
+      <pubDate>Tue, 04 Jul 2023 09:38:56 +0200</pubDate>
+      <guid>//localhost:1313/de/spenden/spenden/</guid>
+      <description>Unser Spendenkonto Da die Wanderung leider Geld benötigt für Essen, Miete der Turnhalle, Mobilisation, etc. sind wir jedes Jahr auf Spenden angewiesen.&#xA;Gerne dürfen Spenden auf dieses Konto überwiesen werden:&#xA;Verein Die Wandervögel&#xA;8003 Zürich&#xA;CH82 0839 0039 9271 1000 0&#xA;Danke viel mal!</description>
+    </item>
+  </channel>
+</rss>

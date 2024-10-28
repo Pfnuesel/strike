@@ -2,6 +2,7 @@
 title: "Liste de colisage"
 authorbox: false
 sidebar: true
+summary: "Tu ne sais pas quoi emporter ? Alors tu trouveras ici une liste d'emballage !"
 menu: 
     main:
         parent: Info

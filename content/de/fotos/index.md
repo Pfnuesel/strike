@@ -10,7 +10,6 @@ menu:
 ---
 
 ## 2024
-
 _Vielen Dank an [Sepp de Vries](https://seppdevries.ch/)_
 
 {{< foldergallery src="img/fotos/2024/" >}}

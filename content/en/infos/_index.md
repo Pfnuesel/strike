@@ -1,5 +1,6 @@
 +++
 title = 'Infos'
+sidebar = true
 date = 2023-11-23T14:58:34+01:00
 draft = false
 [menu] 

@@ -2,6 +2,7 @@
 title = 'Poster & Flyer'
 date = 2023-11-23T15:00:51+01:00
 draft = false
+sidebar = true
 [menu] 
     [menu.main]
         pre = '<i class="fa-solid fa-code"></i>'
@@ -12,8 +13,16 @@ draft = false
 
 **Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)**
 
-## Poster
+---
 
+## 2025
+### Plakat Englisch - [Download](/files/strike_wef_plakat.pdf)
+![Poster 2024](/img/strike_wef_plakat.jpg)
+
+
+---
+
+## 2024
 ### Deutsch - [Download](/files/Poster_DE.pdf)
 ![Poster Deutsch](/img/Poster_DE.jpg)
 ### Englisch - [Download](/files/Poster_EN.pdf)

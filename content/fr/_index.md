@@ -9,7 +9,19 @@ Afin que nous puissions mieux évaluer le nombre de places de couchage et de nou
 
 [Cliquez ici pour vous inscrire](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
 
+Tu viens d'Allemagne et tu veux participer à la randonnée ? Alors c'est ici que tu peux t'inscrire avec le [Solibus](https://kipppunkt-kollektiv.de/event/davos2025/) !
+
 ---
+
+## Le crowdfunding est lancé ! 🥳
+
+La randonnée a besoin d'argent ! Pour le gymnase, les repas, le programme de la soirée, le service sanitaire et bien d'autres choses encore.
+C'est pourquoi nous avons lancé cette année encore un crowdfunding, regardez-le et assurez-vous par la même occasion de recevoir l'un des nombreux goodies fantastiques !
+
+[Cliquez ici pour accéder à la page des dons](https://www.crowdify.net/de/projekt/bring-the-protest-to-wef/project)
+
+---
+
 ## 🏛 Le Tribunal fédéral a pris une décision importante pour la protection du droit de manifester ! 🎉
 
 En 2023, nous avons déposé un recours contre les conditions de la randonnée hivernale du Strike WEF de l'époque.
@@ -25,7 +37,7 @@ Plus d'infos sur Instagram ou dans le [communiqué de presse](https://www.djs-jd
 
 ---
 
-# 🚀❄️ Chers amis de la résistance au WEF !
+## 🚀❄️ Chers amis de la résistance au WEF !
 ## Le vent d'hiver va bientôt souffler et nos bannières anti-WEF avec ! :) 🔥🧡💜
 ### De 18. à 19. Janvier 2025
 

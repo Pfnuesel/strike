@@ -9,7 +9,19 @@ Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht 
 
 [Hier gehts zur Anmeldung](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
 
+Bist du aus Deutschland und willst an die Wanderung? Dann gehts hier zur Anmeldung mit dem [Solibus](https://kipppunkt-kollektiv.de/event/davos2025/)!
+
 ---
+
+## Crowdfunding gestartet! 🥳
+
+Die Wanderung braucht Geld! Für Turnhalle, Essen, Abendprogramm, Sanität und vieles mehr.
+Darum haben wir dieses Jahr wider ein Crowdfunding gestartet, schaut es euch an und sichert euch dabei eines von vielen tollen Goodies!
+
+[Hier gehts zur Spendenseite!](https://www.crowdify.net/de/projekt/bring-the-protest-to-wef/project)
+
+---
+
 ## 🏛 Das Bundesgericht hat eine wichtige Entscheidung zum Schutz des Demonstrationsrechts getroffen! 🎉
 
 
@@ -26,7 +38,7 @@ Mehr Infos auf Instagram oder in der [Medienmitteilung](https://www.djs-jds.ch/d
 
 ---
 
-# 🚀❄️ Liebe Freund*innen des WEF-Widerstands!
+## 🚀❄️ Liebe Freund*innen des WEF-Widerstands!
 ## Der Winterwind weht bald und hoffentlich damit unsere Anti-WEF-Transparente auch! :) 🔥🧡💜
 ### Vom 18. bis 19. Januar 2025
 

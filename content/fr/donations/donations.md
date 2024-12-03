@@ -22,4 +22,10 @@ Les dons peuvent être versés sur ce compte :
 
 **CH82 0839 0039 9271 1000 0**
 
+---
+
+{{<twint>}}
+
+---
+
 Merci beaucoup!

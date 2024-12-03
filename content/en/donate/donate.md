@@ -22,4 +22,10 @@ Donations can be transferred to this account:
 
 **CH82 0839 0039 9271 1000 0**
 
+---
+
+{{<twint>}}
+
+---
+
 We thank you very much!

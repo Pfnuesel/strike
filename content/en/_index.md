@@ -9,6 +9,17 @@ We have created another registration form so that we can better estimate how man
 
 [Click here for the Form](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
 
+Are you from Germany and want to take part in the hike? Then click here to register with the [Solibus](https://kipppunkt-kollektiv.de/event/davos2025/)!
+
+---
+
+## Crowdfunding started! 🥳
+
+The hike needs money! For the gym, food, evening programme, first aid and much more.
+That's why we've started crowdfunding again this year, check it out and secure one of many great goodies!
+
+[Click here to go to the donation page!](https://www.crowdify.net/de/projekt/bring-the-protest-to-wef/project)
+
 ---
 
 ## 🏛️ The Federal Court has made an important decision protecting the right to demonstrate! 🎉
@@ -26,7 +37,7 @@ More information on Instagram or in the [media release](https://www.djs-jds.ch/d
 
 ---
 
-# 🚀❄️ Dear friends of the WEF resistance!
+## 🚀❄️ Dear friends of the WEF resistance!
 ## The winter wind will be blowing soon and our anti-WEF banners with it! :) 🔥🧡💜
 ### From 18. to 19. of January 2025
 

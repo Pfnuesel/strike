@@ -22,4 +22,10 @@ Gerne dürfen Spenden auf dieses Konto überwiesen werden:
 
 **CH82 0839 0039 9271 1000 0**
 
+---
+
+{{<twint>}}
+
+---
+
 Danke viel mal!

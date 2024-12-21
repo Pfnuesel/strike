@@ -125,6 +125,8 @@
                 href="//localhost:1313/fr/categories/"
                 />
   </url><url>
+    <loc>//localhost:1313/fr/info/awareness/</loc>
+  </url><url>
     <loc>//localhost:1313/fr/info/consensus/</loc>
   </url><url>
     <loc>//localhost:1313/fr/info/colisage/</loc>

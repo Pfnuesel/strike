@@ -95,6 +95,8 @@
   </url><url>
     <loc>//localhost:1313/de/infos/konsens/</loc>
   </url><url>
+    <loc>//localhost:1313/de/infos/anti/</loc>
+  </url><url>
     <loc>//localhost:1313/de/infos/antirep/</loc>
     <xhtml:link
                 rel="alternate"
@@ -105,6 +107,18 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="//localhost:1313/de/infos/antirep/"
+                />
+  </url><url>
+    <loc>//localhost:1313/de/infos/awareness/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/infos/awareness/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="//localhost:1313/de/infos/awareness/"
                 />
   </url><url>
     <loc>//localhost:1313/de/categories/</loc>

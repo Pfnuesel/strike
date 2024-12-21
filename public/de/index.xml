@@ -58,11 +58,25 @@
       <description>Hier gehts zum Aktionskonsens welcher während der Wanderung für alle gilt.</description>
     </item>
     <item>
+      <title>Antinationales Statement</title>
+      <link>//localhost:1313/de/infos/anti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/infos/anti/</guid>
+      <description>Statement gegen nationalistisches Gedankengut.</description>
+    </item>
+    <item>
       <title>Antirep</title>
       <link>//localhost:1313/de/infos/antirep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/de/infos/antirep/</guid>
       <description>Hier gibt es alle wichtigen rechtlichen Hinweise, welche während der Wanderung relevant sein könnten.</description>
+    </item>
+    <item>
+      <title>Awareness Konzept</title>
+      <link>//localhost:1313/de/infos/awareness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/de/infos/awareness/</guid>
+      <description>Hier findest du unser Awarenesskonzept und alles was dazugehört.</description>
     </item>
     <item>
       <title>Packliste</title>

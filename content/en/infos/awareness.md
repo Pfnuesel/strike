@@ -10,26 +10,34 @@ menu:
 ---
 _The following text was translated with DeepL_
 
-Awareness is a concept that opposes all forms of discrimination, violence and border crossings. Everyone present should be given barrier-free access to protest. Offensive and border-crossing behaviour, such as sexist, racist, anti-Semitic, queer-hostile, anti-Muslim, ableist, classist or other attacks, will not be tolerated at the Strike WEF hike.
+Awareness is a concept against all forms of discrimination, violence and border crossings. 
 
-Throughout the protest walk - from Saturday to Sunday - an awareness team will be available and easily recognisable to assist with any problems or forms of discrimination experienced by any of the participants.
+All people present should be given low-barrier access to the protest. Offensive and border-crossing behaviour, such as sexist, racist, anti-Semitic, queer-hostile, anti-Muslim, ableist, classist and any form of assault, physical as well as psychological violence will not be tolerated at the Strike WEF hike.
 
-You can come to us if you feel uncomfortable, have experienced discriminatory, transgressive or hurtful behaviour, have experienced stressful events or simply need someone to listen to you.
+During the entire protest walk - from Saturday to Sunday - an awareness team will be available and easily recognisable. The team will be there to provide support in the event of problems, e.g. discrimination experienced by a participant or the observation of a situation.
+
+You can come to us if you feel uncomfortable, have experienced or observed discriminatory, transgressive or hurtful behaviour, have experienced stressful events or need someone to listen to you.
 
 None of us is free from prejudice and discrimination when dealing with others. We can only create a safer space together. For this to succeed, each and every one of us is responsible for reflecting on our own behaviour and our own privileges.
 
----
-
-## Where can you find the awareness team?
-The awareness team can be recognised during the walk by the COLOUR OR SYMBOL they wear on their jackets. The team will be spread out during the hike.
+The awareness team will endeavour to support you with any kind of problem and can refer you to the right contact person depending on the situation. For example, a paramedic team is available for medical emergencies and if emotional support is needed, psychologists from ‘Psychologists for Future’ can be contacted. 
 
 ---
 
-## Awareness concept
-1. discrimination will not be tolerated in any way.
-2. respect the boundaries of other hikers, including any physical contact, and obtain their consent.
-3. alcohol and drugs can be consumed during the hike, but please be mindful of when and how you consume them.
-4. if you take photos of other hikers, please ask permission.
-5. be open to new ideas, exchanges and people.
-6. support each other when it comes to finding the right kind of help for people.
-7. no violence against other walkers or members of the public during the walk.
+## How do you find the awareness team?
+The awareness team can be recognised during the hike by the orange vest they will be wearing on their jackets. The team will be spread out in the crowd during the hike.
+
+---
+
+## Guidelines 
+
+To ensure that we all have a successful strike hike, we all adhere to these guidelines:
+
+- Discrimination will not be tolerated in any way.
+- We respect the boundaries of other hikers. Only a yes is a yes. It is better to say yes once too often. In other words, even with any physical contact, obtain the consent of the other person beforehand. -> No is a full sentence.
+- If we take photos of other hikers, we ask for permission beforehand.
+- We are open to new ideas, people and consensus-based exchanges.
+- We support each other. Even when it comes to finding the right kind of help for people.
+- We do not tolerate violence against other hikers or members of the public during the hike.
+- Alcohol and drugs should only be consumed during the hike in a mindful, considerate and responsible manner. 
+    - The gyms we will be staying in are located on the school grounds, therefore the consumption of alcohol, drugs and smoking is prohibited on the entire site. 

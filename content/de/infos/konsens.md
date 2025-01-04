@@ -3,6 +3,7 @@ title: "Aktionskonsens"
 authorbox: false
 sidebar: true
 summary: 'Hier gehts zum Aktionskonsens welcher während der Wanderung für alle gilt.'
+toc: false
 menu: 
     main:
         parent: Infos

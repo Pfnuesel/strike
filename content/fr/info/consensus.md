@@ -3,6 +3,7 @@ title: "Consensus d'Action"
 authorbox: false
 sidebar: true
 summary: "Cliquez ici pour accéder au consensus d'action qui s'applique à tous pendant la randonnée."
+toc: false
 menu: 
     main:
         parent: Info

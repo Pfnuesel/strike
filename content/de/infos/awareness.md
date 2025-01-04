@@ -3,6 +3,7 @@ title: "Awareness Konzept"
 authorbox: false
 sidebar: true
 summary: 'Hier findest du unser Awarenesskonzept und alles was dazugehört.'
+toc: false
 menu: 
     main:
         parent: Infos

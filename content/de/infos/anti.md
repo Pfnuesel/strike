@@ -3,6 +3,7 @@ title: "Antinationales Statement"
 authorbox: false
 sidebar: true
 summary: 'Statement gegen nationalistisches Gedankengut.'
+toc: false
 menu: 
     main:
         parent: Infos

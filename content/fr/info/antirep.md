@@ -3,6 +3,7 @@ title: "Antirep"
 authorbox: false
 sidebar: true
 summary: "Vous trouverez ici toutes les informations juridiques importantes qui pourraient être pertinentes pendant la randonnée."
+toc: false
 menu: 
     main:
         parent: Info

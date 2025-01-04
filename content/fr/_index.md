@@ -1,7 +1,14 @@
 +++
 title = 'Home'
 draft = false
+[menu] 
+    [menu.main]
+        pre = '<i class="fa-solid fa-code"></i>'
+        weight = 1
 +++
+*Différents textes en français ont été traduits à l'aide de DeepL. Nous nous excusons pour les erreurs !*
+
+---
 
 ## Inscription
 
@@ -19,6 +26,14 @@ La randonnée a besoin d'argent ! Pour le gymnase, les repas, le programme de la
 C'est pourquoi nous avons lancé cette année encore un crowdfunding, regardez-le et assurez-vous par la même occasion de recevoir l'un des nombreux goodies fantastiques !
 
 [Cliquez ici pour accéder à la page des dons](https://www.crowdify.net/de/projekt/bring-the-protest-to-wef/project)
+
+---
+
+## Avec les skis contre le WEF !
+
+Le 1er jour, samedi 18.01.24, les gens peuvent aussi venir chez nous à Klosters par la montagne avec un tour à ski !
+
+![Ski-Tour Flyer](/img/mountain_hike.jpg)
 
 ---
 

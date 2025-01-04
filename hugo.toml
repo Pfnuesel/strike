@@ -6,7 +6,9 @@ defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
 
 [Params]
+	description = "Webseite von Strike WEF - Winterwanderung gegen das WEF nach Davos" # Site description. Used in meta description
 	pager = true
+	toc = true # Enable Table of Contents
 
 [Params.style.vars]
   highlightColor = "#9d7ad2"

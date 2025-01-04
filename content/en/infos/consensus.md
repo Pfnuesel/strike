@@ -3,6 +3,7 @@ title: "Action Consensus"
 authorbox: false
 sidebar: true
 summary: "Click here for the action consensus which applies to everyone during the hike."
+toc: false
 menu: 
     main:
         parent: Infos

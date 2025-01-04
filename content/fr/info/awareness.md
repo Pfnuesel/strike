@@ -2,6 +2,7 @@
 title: "Concept de sensibilisation"
 authorbox: false
 sidebar: true
+toc: false
 summary: 'Vous trouverez ici notre concept de sensibilisation et tout ce qui s y rapporte.'
 menu: 
     main:

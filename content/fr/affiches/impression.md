@@ -3,6 +3,7 @@ title = 'Affiche et Flyer'
 date = 2023-11-23T15:00:51+01:00
 draft = false
 sidebar = true
+toc = false
 [menu] 
     [menu.main]
         pre = '<i class="fa-solid fa-code"></i>'

@@ -1,6 +1,10 @@
 +++
 title = 'Home'
 draft = false
+[menu] 
+    [menu.main]
+        pre = '<i class="fa-solid fa-code"></i>'
+        weight = 1
 +++
 
 ## Anmeldung
@@ -19,6 +23,14 @@ Die Wanderung braucht Geld! Für Turnhalle, Essen, Abendprogramm, Sanität und v
 Darum haben wir dieses Jahr wider ein Crowdfunding gestartet, schaut es euch an und sichert euch dabei eines von vielen tollen Goodies!
 
 [Hier gehts zur Spendenseite!](https://www.crowdify.net/de/projekt/bring-the-protest-to-wef/project)
+
+---
+
+## Mit den Ski gegen das WEF!
+
+Am 1. Tag, Samstag 18.01.24, können Menschen auch über die Berge mit einer Ski-Tour zu uns auf Klosters kommen!
+
+![Ski-Tour Flyer](/img/mountain_hike.jpg)
 
 ---
 

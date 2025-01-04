@@ -3,6 +3,7 @@ title: "Antirep"
 authorbox: false
 sidebar: true
 summary: "Here you will find all the important legal information that could be relevant during the hike."
+toc: false
 menu:
     main:
         parent: Infos

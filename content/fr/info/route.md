@@ -30,6 +30,12 @@ menu:
 - Longueur : 12km
 - Dénivelé : 730m
 
+### Gares sur la route
+*Les horaires sont estimés. Il est possible que nous arrivions aux gares un peu plus tard ou un peu plus tôt*.
+
+- Saas im Prättigau
+    - ca. 12:00-13:00
+
 ---
 
 ## Dimanche
@@ -47,6 +53,16 @@ menu:
 
 - Longueur : 14km
 - Dénivelé : 622m
+
+### Gares sur la route
+*Les horaires sont estimés. Il est possible que nous arrivions aux gares un peu plus tard ou un peu plus tôt*.
+
+- Cavadürli
+    - ca. 09:30
+- Davos Laret
+    - ca. 11:00-11:30
+- Davos Wolfgang
+    - ca. 13:30-14:00
 
 ---
 

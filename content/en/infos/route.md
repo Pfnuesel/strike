@@ -30,6 +30,12 @@ menu:
 - Length: 12km
 - Altitude difference: 730m
 
+### Train stations on the route
+*The times are estimated. It is possible that we will arrive a little later or earlier at the stations*
+
+- Saas im Prättigau
+    - ca. 12:00-13:00
+
 ---
 
 ## Sunday
@@ -47,6 +53,16 @@ menu:
 
 - Length: 14km
 - Altitude metres: 622m
+
+### Train stations on the route
+*The times are estimated. It is possible that we will arrive a little later or earlier at the stations*
+
+- Cavadürli
+    - ca. 09:30
+- Davos Laret
+    - ca. 11:00-11:30
+- Davos Wolfgang
+    - ca. 13:30-14:00
 
 ---
 

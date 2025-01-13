@@ -30,6 +30,12 @@ menu:
 - Länge: 12km
 - Höhenmeter: 730m
 
+### Bahnhöfe auf der Route
+*Die Zeiten sind geschätzt. Es ist möglich, dass wir etwas später oder früher an den Bahnhöfen eintreffen*
+
+- Saas im Prättigau
+    - ca. 12:00-13:00 Uhr
+
 ---
 
 ## Sonntag
@@ -47,6 +53,16 @@ menu:
 
 - Länge: 14km
 - Höhenmeter: 622m
+
+### Bahnhöfe auf der Route
+*Die Zeiten sind geschätzt. Es ist möglich, dass wir etwas später oder früher an den Bahnhöfen eintreffen*
+
+- Cavadürli
+    - ca. 09:30 Uhr
+- Davos Laret
+    - ca. 11:00-11:30 Uhr
+- Davos Wolfgang
+    - ca. 13:30-14:00 Uhr
 
 ---
 

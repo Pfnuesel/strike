@@ -16,7 +16,8 @@ We have created another registration form so that we can better estimate how man
 
 [Click here for the Form](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
 
-Are you from Germany and want to take part in the hike? Then click here to register with the [Solibus](https://kipppunkt-kollektiv.de/event/davos2025/)!
+Registration will close on 17.01, around 20:00. However, this does not mean that you should not come! 
+Under Info/Route&Times you will find all times to join us on Sunday!We look forward to seeing you!
 
 ---
 
@@ -29,11 +30,17 @@ That's why we've started crowdfunding again this year, check it out and secure o
 
 ---
 
-## With skis against the WEF!
+## Sleeping place situation
 
-On the 1st day, Saturday 18.01.24, people can also come to us in Klosters via the mountains on a ski tour!
+### Before/after the hike
 
-![Ski-Tour Flyer](/img/mountain_hike.jpg)
+The sleeping places are located in Zurich and are very limited and (unfortunately9 already overcrowded. Therefore, they are no longer available in the registration form.
+If you can find another place to sleep, we would be very grateful. If you can't find anything, please contact us by e-mail and we will try to find a solution
+
+### During the hike
+
+During the hike we have 2 gyms with space for up to 400 people. 
+One is located in Klosters and the second in the neighbouring village of Fideris. If you have a GA or Half-Fare travelcard, consider whether the second gym is suitable for you. This way, people with little money can save on a train ticket. We thank you for this!
 
 ---
 

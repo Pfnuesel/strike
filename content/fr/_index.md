@@ -16,7 +16,8 @@ Afin que nous puissions mieux évaluer le nombre de places de couchage et de nou
 
 [Cliquez ici pour vous inscrire](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
 
-Tu viens d'Allemagne et tu veux participer à la randonnée ? Alors c'est ici que tu peux t'inscrire avec le [Solibus](https://kipppunkt-kollektiv.de/event/davos2025/) !
+Les inscriptions seront closes le 17 janvier vers 20h00. Cela ne signifie pas pour autant que tu ne dois pas venir! 
+Sous Infos/Route&Heures tu trouveras toutes les heures pour nous rejoindre le dimanche ! Nous nous réjouissons de te voir!
 
 ---
 
@@ -29,11 +30,17 @@ C'est pourquoi nous avons lancé cette année encore un crowdfunding, regardez-l
 
 ---
 
-## Avec les skis contre le WEF !
+## La situation de dormir
 
-Le 1er jour, samedi 18.01.24, les gens peuvent aussi venir chez nous à Klosters par la montagne avec un tour à ski !
+### Avant/après la randonnée
 
-![Ski-Tour Flyer](/img/mountain_hike.jpg)
+Les places pour dormir se trouvent à Zurich et sont très limitées et (malheureusement9) déjà surchargées. C'est pourquoi ils ne figurent plus dans l'inscription.
+Si tu trouves un autre endroit où dormir, nous t'en serions très reconnaissants. Si tu ne trouves rien, contacte-nous par e-mail et nous essaierons de trouver une solution.
+
+### Pendant la randonnée
+
+Pendant la randonnée, nous avons deux gymnases pouvant accueillir jusqu'à 400 personnes. 
+L'un se trouve à Klosters et l'autre dans le village voisin de Fideris. Si tu as un AG ou un abonnement demi-tarif, réfléchis si le deuxième gymnase est envisageable pour toi. Ainsi, les personnes ayant peu d'argent peuvent s'épargner un billet de train. Nous t'en remercions !
 
 ---
 

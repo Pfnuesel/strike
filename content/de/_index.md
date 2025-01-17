@@ -13,7 +13,8 @@ Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht 
 
 [Hier gehts zur Anmeldung](https://cryptpad.fr/form/#/2/form/view/RZ26oYBpGnROlw1vbbMWYz0LoyyoRnucAUjT1RzCbGY/)
 
-Bist du aus Deutschland und willst an die Wanderung? Dann gehts hier zur Anmeldung mit dem [Solibus](https://kipppunkt-kollektiv.de/event/davos2025/)!
+Die Anmeldung wird am 17.01, gegen 20:00 geschlossen. Dies heisst jedoch nicht, dass du nicht kommen solltest! 
+Unter Infos/Route&Zeiten findest du alle Zeiten um am Sonntag dazu zustossen! Wir freuen uns dich zu sehen!
 
 ---
 
@@ -26,11 +27,17 @@ Darum haben wir dieses Jahr wider ein Crowdfunding gestartet, schaut es euch an 
 
 ---
 
-## Mit den Ski gegen das WEF!
+## Schlafplatzsituation
 
-Am 1. Tag, Samstag 18.01.24, können Menschen auch über die Berge mit einer Ski-Tour zu uns auf Klosters kommen!
+### Vor/Nach der Wanderung
 
-![Ski-Tour Flyer](/img/mountain_hike.jpg)
+Die Schlafplätze befinden sich in Zürich und sind sehr begrenzt und (leider9 bereits übervoll. Daher sind diese in der Anmeldung nicht mehr zu finden.
+Wenn du eine andere Schlafmöglichkeit findest wären wir dir sehr dankbar. Solltest du nichts finden Kontaktiere uns via Mail und wir versuchen eine Lösung zu finden
+
+### Während der Wanderung
+
+Während der Wanderung haben wir 2 Turnhallen mit Platz bis zu 400 Menschen. 
+Eine befindet sich in Klosters und die zweite im Nachbarsdorf Fideris. Wenn du ein GA oder Halbtax hast, überlege dir ob die zweite Turnhalle für dich in Frage kommt. So können Menschen mit wenig Geld, sich ein Zugbillet ersparen. Wir danken dir dafür!
 
 ---
 

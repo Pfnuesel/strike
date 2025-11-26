@@ -1,9 +1,13 @@
 baseURL = 'strikewef.org'
 languageCode = 'de-de'
 title = 'Strike WEF'
-theme = 'mainroad'
+theme = 'roadster'
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [Params]
 	description = "Webseite von Strike WEF - Winterwanderung gegen das WEF nach Davos" # Site description. Used in meta description
@@ -13,23 +17,23 @@ defaultContentLanguageInSubdir = true
 [Params.style.vars]
   highlightColor = "#FFCE00"
   fontFamilyPrimary = "'Helvetica'"
-
+  
 [Params.logo]
   image = "img/logo-yellow.svg" # Logo image. Path relative to "static"
- 
 
 [Params.sidebar]
 	home = "right"
-
 	widgets = ["social", "languages"]
-
+	
 [Params.widgets.social]
 	cached = false
-
 	instagram = "strike.wef"
 	telegram = "+2TxRe_-qBFE3MGFk"
 	email = "strike.wef@posteo.de"
-
+	
+[Params.widgets.languages]
+  cached = true
+  
 [languages]
   [languages.de]
     contentDir = 'content/de'
@@ -61,3 +65,4 @@ defaultContentLanguageInSubdir = true
     weight = 3
     [languages.fr.params]
       subtitle = '17. - 18. Janvier 2026'
+

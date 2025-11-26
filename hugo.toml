@@ -10,10 +10,6 @@ defaultContentLanguageInSubdir = true
 	pager = true
 	toc = true # Enable Table of Contents
 	
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 [Params.style.vars]
   highlightColor = "#FFCE00"
   fontFamilyPrimary = "'Helvetica'"

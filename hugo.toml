@@ -9,13 +9,17 @@ defaultContentLanguageInSubdir = true
 	description = "Webseite von Strike WEF - Winterwanderung gegen das WEF nach Davos" # Site description. Used in meta description
 	pager = true
 	toc = true # Enable Table of Contents
+	
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [Params.style.vars]
-  highlightColor = "#9d7ad2"
+  highlightColor = "#FFCE00"
   fontFamilyPrimary = "'Helvetica'"
 
 [Params.logo]
-  image = "img/logo-vio.svg" # Logo image. Path relative to "static"
+  image = "img/logo-yellow.svg" # Logo image. Path relative to "static"
  
 
 [Params.sidebar]
@@ -40,7 +44,7 @@ defaultContentLanguageInSubdir = true
     title = 'Strike WEF'
     weight = 1
     [languages.de.params]
-      subtitle = '18. - 19. Januar 2025'
+      subtitle = '17. - 18. Januar 2026'
   [languages.en]
     contentDir = 'content/en'
     disabled = false
@@ -50,7 +54,7 @@ defaultContentLanguageInSubdir = true
     title = 'Strike WEF'
     weight = 2
     [languages.en.params]
-      subtitle = '18. - 19. January 2025'
+      subtitle = '17. - 18. January 2026'
   [languages.fr]
     contentDir = 'content/fr'
     disabled = false
@@ -60,4 +64,4 @@ defaultContentLanguageInSubdir = true
     title = 'Strike WEF'
     weight = 3
     [languages.fr.params]
-      subtitle = '18. . 19. Janvier 2025'
+      subtitle = '17. - 18. Janvier 2026'

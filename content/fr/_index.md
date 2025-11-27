@@ -16,7 +16,9 @@ draft = false
 
 Pour mieux estimer le nombre de places de couchage, de repas nécessaires et pour mieux organiser la randonnée, il y aura à nouveau un formulaire d'inscription cette année.
 
-*Le formulaire est encore en cours de préparation et sera bientôt disponible ici.*
+**Les personnes qui viennent avec le Solibus n'ont pas besoin de s'inscrire**
+
+[Cliquez ici pour vous inscrire](https://cryptpad.fr/form/#/2/form/view/ljh1XTn4iCZhaxUNAOf1dyGHgsJ9wuPBW5CCCPFgWu8/p/)
 
 ---
 

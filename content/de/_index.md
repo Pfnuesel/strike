@@ -11,7 +11,9 @@ draft = false
 
 Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht und wir die Wanderung besser organisieren können, wird es auch dieses Jahr wieder ein Anmeldeformular geben.
 
-Das Formular ist gerade noch in Arbeit und wird bald hier verfügbar sein.
+**Menschen welche mit dem Solibus kommen müssen sich nicht Anmelden**
+
+[Hier gehts zur Anmeldung](https://cryptpad.fr/form/#/2/form/view/ljh1XTn4iCZhaxUNAOf1dyGHgsJ9wuPBW5CCCPFgWu8/p/)
 
 ---
 

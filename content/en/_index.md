@@ -14,7 +14,9 @@ draft = false
 
 This year there will again be a registration form so that we can better estimate how many sleeping places and food is needed and so that we can better organize the hike.
 
-*The form is currantly still under construction and will be available here soon.*
+**People who are coming with the Solibus do not need to register.**
+
+[Click here to register](https://cryptpad.fr/form/#/2/form/view/ljh1XTn4iCZhaxUNAOf1dyGHgsJ9wuPBW5CCCPFgWu8/p/)
 
 ---
 

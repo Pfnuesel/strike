@@ -18,7 +18,7 @@ Pour mieux estimer le nombre de places de couchage, de repas nécessaires et pou
 
 **Les personnes qui viennent avec le Solibus n'ont pas besoin de s'inscrire**
 
-[Cliquez ici pour vous inscrire](https://cryptpad.fr/form/#/2/form/view/ljh1XTn4iCZhaxUNAOf1dyGHgsJ9wuPBW5CCCPFgWu8/p/)
+[Cliquez ici pour vous inscrire](https://cryptpad.fr/form/#/2/form/view/FU0OTkWfERuJqUFqH6aitLkTNst4NdaZWGdRBmSAvDM/)
 
 ---
 

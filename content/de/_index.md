@@ -13,7 +13,7 @@ Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht 
 
 **Menschen welche mit dem Solibus kommen müssen sich nicht Anmelden**
 
-[Hier gehts zur Anmeldung](https://cryptpad.fr/form/#/2/form/view/ljh1XTn4iCZhaxUNAOf1dyGHgsJ9wuPBW5CCCPFgWu8/p/)
+[Hier gehts zur Anmeldung](https://cryptpad.fr/form/#/2/form/view/FU0OTkWfERuJqUFqH6aitLkTNst4NdaZWGdRBmSAvDM/)
 
 ---
 

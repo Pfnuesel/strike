@@ -22,15 +22,13 @@ Pour mieux estimer le nombre de places de couchage, de repas nécessaires et pou
 
 ---
 
-## 🚀❄️ Chers amis de la résistance au WEF !
-## Le vent d'hiver va bientôt souffler et nos bannières anti-WEF avec ! :) 🔥🧡💜
-### Du 17 au 18 janvier 2026
+## 💸❄️ Crowdfunding ❄️💸
 
-Malheureusement, le WEF n'est pas encore de l'histoire ancienne cette année non plus. Les capitalistes, dictateurs et autres exploiteurs de notre monde se serreront à nouveau la main à Davos autour d'un apéritif. Alors, qu'est-ce que nous attendons lorsqu'ils seront tous réunis ?
+Bien qu'une grande partie de notre travail repose sur la solidarité et que nous dépendions de la collaboration de nombreux bénévoles et collectifs, nous avons chaque année des frais que nous ne pouvons couvrir que grâce au financement participatif.
 
-Allons-y, partons en randonnée hivernale contre le WEF ! Mais pour cela, nous avons besoin de ton soutien : nous avons besoin de personnes motivées pour organiser l'infrastructure, la mobilisation, les médias sociaux, les finances, etc. Nous ne pouvons pas le faire sans toi et tu n'as pas besoin d'expérience préalable pour nous rejoindre.
+❤️Nous comptons sur vous et vous sommes reconnaissants pour chaque contribution !❤️
 
-Tu veux nous aider à abolir le WEF ? Alors écris-nous un MP ou un email à (strike.wef@posteo.de). Nous attendons ton message avec impatience !
+{{<crowdify>}}
 
 ---
 

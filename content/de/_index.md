@@ -17,17 +17,13 @@ Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht 
 
 ---
 
-## 🚀❄️ Liebe Freund*innen des WEF-Widerstands!
-## Der Winterwind weht bald und hoffentlich damit unsere Anti-WEF-Transparente auch! :) 🔥💛💚
-### Vom 17. bis 18. Januar 2026
+## 💸❄️ Crowdfunding gestartet! ❄️💸
 
-Leider ist das WEF auch dieses Jahr noch nicht Geschichte. Kapitalisten, Diktatoren und andere Ausbeutende dieser Welt schütteln sich in Davos beim Aperitif die Pfoten. Also, worauf warten, wenn sie alle beisammen sind?
+Obwohl ein Grossteil unserer Arbeit auf Solidarität basiert und wir auf die Zusammenarbeit vieler Freiwilliger und Kollektive angewiesen sind, gibt es jedes Jahr Kosten, die wir nur durch Crowdfunding decken können
 
-Auf geht’s, los geht’s an die Winterwanderung gegen das WEF!!Doch dafür brauchen wir Unterstützung: Für die Organisation von Infrastruktur, Mobilisierung, Social Media, Finanzen etc. brauchen wir motivierte Menschen. Ohne euch können wir diese Aktion nicht umsetzen.
+❤️Wir sind auf euch angewiesen und dankbar für jeden Beitrag!❤️
 
-Hast du Lust, mit uns das WEF abzuschaffen? Dann schreib uns eine PM oder eine Mail an (strike.wef@posteo.de).
-
-Wir freuen uns auf deine Nachricht!
+{{<crowdify>}}
 
 ---
 

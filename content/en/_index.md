@@ -20,18 +20,13 @@ This year there will again be a registration form so that we can better estimate
 
 ---
 
-## 🚀❄️ Dear friends of the WEF resistance!
-## The winter wind will be blowing soon and our anti-WEF banners with it! :) 🔥🧡💜
-### From 17. to 18. of January 2026
+## 💸❄️ Crowdfunding launched! ❄️💸
 
+Although much of our work is based on solidarity and we rely on the cooperation of many volunteers and collectives, there are costs every year that we can only cover through crowdfunding.
 
-Unfortunately, the WEF is not history yet this year either. Capitalists, dictators and other exploiters of our world will once again be shaking hands in Davos over an aperitif. So, what are we waiting for when they are all together?
+❤️We depend on you and are grateful for every contribution!❤️
 
-
-Let's go, let's go on a winter hike against the WEF! But for that we need your support: we need motivated people to organise infrastructure, mobilisation, social media, finances, etc. We can't do this without you and you don't need any previous experience to join.
-
-
-Do you want to help us abolish the WEF? Then write us a PM or an email to (strike.wef@posteo.de). We look forward to your message!
+{{<crowdify>}}
 
 ---
 

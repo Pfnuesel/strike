@@ -16,6 +16,12 @@ toc = false
 
 ---
 
+## 2026
+### Poster German - [Download](/files/Poster2026.pdf)
+![Poster 2026](/img/Poster2026.png)
+
+---
+
 ## 2025
 ### Poster Englisch - [Download](/files/strike_wef_plakat.pdf)
 ![Poster 2024](/img/strike_wef_plakat.jpg)

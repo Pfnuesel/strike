@@ -13,12 +13,17 @@ toc = false
 ### Hier sind Flyer und Poster für eigenes Ausdrucken und Gebrauchen
 
 **Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)**
+---
+
+## 2026
+### Plakat Deutsch - [Download](/files/Poster2026.pdf)
+![Poster 2026](/img/Poster2026.png)
 
 ---
 
 ## 2025
 ### Plakat Englisch - [Download](/files/strike_wef_plakat.pdf)
-![Poster 2024](/img/strike_wef_plakat.jpg)
+![Poster 2025](/img/strike_wef_plakat.jpg)
 
 
 ---

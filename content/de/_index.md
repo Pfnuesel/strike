@@ -41,11 +41,15 @@ Die Zahl der Milliardäre sowie deren Vermögen ist gestiegen, die Armen wurden 
 
 Der Neoliberalismus verschärft diese Krisen nicht nur - er stellt eine ernsthafte Bedrohung für die Zukunft der Menschheit dar. Das Weltwirtschaftsforum trägt zur Stabilisierung bestehender Macht- und Wirtschaftsstrukturen bei, anstatt dass es wirksame Antworten auf globale Krisen liefert.
 
-### WEF = Greenwashing
+### Alle gegen Militarismus
 
-Das WEF nimmt eine zentrale Rolle im globalen Kapitalismus ein, indem es wirtschaftliche und ökologische Probleme grün wäscht.
+Krieg bedeutet immer: Arbeitsklasse gegen Arbeitsklasse. Während politische und wirtschaftliche Eliten aus sicherer Distanz entscheiden, zahlen Menschen und Umwelt den Preis. Das lehnen wir ab. Mit ethischen und ökologischen Grundsätzen ist Militär unvereinbar. Frieden den Hütten – Krieg den Palästen.
 
-Indem Spitzenmanagerinnen globaler Konzerne wie Amazon, Nestlé, Glencore und UBS in Davos mit Politiker:innen, Medienvertreter:innen und Prominenten aufeinandertreffen, gelingt es diesen Unternehmen, sich als Vorreiter darzustellen. Dabei geht es in den eigentlichen Diskussionen vor allem darum, wie das Wirtschaftswachstum im Sinne einiger weniger weiter gefördert werden kann.
+Auch die Schweiz ist weniger neutral und friedlich, als sie sich darstellt. Die Armee dient zunehmend als teure Arbeitsbeschaffungsmassnahme, etwa beim Schutz globaler Eliten am WEF, während bewaffnete Einsätze historisch gegen die eigene Bevölkerung gerichtet waren. Trotzdem sollen Militärausgaben massiv steigen – trotz Skandalen, Fehlinvestitionen und fehlender demokratischer Transparenz.
+
+Dabei macht die Rüstungsindustrie nur einen winzigen Teil der Schweizer Wirtschaft aus. Gleichzeitig profitieren Schweizer Konzerne vom Rohstoffhandel, von Waffenexporten und von globalen Konflikten. Militär und Kriege zerstören Lebensräume und heizen die Klimakrise an, ohne in Emissionsbilanzen zu erscheinen.
+
+Wir fordern einen Systemwandel: Milliarden für Klimaschutz, soziale Gerechtigkeit und globale Solidarität – nicht für Aufrüstung.
 
 ### In Davos zu protestieren heisst, das symbolische Zentrum des Neoliberalismus zu treffen.
 
@@ -66,22 +70,6 @@ Alle wichtigen Informationen zur Teilnahme an der Demonstration findest du auf u
 Willst du dem Kollektiv beitreten und bei der Organisation mithelfen? Super! Schick uns eine E-Mail an strike.wef@posteo.de und wir melden uns bei dir.
 
 **People Power not Corporate Power!**
-
----
-
-## 🏛 Das Bundesgericht hat eine wichtige Entscheidung zum Schutz des Demonstrationsrechts getroffen! 🎉
-
-
-Im 2023 erstatten wir Beschwerde gegen die Auflagen der damaligen Strike WEF Winterwanderung.
-Die Behörden verweigerten uns eine Angemessene Route, und sendeten uns auf nicht Sichtbare Wanderwege.
-
-Wir protestieren nicht für uns selbst, sondern um denen, die glauben, Geld und Macht könnten sie schützen, zu zeigen, dass wir nicht stillschweigend zusehen werden.
-
-Und jetzt gibt uns das Bundesgericht nun Grundlegend Recht. Protest muss Sichtbar sein!
-
-Ein wichtiger Sieg, aber das reicht uns nicht. Wir brauchen so viele Menschen wie möglich, die den Reichen und Mächtigen zeigen, dass wir das #Worldeconomicfailure bekämpfen werden.
-
-Mehr Infos auf Instagram oder in der [Medienmitteilung](https://www.djs-jds.ch/de/djs-schweiz/aktivitaeten/medienmittteilungen/bundesgericht-bestaetigt-unzulaessiger-eingriff-in-die-meinungs-und-versammlungsfreiheit-durch-buendner-behoerden-die-wef-winderwanderung-haette-auf-der-kantonsstrasse-bewilligt-werden-muessen) der Demokratischen Jurist*innen Schweiz!
 
 ---
 

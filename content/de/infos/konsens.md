@@ -10,7 +10,7 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-### Aktionskonsens WEF Wanderung 2024
+### Aktionskonsens WEF Wanderung 2026
 
 
 Damit die Winterwanderung für alle Teilnehmer*innen möglichst sicher und zugänglich ist, haben wir einen Aktionskonsens ausgearbeitet. Als Aktion des friedlichen, zivilen Protests, gegen das World Economic Forum (WEF), müssen wir auf einander acht geben und wollen deshalb unser handeln nach folgenden Grundsätzen richten:

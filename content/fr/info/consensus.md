@@ -10,7 +10,7 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-### Consensus d'action Randonnée WEF 2024
+### Consensus d'action Randonnée WEF 2026
 
 Afin de rendre la randonnée hivernale aussi sûre et accessible que possible pour tous les participant·e·x, nous avons développé un consensus d'action. En tant que manifestation citoyenne pacifique contre le Forum économique mondial (WEF), nous devons prendre soin les uns des autres et nous voulons donc baser nos actions sur les principes suivants :
 

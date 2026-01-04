@@ -30,6 +30,8 @@ defaultContentLanguageInSubdir = true
 	instagram = "strike.wef"
 	telegram = "+2TxRe_-qBFE3MGFk"
 	email = "strike.wef@posteo.de"
+	mastodon = "https://climatejustice.social/@strikewef"
+ 
 	
 [Params.widgets.languages]
   cached = true

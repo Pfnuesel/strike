@@ -10,7 +10,7 @@ menu:
         pre: <i class="fa-solid fa-code"></i>
 ---
 
-### Action consensus WEF hike 2024
+### Action consensus WEF hike 2026
 
 To ensure that the winter hike is as safe and accessible as possible for all participants, we have drawn up an action consensus. As an action of peaceful, civil protest against the World Economic Forum (WEF), we must take care of each other and therefore want to base our actions on the following principles:
 

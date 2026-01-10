@@ -34,7 +34,7 @@ Das Awarenesss Team kann während der Wanderung an der Orange Veste erkannt werd
 Damit wir alle eine gelungene Streik Wanderung erleben können halten wir uns alle an diese Richtlinien:
 
 - Diskriminierung wird in keiner Weise geduldet.
-- Wir respektieren die Grenzen anderer Wanderer. Nur ein Ja ist ein Ja. Lieber einmal zu viel nach. D.h. Auch bei jeglichem Körperkontakt, vorher das Einverständnis des Gegenübers einholen. -> Nein ist ein voller Satz.
+- Wir respektieren die Grenzen anderer Wanderer. Nur Ja heisst Ja! Lieber einmal zu viel nachfragen als einmal zu wenig. D.h. Auch bei jeglichem Körperkontakt, vorher das Einverständnis des Gegenübers einholen. -> Nein ist ein voller Satz.
 - Wenn wir andere Wandernde fotografieren, fragen wir vorher um Erlaubnis.
 - Wir sind offen für neue Ideen, Menschen und auf Konsens basierten Austauschen.
 - Wir unterstützen einander gegenseitig. Auch wenn es darum geht, die richtige Art von Hilfe für Menschen zu finden.

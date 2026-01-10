@@ -7,7 +7,7 @@ draft = false
         weight = 1
 +++
 
-## Anmeldung
+# Anmeldung
 
 Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht und wir die Wanderung besser organisieren können, wird es auch dieses Jahr wieder ein Anmeldeformular geben.
 
@@ -17,7 +17,7 @@ Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht 
 
 ---
 
-## 💸❄️ Crowdfunding gestartet! ❄️💸
+# 💸❄️ Crowdfunding gestartet! ❄️💸
 
 Obwohl ein Grossteil unserer Arbeit auf Solidarität basiert und wir auf die Zusammenarbeit vieler Freiwilliger und Kollektive angewiesen sind, gibt es jedes Jahr Kosten, die wir nur durch Crowdfunding decken können
 
@@ -27,11 +27,11 @@ Obwohl ein Grossteil unserer Arbeit auf Solidarität basiert und wir auf die Zus
 
 ---
 
-## Was ist das Weltwirtschaftsforum?
+# Was ist das Weltwirtschaftsforum?
 
 Das Weltwirtschaftsforum (WEF) ist ein jährliches Treffen von Vertreterinnen der globalen Elite. Führungspersönlichkeiten aus Politik, Wirtschaft, Medien, Zivilgesellschaft, Lobbyorganisationen und dem öffentlichen Leben kommen im Januar in Davos zu einer fünftägigen Konferenz zusammen, die von strengen Militärischen Sicherheitsmassnahmen begleitet wird. Das WEF inszeniert sich als globale, unabhängige und gemeinnützige Plattform, die den respektvollen Dialog zwischen Entscheidungsträger:innen mit unterschiedlichen Überzeugungen und Perspektiven fördern und so behaupten zur Verbesserung der Weltlage beizutragen.
 
-### Wir sagen Bullshit!
+## Wir sagen Bullshit!
 
 Das WEF ist alles andere als neutral. Es wurde vor über 50 Jahren von dem mittlerweile in Ungnade gefallenen Klaus Schwab gegründet und von beginn an verfolgt es das Ziel, den Neoliberalismus, eine moderne Form des Kapitalismus, von den USA nach Europa zu bringen. Der Neoliberalismus beruht auf der Überzeugung, dass der „freie Markt“ - eigentlich gemeint grosse Konzerne - wichtiger sind als das Wohl der Gesellschaft. Das Ziel: Möglichst hohe Gewinne für Unternehmen und extrem Reiche. Für alle anderen bleibt nur das, was angeblich „von oben nach unten durchsickert“.
 
@@ -41,7 +41,7 @@ Die Zahl der Milliardäre sowie deren Vermögen ist gestiegen, die Armen wurden 
 
 Der Neoliberalismus verschärft diese Krisen nicht nur - er stellt eine ernsthafte Bedrohung für die Zukunft der Menschheit dar. Das Weltwirtschaftsforum trägt zur Stabilisierung bestehender Macht- und Wirtschaftsstrukturen bei, anstatt dass es wirksame Antworten auf globale Krisen liefert.
 
-### Alle gegen Militarismus
+## Alle gegen Militarismus
 
 Krieg bedeutet immer: Arbeitsklasse gegen Arbeitsklasse. Während politische und wirtschaftliche Eliten aus sicherer Distanz entscheiden, zahlen Menschen und Umwelt den Preis. Das lehnen wir ab. Mit ethischen und ökologischen Grundsätzen ist Militär unvereinbar. Frieden den Hütten – Krieg den Palästen.
 
@@ -51,7 +51,7 @@ Dabei macht die Rüstungsindustrie nur einen winzigen Teil der Schweizer Wirtsch
 
 Wir fordern einen Systemwandel: Milliarden für Klimaschutz, soziale Gerechtigkeit und globale Solidarität – nicht für Aufrüstung.
 
-### In Davos zu protestieren heisst, das symbolische Zentrum des Neoliberalismus zu treffen.
+## In Davos zu protestieren heisst, das symbolische Zentrum des Neoliberalismus zu treffen.
 
 Strike WEF ist eine zweitägige Protestwanderung, die Hunderte von Menschen aus der ganzen Schweiz, Deutschland, Europa und indigenen Gemeinschaften in Peru zusammenbringt. Die Aktion fand erstmals 2020 statt und steht für eine lange Tradition des Widerstands gegen kapitalistische Strukturen.
 
@@ -63,7 +63,7 @@ Die Kernziele des Protests sind:
 
 3. Ein starkes Zeichen für globale Menschenrechte und den Schutz unserer Ökologie zu setzen.
 
-### Mach mit am 17. und 18. Januar 2026
+## Mach mit am 17. und 18. Januar 2026
 
 Alle wichtigen Informationen zur Teilnahme an der Demonstration findest du auf unseren Kanälen. Ab September veröffentlichen wir dort regelmässig Updates zur Demo 2026.
 

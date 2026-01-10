@@ -442,7 +442,8 @@ select {
 	font-size: .875rem;
 	font-weight: 700;
 	line-height: 1;
-	color: {{ $highlightColor }};
+	color: white;
+	/*color: {{ $highlightColor }};*/
 	border-top: 1px solid #ebebeb;
 }
 

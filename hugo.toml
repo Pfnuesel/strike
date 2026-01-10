@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = true
 	toc = true # Enable Table of Contents
 	
 [Params.style.vars]
-  highlightColor = "#FFCE00"
+  highlightColor = "#6b5600"
   fontFamilyPrimary = "'Helvetica'"
   
 [Params.logo]

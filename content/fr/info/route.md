@@ -29,9 +29,9 @@ Le dernier train pour Fideris partira à **23h27** de Klosters Dorf. Comme il n'
 
 ## Itinéraire dimanche
 ### Lieux de rendez-vous
-10h30 Klosters
+10h00 Klosters
     ou
-11h15 Davos Larett
+**10h45 Davos Larett**
 
 ### Déroulement
 Nous nous réunirons à Klosters ou, pour ceux qui arriveront plus tard, à Davos Larett, puis nous nous rendrons ensemble à Davos pour la manifestation.

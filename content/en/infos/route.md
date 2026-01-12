@@ -29,9 +29,9 @@ The last train to Fideris will leave Klosters village at **11:27 p.m.**. As ther
 
 ## Route Sunday
 ### Meeting points
-10:30 a.m. Klosters
+10:00 a.m. Klosters
     or
-11:15 Davos Larett
+**10:45 Davos Larett** for people joining on sunday!
 
 ### Schedule
 We will meet in Klosters, or if arriving later, in Davos Larett, and then travel together to Davos for the rally.

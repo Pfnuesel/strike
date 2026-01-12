@@ -30,9 +30,9 @@ Der letzte Zug nach Fideris wird um **23:27Uhr** in Klosters Dorf fahren. Da es 
 
 ## Route Sonntag
 ### Treffpunkte
-10:30 Klosters
+10:00 Klosters 
     oder
-11:15 Davos Larett
+**10:45 Davos Larett** für Menschen welche am Sonntag dazustossen
 
 ### Ablauf
 Wir werden in Klosters, oder bei einer späteren Anreise, in Davos Larett uns besammeln und dann gemeinsam nach Davos an die Platzkundgebung.

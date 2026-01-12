@@ -7,9 +7,18 @@ draft = false
         weight = 1
 +++
 
+# Die Route ist da!
+Wir haben die definitive Bewilligung erhalten und alle Zeiten etc. sind [aufgeschaltet](./infos/route.md)!
+
+---
+
 # Anmeldung
 
 Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht und wir die Wanderung besser organisieren können, wird es auch dieses Jahr wieder ein Anmeldeformular geben.
+
+Bald sind alle Turnhallen voll! Bei der Planung gab ein Missgeschick und es wird warscheinlich nicht für alle Menschen Platz haben im Shuttle. 
+Wenn Menschen ein GA etc. haben wären wir mega Dankbar wenn diese den Zug nehmen könnten. Billett Preise können auch zurückerstattet werden. <3 
+*Mehr Infos unter Infos -> Route.*
 
 **Menschen welche mit dem Solibus kommen müssen sich nicht Anmelden**
 
@@ -17,7 +26,7 @@ Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht 
 
 ---
 
-# 💸❄️ Crowdfunding gestartet! ❄️💸
+# 💸❄️ Crowdfunding läuft! ❄️💸
 
 Obwohl ein Grossteil unserer Arbeit auf Solidarität basiert und wir auf die Zusammenarbeit vieler Freiwilliger und Kollektive angewiesen sind, gibt es jedes Jahr Kosten, die wir nur durch Crowdfunding decken können
 

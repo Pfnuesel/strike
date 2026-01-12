@@ -10,11 +10,18 @@ draft = false
 
 ---
 
+# L'itinéraire est prêt !
+Nous avons reçu l'autorisation définitive et tous les horaires, etc. sont [en ligne](./info/route.md)!
+
+---
+
 ## Inscription
 
-
-
 Pour mieux estimer le nombre de places de couchage, de repas nécessaires et pour mieux organiser la randonnée, il y aura à nouveau un formulaire d'inscription cette année.
+
+Bientôt, toutes les salles de sport seront pleines ! Il y a eu un contretemps lors de la planification et il n'y aura probablement pas assez de place pour tout le monde dans la navette.
+Si vous avez un abonnement général, etc., nous vous serions très reconnaissants de bien vouloir prendre le train. Les prix des billets peuvent également être remboursés. <3
+*Plus d'informations sous Infos -> Itinéraire.*
 
 **Les personnes qui viennent avec le Solibus n'ont pas besoin de s'inscrire**
 

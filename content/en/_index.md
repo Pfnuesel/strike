@@ -10,9 +10,18 @@ draft = false
 
 ---
 
+# The route is here!
+We have received final approval and all times etc. are [posted](./infos/route.md)!
+
+---
+
 ## Registration 
 
 This year there will again be a registration form so that we can better estimate how many sleeping places and food is needed and so that we can better organize the hike.
+
+Soon all the gyms will be full! There was a mishap during planning and there probably won't be enough room for everyone on the shuttle.
+If people have a GA travelcard, etc., we would be very grateful if they could take the train. Ticket prices can also be refunded. <3
+*More information under Info -> Route.*
 
 **People who are coming with the Solibus do not need to register.**
 

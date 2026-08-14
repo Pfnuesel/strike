@@ -1,5 +1,5 @@
 ---
-title: "Antinationales Statement"
+title: "Antinationales Statement 2026"
 authorbox: false
 sidebar: true
 summary: 'Statement gegen nationalistisches Gedankengut.'

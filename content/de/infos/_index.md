@@ -9,4 +9,4 @@ draft = false
         weight = 2
 +++
 
-## Hier findest du alle Infos zur Wanderung und zu deinen Rechten.
+Hier findest du alle Infos zur **Wanderung 2026** und zu deinen Rechten.

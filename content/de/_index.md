@@ -7,35 +7,15 @@ draft = false
         weight = 1
 +++
 
-# Die Route ist da!
-Wir haben die definitive Bewilligung erhalten und alle Zeiten etc. sind [aufgeschaltet](./infos/route.md)!
+# Protestwanderung 2027
+
+Wir organisieren jährlich eine Protestwanderung gegen das Weltwirtschaftsforum. Die nächste Protestwanderung wird am **16. + 17. Januar 2027** stattfinden. 
+
+Wenn du aus Deutschland kommst, kannst du auch mit der **Bildungsreise von StrikeWEF North** zu unserer Wanderung dazustoßen. Alle Infos hierzu findest du unter [Bildungsreise](https://strikewef.org/de/bildungsreise/).
+
+Sobald wir mehr Infos teilen können, werden wir sie auf der Webseite, auf [Instagram](https://www.instagram.com/strike.wef) und auf [Telegram](https://t.me/+2TxRe_-qBFE3MGFk) veröffentlichen. **Stay tuned!**
 
 ---
-
-# Anmeldung
-
-Damit wir besser einschätzen können wie viele Schlafplätze, Essen es braucht und wir die Wanderung besser organisieren können, wird es auch dieses Jahr wieder ein Anmeldeformular geben.
-
-Bald sind alle Turnhallen voll! Bei der Planung gab ein Missgeschick und es wird warscheinlich nicht für alle Menschen Platz haben im Shuttle. 
-Wenn Menschen ein GA etc. haben wären wir mega Dankbar wenn diese den Zug nehmen könnten. Billett Preise können auch zurückerstattet werden. <3 
-*Mehr Infos unter Infos -> Route.*
-
-**Menschen welche mit dem Solibus kommen müssen sich nicht Anmelden**
-
-[Hier gehts zur Anmeldung](https://cryptpad.fr/form/#/2/form/view/FU0OTkWfERuJqUFqH6aitLkTNst4NdaZWGdRBmSAvDM/)
-
----
-
-# 💸❄️ Crowdfunding läuft! ❄️💸
-
-Obwohl ein Grossteil unserer Arbeit auf Solidarität basiert und wir auf die Zusammenarbeit vieler Freiwilliger und Kollektive angewiesen sind, gibt es jedes Jahr Kosten, die wir nur durch Crowdfunding decken können
-
-❤️Wir sind auf euch angewiesen und dankbar für jeden Beitrag!❤️
-
-{{<crowdify>}}
-
----
-
 # Was ist das Weltwirtschaftsforum?
 
 Das Weltwirtschaftsforum (WEF) ist ein jährliches Treffen von Vertreterinnen der globalen Elite. Führungspersönlichkeiten aus Politik, Wirtschaft, Medien, Zivilgesellschaft, Lobbyorganisationen und dem öffentlichen Leben kommen im Januar in Davos zu einer fünftägigen Konferenz zusammen, die von strengen Militärischen Sicherheitsmassnahmen begleitet wird. Das WEF inszeniert sich als globale, unabhängige und gemeinnützige Plattform, die den respektvollen Dialog zwischen Entscheidungsträger:innen mit unterschiedlichen Überzeugungen und Perspektiven fördern und so behaupten zur Verbesserung der Weltlage beizutragen.

@@ -1,5 +1,5 @@
 ---
-title: "Antirep"
+title: "Antirep 2026"
 authorbox: false
 sidebar: true
 summary: 'Hier gibt es alle wichtigen rechtlichen Hinweise, welche während der Wanderung relevant sein könnten.'

@@ -1,5 +1,5 @@
 ---
-title: "Aktionskonsens"
+title: "Aktionskonsens 2026"
 authorbox: false
 sidebar: true
 summary: 'Hier gehts zum Aktionskonsens welcher während der Wanderung für alle gilt.'

@@ -1,5 +1,5 @@
 ---
-title: "Bildungsreise"   
+title: "Bildungsreise 2027 aus Deutschland"   
 date: 2026-08-11
 sidebar: true
 toc: false
@@ -7,18 +7,18 @@ menu:
     main:
         pre: <i class="fa-solid fa-code"></i>
         weight: 7
+        name: "Bildungsreise"
+
 
 ---
+Das Weltwirtschaftsforum (WEF) ist zum Symbol für ein autoritäres Wirtschaftssystem geworden, das die Welt in Kriege, soziale und ökologische Krisen treibt. Big Tech Unternehmen stellen den neuen Macht-Block in Davos auf: Ihr Business-Plan beruht auf Überwachung, Ungerechtigkeit und Ausbeutung von Menschen und Natur weltweit. 
 
-## Ortsgruppe North
+Doch es regt sich Widerstand: Wir organisieren uns basisdemokratisch, vernetzen uns und widersetzen uns auf der Protestwanderung nach Davos! Wir stehen gemeinsam für eine sozial-gerechte Welt mit demokratischer Selbstverwaltung und für globale Klimagerechtigkeit! Unsere Inspiration ist das Weltsozialforum (WSF), welches als Teil der panafrikanischen Bewegung gegen Imperialismus steht und einen Raum schafft für Mobilisierung, Vernetzung und Diskussion.
 
-Die Bildungsreise aus Deutschland wird von der Ortsgruppe North von StrikeWEF organisiert. Sie hat sich aus den Menschen gebildet, die bereits in den letzten Jahren die Anreise aus Deutschland organisierten.
-
-***
-## Bildungsreise 2027 aus Deutschland
+Unsere Bildungsreise zum Protest in Davos widmet sich deshalb der Frage: Wie möchten wir unsere Gesellschaften organisieren? Dabei beleuchten wir sowohl autoritäre Dystopien von Big Tech Unternehmen, als auch demokratische Selbstverwaltungen wie das WSF und Utopien und Träume von einer klimagerechten Welt. 
 
 ### Schnelle Infos
-- **Thema:** Big Tech vs. Welstsozialforum
+- **Thema:** Big Tech vs. Weltsozialforum (WSF)
 - **Datum der Bildungsreise:** 14. - 18./19. Januar 2027 (je nach Bus)
 - **Kosten:** 100 - 300€
 - **Zustiegsmöglichkeiten:** Unser Solibus startet in Berlin (DE) und fährt über Leipzig (DE), Halle (DE), Nürnberg (DE), Memmingen (DE) und St. Gallen (CH)
@@ -84,23 +84,24 @@ Beschreibung folgt bald...
 
 ***
 
-### Beschreibung
-Das Weltwirtschaftsforum (WEF) ist zum Symbol für ein autoritäres Wirtschaftssystem geworden, das die Welt in Kriege, soziale und ökologische Krisen treibt. Big Tech Unternehmen stellen den neuen Macht-Block in Davos auf: Ihr Business-Plan beruht auf Überwachung, Ungerechtigkeit und Ausbeutung von Menschen und Natur weltweit. 
-
-Doch es regt sich Widerstand: Wir organisieren uns basisdemokratisch, vernetzen uns und widersetzen uns auf der Protestwanderung nach Davos! Wir stehen gemeinsam für eine sozial-gerechte Welt mit demokratischer Selbstverwaltung und für globale Klimagerechtigkeit! Unsere Inspiration ist das Weltsozialforum, welches als Teil der panafrikanischen Bewegung gegen Imperialismus steht und einen Raum schafft für Mobilisierung, Vernetzung und Diskussion.
-
-Unsere Bildungsreise zum Protest in Davos widmet sich deshalb der Frage: Wie möchten wir unsere Gesellschaften organisieren? Dabei beleuchten wir sowohl autoritäre Dystopien von Big Tech Unternehmen, als auch demokratische Selbstverwaltung wie dem Weltsozialforum und Utopien und Träume von einer klimagerechten Welt. 
 
 ### Organisationskonzept
 Wir wollen gemeinsam lernen uns basisdemokratisch zu organisieren, deshalb werden wir Teilnehmende frühestmöglich in die Organisation einbinden und in vernetzenden Arbeitsgruppen gemeinsam Awareness, Protest, Presse und Co organisieren!
 
 ### Für wen
-Für alle mit Lust auf soziale Gerechtigkeit: egal ob neu dabei oder schon länger aktiv. Kommt alleine und vernetzt euch, kommt mit Freund*innen oder euer Bezugsgruppe. Unser Workshopprogramm, die gemeinsame Vorbereitung und der Raum zum Austausch ist für alle da!
+Für alle mit Lust auf soziale Gerechtigkeit: egal ob neu dabei oder schon länger aktiv. Kommt alleine und vernetzt euch, kommt mit Freund*innen oder eurer Bezugsgruppe. Unser Workshopprogramm, die gemeinsame Vorbereitung und der Raum zum Austausch ist für alle da!
 
 ### Tickets & Kosten 
-Dein Ticket ist inklusive An-und Abreise, leckerer veganer Bio-Verpflegung, Unterkunft sowie der Bildungsworkshops für volle 6 Tage. Wir möchten allen Menschen ermöglichen zu kommen, deshalb schreib uns, wenn du einen Soli-Platz benötigst. Kostenstaffelung: 100,00€ Soli-Platz - 200,00€ kostendeckend - 300,00€ Soli-Preis finanziert Soli-Platz
+Dein Ticket ist inklusive An-und Abreise, leckerer veganer Bio-Verpflegung, Unterkunft sowie der Bildungsworkshops für volle 6 Tage. Wir möchten allen Menschen ermöglichen zu kommen, deshalb schreib uns, wenn du einen Soli-Platz benötigst. 
+
+**Kostenstaffelung:**
+- 100,00€ Soli-Platz
+- 200,00€ kostendeckend
+- 300,00€ Soli-Preis finanziert Soli-Platz
 
 ### Mehr Infos
 Diese Unterseite ist noch im Aufbau, weshalb es erstmal nur grobe Infos gibt. Zur Eröffnung der Anmeldung wirst du hier mehr Infos finden.
 
+### Wer dahinter steckt
+Die Bildungsreise aus Deutschland wird von der Ortsgruppe North von StrikeWEF organisiert. Sie hat sich aus den Menschen gebildet, die bereits in den letzten Jahren die Anreise aus Deutschland organisierten.
 

@@ -11,20 +11,20 @@
 <link rel="dns-prefetch" href="//fonts.gstatic.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel="stylesheet" href="/css/style.css">
 <link rel="stylesheet" href="/css/v2-styles.css">
-
+<link rel="stylesheet" href="/css/custom.css">
 
     
 
 </head>
 <body class="body">
-	<div class="container container--outer">
-		<header class="header">
-	<div class="container header__container">
+	<header class="header" style="position: relative;">
+	<img src="/img/header.png" alt="" style="width: 100%; height: auto; display: block;">
+	<div class="container header__container" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; align-items: center;">
 		
 	<div class="logo logo--mixed">
 		<a class="logo__link" href="/de/" title="Strike WEF" rel="home">
 			<div class="logo__item logo__imagebox">
-					<img class="logo__img" src="/img/logo-yellow.svg" alt="Strike WEF Logo - Faust über den Bergen">
+					<img class="logo__img" src="/img/logo-orange.svg" alt="Strike WEF Logo - Faust über den Bergen">
 				</div><div class="logo__item logo__text">
 					<div class="logo__title">Strike WEF</div>
 					<div class="logo__tagline">16. - 17. Januar 2027</div>
@@ -32,7 +32,10 @@
 		</a>
 	</div>
 
-		
+	</div>
+</header>
+<div class="container header__container">
+	
 <nav class="menu">
 	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
 		<span class="menu__btn-title" tabindex="-1">Menü</span>
@@ -97,8 +100,8 @@
 	</ul>
 </nav>
 
-	</div>
-</header>
+</div>
+	<div class="container container--outer">
 		<div class="wrapper flex">
 			<div class="primary">
 			
@@ -202,7 +205,8 @@
 
 </aside>
 		</div>
-		<footer class="footer">
+	</div>
+	<footer class="footer">
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
@@ -211,7 +215,6 @@
 		</div>
 	</div>
 </footer>
-	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
 </html>

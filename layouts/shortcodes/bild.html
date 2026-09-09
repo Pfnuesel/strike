@@ -1,0 +1,10 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" }}
+
+<figure style="margin: 20px 0;">
+  <img src="{{ $src }}" alt="{{ $alt }}" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); display: block;">
+  {{ if $caption }}
+  <figcaption style="text-align: center; font-size: 0.9em; color: #666; margin-top: 8px;">{{ $caption }}</figcaption>
+  {{ end }}
+</figure>

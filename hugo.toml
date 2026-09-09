@@ -11,15 +11,16 @@ defaultContentLanguageInSubdir = true
 
 [Params]
 	description = "Webseite von Strike WEF - Winterwanderung gegen das WEF nach Davos" # Site description. Used in meta description
-	pager = true
+	pager = false
 	toc = true # Enable Table of Contents
+  customCSS = ["css/custom.css"]
 	
 [Params.style.vars]
-  highlightColor = "#6b5600"
+  highlightColor = "#EF8023"
   fontFamilyPrimary = "'Helvetica'"
   
 [Params.logo]
-  image = "img/logo-yellow.svg" # Logo image. Path relative to "static"
+  image = "img/logo-orange.svg" # Logo image. Path relative to "static"
 
 [Params.sidebar]
 	home = "right"

@@ -1,0 +1,52 @@
+{{ $id := printf "agtabs-%d" .Ordinal }}
+<style>
+  .ag-tabs {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  .ag-tabs-nav {
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    border-right: 1px solid #ddd;
+  }
+  .ag-tabs-nav label {
+    padding: 14px 16px;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: 1px solid #eee;
+  }
+  .ag-tabs-nav label:last-child {
+    border-bottom: none;
+  }
+  .ag-tabs-content {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .ag-tabs-content p {
+    margin: 8px 0;
+  }
+  @media (max-width: 600px) {
+    .ag-tabs {
+      flex-direction: column;
+    }
+    .ag-tabs-nav {
+      border-right: none;
+      border-bottom: 1px solid #ddd;
+      min-width: 0;
+    }
+  }
+</style>
+
+<div class="ag-tabs" style="margin-bottom: 24px;">
+  <div class="ag-tabs-nav">
+    {{ .Inner }}
+  </div>
+  <div class="ag-tabs-content" id="{{ $id }}-content"></div>
+</div>

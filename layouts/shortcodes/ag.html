@@ -1,0 +1,18 @@
+{{ $titel := .Get "titel" }}
+{{ $inhalt := .Inner | markdownify }}
+{{ $inhalt = replaceRE `<p>(\S+:)` `<p><strong>$1</strong>` $inhalt }}
+{{ $inhalt = $inhalt | safeHTML }}
+
+<label onclick="
+  this.closest('.ag-tabs').querySelectorAll('.ag-tabs-nav label').forEach(l => { l.style.background = ''; l.style.color = ''; l.querySelector('.ag-pfeil').style.display = 'inline'; });
+  this.style.background = '#EF8023';
+  this.style.color = '#fff';
+  this.querySelector('.ag-pfeil').style.display = 'none';
+  this.closest('.ag-tabs').querySelector('.ag-tabs-content').innerHTML = this.nextElementSibling.innerHTML;
+" style="display: flex; justify-content: space-between; align-items: center;">
+  <span>{{ $titel }}</span>
+  <span class="ag-pfeil">▶</span>
+</label>
+<div style="display: none;">
+  {{ $inhalt }}
+</div>

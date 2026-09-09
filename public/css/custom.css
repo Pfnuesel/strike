@@ -1,0 +1,15 @@
+.container--outer {
+  box-shadow: none !important;
+  margin: 0 auto;
+}
+
+.header__container {
+  max-width: 100% !important;
+  width: 100% !important;
+  background: transparent;
+}
+
+.footer__container {
+  max-width: 100% !important;
+  width: 100% !important;
+}

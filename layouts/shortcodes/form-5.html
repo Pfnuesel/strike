@@ -1,0 +1,142 @@
+<style>
+  .anmelde-form-wrapper {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 24px;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  .anmelde-form-wrapper form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .anmelde-form-wrapper .feld {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .anmelde-form-wrapper input[type="text"],
+  .anmelde-form-wrapper input[type="email"] {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .anmelde-form-wrapper fieldset {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .anmelde-form-wrapper .pflicht-hinweis {
+    color: #c00;
+  }
+  .anmelde-form-wrapper .erfolg-box {
+    display: none;
+    background: #e6f4ea;
+    border: 1px solid #34a853;
+    color: #1e7e34;
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-top: 16px;
+  }
+  .anmelde-form-wrapper .fehler-box {
+    display: none;
+    background: #fdecea;
+    border: 1px solid #c00;
+    color: #c00;
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin-top: 16px;
+  }
+  @media (max-width: 600px) {
+    .anmelde-form-wrapper {
+      padding: 16px;
+      border-radius: 0;
+      border-left: none;
+      border-right: none;
+      box-shadow: none;
+    }
+  }
+</style>
+
+<div class="anmelde-form-wrapper" id="anmeldeformular-anker">
+  <form action="https://submit-form.com/LD2TI4Gb1" method="POST" class="js-anmeldeformular">
+
+    <input type="text" name="_honeypot" style="display: none;">
+    <input type="hidden" name="_email.subject" value="">
+    <input type="hidden" name="_email.from" value="StrikeWEF North">
+
+    <div class="feld">
+      <label>Dein Name <span class="pflicht-hinweis">- Pflicht</span></label>
+      <input type="text" name="name" required>
+    </div>
+
+    <div class="feld">
+      <label>Deine E-Mail-Adresse <span class="pflicht-hinweis">- Pflicht</span></label>
+      <input type="email" name="email" required>
+    </div>
+
+    <div class="feld">
+      <label>Möchtest du noch etwas sagen?</label>
+      <input type="text" name="nachricht">
+    </div>
+
+    <label style="display: flex; align-items: flex-start; gap: 8px;">
+      <input type="checkbox" name="datenschutz" value="Ja" required style="margin-top: 4px;">
+      <span>Ich stimme zu, dass meine angegebenen Daten von StrikeWEF für die Veranstaltungsvor- und Nachbereitung elektronisch gespeichert werden dürfen. Diese Zustimmung kann ich jederzeit per Mail an strikewef-north@systemli.org widerrufen. <span class="pflicht-hinweis">- Pflicht</span></span>
+    </label>
+
+    <button type="submit" style="padding: 10px; background: #EF8023; color: white; border: none; border-radius: 6px; cursor: pointer;">
+      Absenden
+    </button>
+
+  </form>
+
+  <div class="erfolg-box">Die Anmeldung wurde erfolgreich versendet. Bitte überprüfe, ob du eine Bestätigungs-E-Mail erhalten hast.</div>
+  <div class="fehler-box">Es ist ein Fehler beim Absenden deiner Anmeldung entstanden. Bitte versuche es nochmal.</div>
+</div>
+
+<script>
+  (function() {
+    var scripts = document.getElementsByTagName('script');
+    var thisScript = scripts[scripts.length - 1];
+    var wrapper = thisScript.previousElementSibling;
+    var form = wrapper.querySelector('.js-anmeldeformular');
+    var erfolgBox = wrapper.querySelector('.erfolg-box');
+    var fehlerBox = wrapper.querySelector('.fehler-box');
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      var name = form.querySelector('input[name="name"]').value;
+      form.querySelector('input[name="_email.subject"]').value = 'Neue Anmeldung zu Tatort Davos - ' + name;
+
+      erfolgBox.style.display = 'none';
+      fehlerBox.style.display = 'none';
+
+      var formData = new FormData(form);
+
+      fetch(form.action, {
+        method: 'POST',
+        body: formData,
+        headers: { 'Accept': 'application/json' }
+      })
+      .then(function(response) {
+        if (response.ok) {
+          erfolgBox.style.display = 'block';
+          form.reset();
+        } else {
+          fehlerBox.style.display = 'block';
+        }
+      })
+      .catch(function() {
+        fehlerBox.style.display = 'block';
+      });
+    });
+  })();
+</script>

@@ -56,7 +56,7 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 <p>Das Webinar ist noch nicht komplett geplant. Titel und Zeiten werden noch ggf. angepasst.</p>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-<p>-> Die Anmeldung ist in wenigen Tagen möglich</p>
+{{< form-1 >}}
 {{< /termin >}}
 
 {{< termin titel="Webinar: KI aus sozialer Perspektive analysiert + Vortrag zur Bildungsreise" datum="tba" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}

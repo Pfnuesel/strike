@@ -14,7 +14,7 @@ draft = false
 
 We organize an annual protest hike against the World Economic Forum. The next protest hike will take place on **January 16 and 17, 2027**.
 
-If you’re from Germany, you can also join our march by taking part in the **StrikeWEF North educational trip**. You can find all the details at [Educational Trip](https://strikewef.org/de/bildungsreise/) (webpage only in German).
+If you’re from Germany, you can also join our march by taking part in the **StrikeWEF North educational trip**. You can find all the details at [Educational Trip](/en/educational-trip/).
 
 As soon as we have more information to share, we’ll post it on our website, on [Instagram](https://www.instagram.com/strike.wef), and on [Telegram](https://t.me/+2TxRe_-qBFE3MGFk). **Stay tuned!**
 
@@ -55,9 +55,9 @@ The core goals of the protest are:
 
 3. To send a strong message in support of global human rights and the protection of our environment.
 
-## Join us on January 17 and 18, 2026
+## Join us on January 16 and 16, 2027
 
-You can find all the important information about participating in the demonstration on our channels. Starting in September, we’ll be posting regular updates there about the 2026 demonstration.
+You can find all the important information about participating in the demonstration on our channels. Starting in September, we’ll be posting regular updates there about the 2027 demonstration.
 
 Would you like to join the collective and help with the organization? Great! Send us an email at strike.wef@posteo.de and we’ll get back to you.
 

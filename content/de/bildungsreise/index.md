@@ -51,24 +51,25 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 
 **Teilnahme für Menschen außerhalb Berlins:** Da viele Teilnehmende nicht aus Berlin kommen, halten wir einige Termine rein online oder (zeitweise) hybrid ab. Da unsere Methoden jedoch oftmals die Präsenz im Raum erfordern, ist das digitale Programm etwas abgespeckt. Daher sind auch bei den Terminen teilweise zwei Zeiten angegeben. 
 
-{{< termin titel="Webinar: Das Weltsozialforum (WSF) als Gegenentwurf zum WEF + Vortrag zur Bildungsreise" datum="XX.10.2026" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
-<p>Mit nach Davos werden auch Organisator\*innen des letzten Weltsozialforums in Benin kommen. Bei diesem Webinar stellen sie das Weltsozialforum vor, erzählen von ihren Kämpfen und wie eine gerechtere Welt aus ihrer Perspektive erkämpft werden kann.</p>
-<p>Das Webinar ist noch nicht komplett geplant. Titel und Zeiten werden noch ggf. angepasst.</p>
-<h3>Anmeldung</h3>
-<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-1 >}}
-{{< /termin >}}
 
 {{< termin titel="Webinar: KI aus sozialer Perspektive analysiert + Vortrag zur Bildungsreise" datum="tba" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
 <p>Beschreibung folgt bald, sobald wir Referent\*innen gefunden haben. Auch der Titel ist aktuell ein Platzhalter.</p>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
+{{< form-1 >}}
+{{< /termin >}}
+
+{{< termin titel="Webinar: Das Weltsozialforum (WSF) als Gegenentwurf zum WEF + Vortrag zur Bildungsreise" datum="tba" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
+<p>Mit nach Davos werden auch Organisator\*innen des letzten Weltsozialforums in Benin kommen. Bei diesem Webinar stellen sie das Weltsozialforum vor, erzählen von ihren Kämpfen und wie eine gerechtere Welt aus ihrer Perspektive erkämpft werden kann.</p>
+<p>Das Webinar ist noch nicht komplett geplant. Titel und Zeiten werden noch ggf. angepasst.</p>
+<h3>Anmeldung</h3>
+<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
 {{< form-2 >}}
 {{< /termin >}}
 
-{{< termin titel="Webinar: Big Tech und Extraktivismus + Vortrag zur Bildungsreise" datum="22.10.2026" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
-<p>Mehrere Referent\*innen berichten über Möglichkeiten der demokratischen, ressourcenschonenden Digitalisierungen und die extraktivistische Herangehensweise von Big Tech.</p>
-<p>Titel und Beschreibung sind noch nicht final.</p>
+{{< termin titel="Webinar: Von Rechenzentren zu Minen: Die extraktive Seite der Digitalisierung (auf Englisch) + Vortrag zur Bildungsreise" datum="22.10.2026" uhrzeit="18:00 - 19:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
+<p>Künstliche Intelligenz erscheint oft als sauber und immateriell. Doch hinter Chatbots, Clouds und Rechenzentren stehen gewaltige Mengen an Energie, Wasser und Rohstoffen. Die Expansion von Big Tech treibt den weltweiten Bedarf an kritischen Rohstoffen voran und verschärft ökologische Zerstörung, Menschenrechtsverletzungen und Konflikte in den Abbaugebieten.</p>
+<p>Im Webinar beleuchten wir gemeinsam mit Tiziana von Witzleben von Heiße Luft und Ben Hardmann von EarthRights die materiellen Grundlagen von KI. Wir sprechen über die Rolle Seltener Erden und die Folgen ihres Abbaus, insbesondere in Myanmar. Außerdem werfen wir einen kritischen Blick auf den Ausbau von Rechenzentren in Deutschland, ihren steigenden Energie- und Wasserverbrauch sowie politische Entscheidungen, die den Interessen großer Technologiekonzerne zunehmend Vorrang vor Umwelt- und Gemeinwohlbelangen einräumen.</p>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
 {{< form-3 >}}
@@ -86,6 +87,11 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 {{< form-4 >}}
 {{< /termin >}}
 
+{{< termin titel="Pressetraining" datum="07.12.2026" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="online" optional="true" >}}
+<p>In Davos treffen wir auf viel Presse aus der ganzen Welt. Damit wir nicht nur sichtbar sind, sondern auch in der Presse mit unseren Forderungen und Perspektiven auftauchen, organisieren wir ein Pressetraining. Das Pressetraining ist für alle die mit nach Davos kommen offen und insbesondere für jene, die sich der Presse-Ag anschließen wollen.</p>
+<p>Das Pressetraining umfasst das Entwickeln von Narrativen und das praktische Üben von Interviewsituationen</p>
+{{< /termin >}}
+
 {{< termin titel="Workshop: Von Dystopien zu Utopien" datum="12.12.2026" uhrzeit="13:00 - 18:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="präsenz"  optional="false" farbe="#ffffff" >}}
 <p>In diesem Workshop greifen wir das gesammelte Wissen aus den vorherigen Terminen auf und weben es zu einem Teppich zusammen. Warum ist es sinnvoll gegen Big Tech zu protestieren? Welche alternative Perspektive auf gesellschaftliche Organisierung und Veränderung bietet das Weltsozialforum?</p>
 <p>Außerdem werden wir uns mit unseren Emotionen beschäftigen und reflektieren, was für unser Wohlergehen und ein langfristiges Engagement für eine solidarische Welt brauchen - über die Proteste gegen das WEF hinaus.</p> 
@@ -98,11 +104,6 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
 {{< form-5 >}}
-{{< /termin >}}
-
-{{< termin titel="Pressetraining" datum="07.12.2026" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="online" optional="true" >}}
-<p>In Davos treffen wir auf viel Presse aus der ganzen Welt. Damit wir nicht nur sichtbar sind, sondern auch in der Presse mit unseren Forderungen und Perspektiven auftauchen, organisieren wir ein Pressetraining. Das Pressetraining ist für alle die mit nach Davos kommen offen und insbesondere für jene, die sich der Presse-Ag anschließen wollen.</p>
-<p>Das Pressetraining umfasst das Entwickeln von Narrativen und das praktische Üben von Interviewsituationen</p>
 {{< /termin >}}
 
 {{< termin titel="Aktionstraining und Bezugsgruppenfindung" datum="03.01.2027" uhrzeit="13:00 - 17:00 Uhr;19:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="präsenz;online" optional="true" >}}
@@ -118,11 +119,12 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 {{< termin titel="Bildungsreise in die Schweiz" datum="14. - 18.01.2027;14. - 19.01.2027" uhrzeit="" zielgruppe="Angemeldet für Bildungsreise (Weißer Bus); Angemeldet für Bildungsreise (Blauer Bus)" farbe="#E7D9EAFF" >}}
 <b>Ablauf:</b>
 <ul>
-<li>14.01.27: Anreise mit blauem und weißem Solibus zur Schweizer Unterkunft
-<li>15.01.27: Workshop-Tag
-<li>16.01 & 17.01.27: Protestwanderung mit StrikeWEF nach Davos
-<li>18.01.27: Aktionsrallye in Davos (Blauer Bus) **//** Abreise mit Solibus (Weißer Bus)
-<li>19.01.27: Abreise (Blauer Bus)
+<li><b>Donnerstag:</b> Anreise mit blauem und weißem Solibus zur Schweizer Unterkunft
+<li><b>Freitag:</b> Workshop-Tag
+<li><b>Samstag:</b> Protestwanderung mit StrikeWEF nach Davos Tag 1
+<li><b>Sonntag:</b> Protestwanderung mit StrikeWEF nach Davos Tag 2
+<li><b>Montag:</b> Aktionsrallye in Davos (Blauer Bus) **//** Abreise mit Solibus (Weißer Bus)
+<li><b>Dienstag:</b> Abreise (Blauer Bus)
 </ul>
 <b>Abfahrtszeiten Hinfahrt:</b>
 <ul>
@@ -132,10 +134,10 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 <li>16:00 Memmingen
 <li>Nachmittags St. Gallen
 </ul>
-Die angegebenen Uhrzeiten sind Richtwerte und werden sich noch konkretisieren. Die Abfahrtsorte liegen jeweils in der Nähe der Autobahn. Plant also genügend Zeit zur Anreise dorthin ein.
+Die Abfahrtsorte liegen jeweils in der Nähe der Autobahn. Plant also genügend Zeit zur Anreise dorthin ein.
 {{< /termin >}}
 
-{{< termin titel="After Action" datum="Januar/Februar" uhrzeit="abends" zielgruppe="Angemeldet für Bildungsreise" modus="hybrid" farbe="#ffffff" letzter="true" >}}
+{{< termin titel="After Action" datum="01.02.2027" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="hybrid" farbe="#ffffff" letzter="true" >}}
 wir haben zusammen viel erlebt. Einiges ist sicherlich gut gelaufen, aus anderem kann gelernt werden. Definitiv gibt es aber viele Geschichten zu erzählen. Wir möchten ein letztes Mal zusammenkommen, auf die gemeinsame Zeit zurückschauen und uns Gedanken machen, wie es weitergehen kann.
 {{< /termin >}}
 
@@ -176,10 +178,10 @@ Ziel: Wir möchten, dass die Bildungsreise ein möglichst sicherer Raum für all
 
 Aufgabe: Awarenesskonzept ausarbeiten, Materialien zusammenstellen, Schichten definieren, deren Besetzung verfolgen und für Awarenesspersonen ansprechbar sein.{{< /ag >}}
 
-{{< ag titel="Betreuungs AG" >}}
+{{< ag titel="Begleitungs- und Übersetzungs AG" >}}
 Ziel: Unsere Gäste von außerhalb Europas gut in die Gruppe einbinden und für die gesamte Zeit unterstützen. Außerdem möchten wir sicherstellen, dass es während der Bildungsreise einen guten Austausch mit ihnen gibt. 
 
-Aufgabe: Unterstützen bei Visabelangen, der Absprache von Wünschen, Erwartungen und Ängsten, Organisation vom Aufenthalt in Deutschland und der Schweiz, Organisation von Übersetzung und Betreuung während der Bildungsreise.{{< /ag >}}
+Aufgabe: Unterstützen bei Visabelangen, der Absprache von Wünschen, Erwartungen und Ängsten, Organisation vom Aufenthalt in Deutschland und der Schweiz, Organisation von Übersetzung und Begleitung während der Bildungsreise.{{< /ag >}}
 
 {{< ag titel="Unterkunfts AG" >}}
 Ziel: Wir möchten uns in unserer Unterkunft in St. Gallen in allen vier Häusern selbst organisieren.
@@ -203,13 +205,14 @@ Hier unser solidarisches Preissystem. Wir würden gerne Soli-Plätze und Reiseko
 {{< bild src="IMG_4710.jpg" caption="Der Pop-Up-Store der USA beim WEF in einer Kirche" >}}
 
 ### Barrieren(abbau)
-- Ein Rollstuhlplatz ist im Bus vorhanden. Die Unterkunft in der Schweiz ist jedoch nicht barrierefrei. Das zugänglichste Zimmer und Toilette ist nur über drei Treppenstufen zu erreichen und es gibt keine barrierefreien Bäder.
+- In jedem Bus ist jeweils ein Rollstuhlplatz vorhanden. 
+- Die Unterkunft in der Schweiz ist nicht komplett barrierefrei. Es gibt im Schlafhaus ein barrierefreies Badezimmer und Esszimmer (Breite der Türen mind. 73,5cm), doch zum Schlafzimmer gibt es drei Treppenstufen.
+- In der Unterkunft gibt es Einzel-, Doppel- und Mehrbettzimmer. Falls du ein Einzelzimmer oder ein Doppelzimmer mit einer engen Person benötigst, z.B. auch um einen Rückzugsraum zu haben, gib dies bitte im Anmeldeformular an.
 - Während der Wanderung übernachten wir in barrierefreien, beheizten Turnhalle. Das heißt, es werden sehr viele Menschen in einem Raum schlafen.
 - Die Busfahrt von Berlin zur Unterkunft und zurück dauert etwa 13 Stunden. Im Bus gibt es keine Toilette. Pausen können nach Bedarf eingelegt werden.
 - Einzelne Abschnitte der Wanderung können mit dem Zug übersprungen werden, wenn es zu Fuß zu herausfordernd ist.
-- Flüsterübersetzung ins Englische kann angeboten werden.
+- Das meiste Programm ist auf Deutsch, doch Teile auch auf Englisch. Bei den Präsenzveranstaltungen kann Flüsterübersetzung in die jeweils andere Sprache organisiert werden.
 - Beim Essen können wir auf Unverträglichkeiten reagieren. Vor der Fahrt werden diese abgefragt.
-- In der Unterkunft gibt es Einzel-, Doppel- und Mehrbettzimmer. Falls du ein Einzelzimmer oder ein Doppelzimmer mit einer engen Person benötigst, z.B. auch um einen Rückzugsraum zu haben, gib dies bitte im Anmeldeformular an.
 - Kinder sind in den letzten Jahren mitgewandert (Schreib uns, falls du Kinder mitbringen möchtest). Eine Kinderbetreuung wird nicht angeboten.
 - Menschen unter 18 dürfen leider nicht ohne sorgeberechtigte Person teilnehmen.
 

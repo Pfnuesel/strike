@@ -72,22 +72,22 @@
     <input type="hidden" name="_email.from" value="StrikeWEF North">
 
     <div class="feld">
-      <label>Dein Name <span class="pflicht-hinweis">- Pflicht</span></label>
+      <label>Dein Name // <i>Your name</i> <span class="pflicht-hinweis">- Pflicht</span></label>
       <input type="text" name="name" required>
     </div>
 
     <div class="feld">
-      <label>Deine E-Mail-Adresse <span class="pflicht-hinweis">- Pflicht</span></label>
+      <label>Deine E-Mail-Adresse // <i>Email address</i> <span class="pflicht-hinweis">- Pflicht</span></label>
       <input type="email" name="email" required>
     </div>
 
     <div class="feld">
-      <label>Dein Signal-Messenger-Kontakt (Handynummer oder Nutzername - nicht dein Anzeigename) <span class="pflicht-hinweis">- Pflicht</span></label>
+      <label>Dein Signal-Messenger-Kontakt (Handynummer oder Nutzername - nicht dein Anzeigename) // <i>Signal-Messenger contact</i> <span class="pflicht-hinweis">- Pflicht</span></label>
       <input type="text" name="signal" required>
     </div>
 
     <fieldset>
-      <legend>In welchem Bus möchtest du mitfahren? <span class="pflicht-hinweis">- Pflicht</span></legend>
+      <legend>In welchem Bus möchtest du mitfahren? // <i>In which bus would you like to travel?</i> <span class="pflicht-hinweis">- Pflicht</span></legend>
       <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 8px;">
         <label><input type="radio" name="bus" value="Weißer Bus (14. - 18.01.2027)" required> Weißer Bus (14. - 18.01.2027)</label>
         <label><input type="radio" name="bus" value="Blauer Bus (14. - 19.01.2027)" required> Blauer Bus (14. - 19.01.2027)</label>
@@ -95,7 +95,7 @@
     </fieldset>
 
     <fieldset>
-      <legend>Wo möchtest du in den Bus einsteigen? <span class="pflicht-hinweis">- Pflicht</span></legend>
+      <legend>Wo möchtest du in den Bus einsteigen? // <i>Where would you like to get on the bus?</i> <span class="pflicht-hinweis">- Pflicht</span></legend>
       <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 8px;">
         <label><input type="radio" name="zustieg" value="Berlin (DE)" required> Berlin (DE)</label>
         <label><input type="radio" name="zustieg" value="Leipzig/Halle (DE)" required> Leipzig/Halle (DE)</label>
@@ -106,58 +106,59 @@
     </fieldset>
 
     <fieldset>
-      <legend>An welcher AG möchtest du teilnehmen?</legend>
+      <legend>An welcher AG möchtest du teilnehmen? // <i>Which Working Group would you like to participate in?</i></legend>
       <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 8px;">
-        <label><input type="radio" name="ag" value="Mobi AG"> Mobi AG</label>
-        <label><input type="radio" name="ag" value="Social Media AG"> Social Media AG</label>
-        <label><input type="radio" name="ag" value="Presse AG"> Presse AG</label>
-        <label><input type="radio" name="ag" value="Aktionen AG"> Aktionen AG</label>
-        <label><input type="radio" name="ag" value="Awareness AG"> Awareness AG</label>
-        <label><input type="radio" name="ag" value="Betreuungs AG"> Betreuungs AG</label>
-        <label><input type="radio" name="ag" value="Unterkunfts AG"> Unterkunfts AG</label>
-        <label><input type="radio" name="ag" value="Keine"> Keine</label>
+        <label><input type="radio" name="ag" value="Mobi AG"> Mobi AG // <i>Mobibilizing Working Group</i></label>
+        <label><input type="radio" name="ag" value="Social Media AG"> Social Media AG // <i>Social Media Working Group</i></label>
+        <label><input type="radio" name="ag" value="Presse AG"> Presse AG // <i>Press Working Group</i></label>
+        <label><input type="radio" name="ag" value="Aktionen AG"> Aktionen AG // <i>Actions Working Group</i></label>
+        <label><input type="radio" name="ag" value="Awareness AG"> Awareness AG // <i>Awareness Working Group</i></label>
+        <label><input type="radio" name="ag" value="Betreuungs AG"> Begleitungs- und Übersetzungs AG // <i>Support and Translation Working Group</i></label>
+        <label><input type="radio" name="ag" value="Unterkunfts AG"> Unterkunfts AG // <i>Housing Working Group</i></label>
+        <label><input type="radio" name="ag" value="Keine"> Keine // <i>None</i></label>
       </div>
     </fieldset>
 
     <fieldset>
-      <legend>Hast du Anforderungen an dein Zimmer in der Unterkunft?</legend>
+      <legend>Hast du Anforderungen an dein Zimmer in der Unterkunft? // <i>Do you have any requirements for your room in the accommodation?</i></legend>
       In der Unterkunft gibt Zimmer mit einem bis sieben Betten.
       <div style="display: flex; flex-direction: column; gap: 6px; margin-top: 8px;">
-        <label><input type="radio" name="zimmer" value="Einzelzimmer"> Ich benötige ein Einzelzimmer</label>
-        <label><input type="radio" name="zimmer" value="Doppelzimmer"> Ich benötige ein Doppelzimmer mit vertrauter Person (Name im Textfeld angeben)</label>
-        <label><input type="radio" name="zimmer" value="Keine"> Mehrbettzimmer ist auch fein</label>
+        <label><input type="radio" name="zimmer" value="Einzelzimmer"> Ich benötige ein Einzelzimmer // <i>Single room</i></label>
+        <label><input type="radio" name="zimmer" value="Doppelzimmer"> Ich benötige ein Doppelzimmer mit vertrauter Person (Name im Textfeld angeben) // <i>Double room</i></label>
+        <label><input type="radio" name="zimmer" value="Keine"> Mehrbettzimmer ist auch fein // <i>Multi-bed room is also fine</i></label>
       </div>
     </fieldset>    
       <input type="hidden" name="rollstuhl" id="rollstuhl-hidden" value="Nein">
       <label style="display: flex; align-items: center; gap: 8px;">
         <input type="checkbox" id="rollstuhl-checkbox" onchange="document.getElementById('rollstuhl-hidden').value = this.checked ? 'Ja' : 'Nein';">
-        Ich nehme im Rollstuhl teil
+        Ich nehme im Rollstuhl teil // <i>I will participate in a wheelchair</i>
       </label>
 
       <input type="hidden" name="soliplatz" id="soliplatz-hidden" value="Nein">
       <label style="display: flex; align-items: center; gap: 8px;">
         <input type="checkbox" id="soliplatz-checkbox" onchange="document.getElementById('soliplatz-hidden').value = this.checked ? 'Ja' : 'Nein';">
-        Ich benötige ein kostenloses Soliticket
+        Ich benötige ein kostenloses Soliticket // <i>I need a free solidarity ticket</i>
       </label>
 
     <div class="feld">
-      <label>Möchtest du noch etwas sagen?</label>
+      <label>Möchtest du noch etwas sagen? // <i>Do you want to say something else?</i></label>
       <input type="text" name="nachricht">
     </div>
 
     <label style="display: flex; align-items: flex-start; gap: 8px;">
       <input type="checkbox" name="datenschutz" value="Ja" required style="margin-top: 4px;">
-      <span>Ich stimme zu, dass meine angegebenen Daten von StrikeWEF für die Veranstaltungsvor- und Nachbereitung elektronisch gespeichert werden dürfen. Diese Zustimmung kann ich jederzeit per Mail an strikewef-north@systemli.org widerrufen. <span class="pflicht-hinweis">- Pflicht</span></span>
+      <span>Ich stimme zu, dass meine angegebenen Daten von StrikeWEF für die Veranstaltungsvor- und Nachbereitung elektronisch gespeichert werden dürfen. Diese Zustimmung kann ich jederzeit per Mail an strikewef-north@systemli.org widerrufen.
+      <p><i>I agree that my provided data may be stored electronically by StrikeWEF for event preparation and follow-up. This consent can be revoked at any time by email to strikewef-north@systemli.org.</i> <span class="pflicht-hinweis">- Pflicht</span></p></span>
     </label>
 
     <button type="submit" style="padding: 10px; background: #EF8023; color: white; border: none; border-radius: 6px; cursor: pointer;">
-      Absenden
+      Absenden // <i>Submit</i>
     </button>
 
   </form>
 
-  <div class="erfolg-box">Die Anmeldung wurde erfolgreich versendet. Bitte überprüfe, ob du eine Bestätigungs-E-Mail erhalten hast.</div>
-  <div class="fehler-box">Es ist ein Fehler beim Absenden deiner Anmeldung entstanden. Bitte versuche es nochmal.</div>
+  <div class="erfolg-box">Die Anmeldung wurde erfolgreich versendet. Bitte überprüfe, ob du eine Bestätigungs-E-Mail erhalten hast. // <i>The registration was sent successfully. Please check if you have received a confirmation email.</i></div>
+  <div class="fehler-box">Es ist ein Fehler beim Absenden deiner Anmeldung entstanden. Bitte versuche es nochmal. // <i>An error occurred while submitting your registration. Please try again.</i></div>
 </div>
 
 <script>

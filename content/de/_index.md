@@ -52,9 +52,9 @@ Die Kernziele des Protests sind:
 
 3. Ein starkes Zeichen für globale Menschenrechte und den Schutz unserer Ökologie zu setzen.
 
-## Mach mit am 17. und 18. Januar 2026
+## Mach mit am 16. und 17. Januar 2027
 
-Alle wichtigen Informationen zur Teilnahme an der Demonstration findest du auf unseren Kanälen. Ab September veröffentlichen wir dort regelmässig Updates zur Demo 2026.
+Alle wichtigen Informationen zur Teilnahme an der Demonstration findest du auf unseren Kanälen. Ab September veröffentlichen wir dort regelmässig Updates zur Demo 2027.
 
 Willst du dem Kollektiv beitreten und bei der Organisation mithelfen? Super! Schick uns eine E-Mail an strike.wef@posteo.de und wir melden uns bei dir.
 

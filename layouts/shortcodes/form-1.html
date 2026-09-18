@@ -65,24 +65,24 @@
 </style>
 
 <div class="anmelde-form-wrapper" id="anmeldeformular-anker">
-  <form action="https://submit-form.com/GA75uztNy" method="POST" class="js-anmeldeformular">
+  <form action="https://submit-form.com/We8qqwCc8" method="POST" class="js-anmeldeformular">
 
     <input type="text" name="_honeypot" style="display: none;">
     <input type="hidden" name="_email.subject" value="">
     <input type="hidden" name="_email.from" value="StrikeWEF North">
 
     <div class="feld">
-      <label>Dein Name <span class="pflicht-hinweis">- Pflicht</span></label>
+      <label>Dein Name // <i>your name</i> <span class="pflicht-hinweis">- Pflicht</span></label>
       <input type="text" name="name" required>
     </div>
 
     <div class="feld">
-      <label>Deine E-Mail-Adresse <span class="pflicht-hinweis">- Pflicht</span></label>
+      <label>Deine E-Mail-Adresse // <i>your email address</i> <span class="pflicht-hinweis">- Pflicht</span></label>
       <input type="email" name="email" required>
     </div>
 
     <div class="feld">
-      <label>Möchtest du noch etwas sagen?</label>
+      <label>Möchtest du noch etwas sagen? // <i>Do you want to say something else?</i></label>
       <input type="text" name="nachricht">
     </div>
 
@@ -92,13 +92,13 @@
     </label>
 
     <button type="submit" style="padding: 10px; background: #EF8023; color: white; border: none; border-radius: 6px; cursor: pointer;">
-      Absenden
+      Absenden // <i>Submit</i>
     </button>
 
   </form>
 
-  <div class="erfolg-box">Die Anmeldung wurde erfolgreich versendet. Bitte überprüfe, ob du eine Bestätigungs-E-Mail erhalten hast.</div>
-  <div class="fehler-box">Es ist ein Fehler beim Absenden deiner Anmeldung entstanden. Bitte versuche es nochmal.</div>
+  <div class="erfolg-box">Die Anmeldung wurde erfolgreich versendet. Bitte überprüfe, ob du eine Bestätigungs-E-Mail erhalten hast. // <i>The registration was sent successfully. Please check if you have received a confirmation email.</i></div>
+  <div class="fehler-box">Es ist ein Fehler beim Absenden deiner Anmeldung entstanden. Bitte versuche es nochmal. // <i>An error occurred while submitting your registration. Please try again.</i></div>
 </div>
 
 <script>
@@ -114,7 +114,7 @@
       e.preventDefault();
 
       var name = form.querySelector('input[name="name"]').value;
-      form.querySelector('input[name="_email.subject"]').value = 'Neue Anmeldung zu Mobivortrag 1 - ' + name;
+      form.querySelector('input[name="_email.subject"]').value = 'Neue Anmeldung zu Mobivortrag 2 - ' + name;
 
       erfolgBox.style.display = 'none';
       fehlerBox.style.display = 'none';

@@ -102,7 +102,7 @@ Although three content-focused sessions have already taken place, we’ll offici
 <p>For anyone who still has questions about the educational trip, there will be time for an FAQ session before the workshop.</p>
 {{< /termin >}}
 
-{{< termin titel="Davos: The Scene of the Crime – Mobilization Talk" datum="Dec. 12, 2026" uhrzeit="9:00 PM – 10:00 PM" zielgruppe="Individual registration possible" mode="präsenz"  optional="true" color="#ffffff" >}}
+{{< termin titel="Davos: The Scene of the Crime – Mobilization Talk" datum="Dec. 12, 2026" uhrzeit="9:00 PM – 10:00 PM" zielgruppe="Individual registration possible" modus="präsenz"  optional="true" color="#ffffff" >}}
 <p>What happens every year at the Davos "crime scene"? We’ll look back on several years of protest marches against the WEF, share some behind-the-scenes stories about everything we’ve experienced, and talk in detail about how the WEF is organized. Get ready to learn about the special role of name tags, military exercises, and pop-up stores from Microsoft, LinkedIn, and others.</p>
 <h3>Registration</h3>
 <p>Please register here only if you’d like to attend this event but haven’t already signed up for the entire educational trip.</p>
@@ -140,7 +140,7 @@ Although three content-focused sessions have already taken place, we’ll offici
 The departure locations are all near the highway. So be sure to allow enough time to get there.
 {{< /termin >}}
 
-{{< termin titel="After Action" datum="Feb. 1, 2027" uhrzeit="6:00 PM – 9:00 PM" target="Registered for Educational Trip" modus="hybrid" color="#ffffff" last="true" >}}
+{{< termin titel="After Action" datum="Feb. 1, 2027" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Registered for Educational Trip" modus="hybrid" color="#ffffff" last="true" >}}
 We’ve been through a lot together. Some things certainly went well; others offer lessons to be learned. But there are definitely many stories to tell. We’d like to come together one last time to look back on our time together and think about how we can move forward.
 {{< /termin >}}
 

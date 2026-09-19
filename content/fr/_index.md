@@ -14,7 +14,7 @@ draft = false
 
 Nous organisons chaque année une marche de protestation contre le Forum économique mondial. La prochaine marche de protestation aura lieu les **16 et 17 janvier 2027**.
 
-Si tu viens d’Allemagne, tu peux également rejoindre notre marche dans le cadre du **voyage éducatif organisé par StrikeWEF North**. Tu trouveras toutes les informations à ce sujet sous [Voyage éducatif](/en/educational trip/) (en anglais et en allemand uniquement).
+Si tu viens d’Allemagne, tu peux également rejoindre notre marche dans le cadre du **voyage éducatif organisé par StrikeWEF North**. Tu trouveras toutes les informations à ce sujet sous [Voyage éducatif](/en/educational-trip/) (en anglais et en allemand uniquement).
 
 Dès que nous aurons plus d’informations à partager, nous les publierons sur notre site web, sur [Instagram](https://www.instagram.com/strike.wef) et sur [Telegram](https://t.me/+2TxRe_-qBFE3MGFk). **Restez à l’écoute !**
 

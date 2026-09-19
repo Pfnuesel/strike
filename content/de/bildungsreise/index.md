@@ -23,7 +23,7 @@ Das Weltwirtschaftsforum (WEF) ist zum Symbol für ein autoritäres Wirtschaftss
 Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um die Rolle des Weltwirtschaftsforums und den wachsenden Einfluss von Big Tech auf Wirtschaft, Demokratie und Klima kritisch zu beleuchten. Durch Workshops, internationale Vernetzung und Protestaktionen entwickeln und vertreten wir gemeinsame Perspektiven für soziale Gerechtigkeit, Wirtschaftsdemokratie und eine klimagerechte Welt.
 
 ### Schnelle Infos
-- **Thema:** Big Tech, globale Ungleichheit und demokratische Alternativen
+- **Thema:** Big Tech, globale Ungerechtigkeit und demokratische Alternativen
 - **Datum der Bildungsreise:** 14. - 18./19. Januar 2027 (je nach Bus)
 - **Solipreis:** 100 - 300€
 - **Zustiegsmöglichkeiten:** Unser [Solibus](https://www.soli-bus.org) startet in Berlin (DE) und fährt über Leipzig (DE), Halle (DE), Nürnberg (DE), Memmingen (DE) und St. Gallen (CH)

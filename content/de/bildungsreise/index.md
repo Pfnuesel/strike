@@ -51,28 +51,32 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 
 **Teilnahme für Menschen außerhalb Berlins:** Da viele Teilnehmende nicht aus Berlin kommen, halten wir einige Termine rein online oder (zeitweise) hybrid ab. Da unsere Methoden jedoch oftmals die Präsenz im Raum erfordern, ist das digitale Programm etwas abgespeckt. Daher sind auch bei den Terminen teilweise zwei Zeiten angegeben. 
 
-
-{{< termin titel="Webinar: KI aus sozialer Perspektive analysiert + Vortrag zur Bildungsreise" datum="tba" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
-<p>Beschreibung folgt bald, sobald wir Referent\*innen gefunden haben. Auch der Titel ist aktuell ein Platzhalter.</p>
-<h3>Anmeldung</h3>
-<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-1 >}}
-{{< /termin >}}
-
-{{< termin titel="Webinar: Das Weltsozialforum (WSF) als Gegenentwurf zum WEF + Vortrag zur Bildungsreise" datum="tba" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
-<p>Mit nach Davos werden auch Organisator\*innen des letzten Weltsozialforums in Benin kommen. Bei diesem Webinar stellen sie das Weltsozialforum vor, erzählen von ihren Kämpfen und wie eine gerechtere Welt aus ihrer Perspektive erkämpft werden kann.</p>
-<p>Das Webinar ist noch nicht komplett geplant. Titel und Zeiten werden noch ggf. angepasst.</p>
-<h3>Anmeldung</h3>
-<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-2 >}}
-{{< /termin >}}
-
 {{< termin titel="Webinar: Von Rechenzentren zu Minen: Die extraktive Seite der Digitalisierung (auf Englisch) + Vortrag zur Bildungsreise" datum="22.10.2026" uhrzeit="18:00 - 19:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
 <p>Künstliche Intelligenz erscheint oft als sauber und immateriell. Doch hinter Chatbots, Clouds und Rechenzentren stehen gewaltige Mengen an Energie, Wasser und Rohstoffen. Die Expansion von Big Tech treibt den weltweiten Bedarf an kritischen Rohstoffen voran und verschärft ökologische Zerstörung, Menschenrechtsverletzungen und Konflikte in den Abbaugebieten.</p>
 <p>Im Webinar beleuchten wir gemeinsam mit Tiziana von Witzleben von Heiße Luft und Ben Hardmann von EarthRights die materiellen Grundlagen von KI. Wir sprechen über die Rolle Seltener Erden und die Folgen ihres Abbaus, insbesondere in Myanmar. Außerdem werfen wir einen kritischen Blick auf den Ausbau von Rechenzentren in Deutschland, ihren steigenden Energie- und Wasserverbrauch sowie politische Entscheidungen, die den Interessen großer Technologiekonzerne zunehmend Vorrang vor Umwelt- und Gemeinwohlbelangen einräumen.</p>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
 {{< form-3 >}}
+{{< /termin >}}
+
+{{< termin titel="Webinar: Weltsozialforum: Verbindungen für eine Demokratisierung der Wirtschaft von unten + Vortrag zur Bildungsreise" datum="02.11.2026" uhrzeit="18:00 - 19:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
+<p>Mit nach Davos werden auch Organisator\*innen des letzten Weltsozialforums in Benin kommen. bei diesem Webinar treffen wir sie das erste Mal.</p>
+<p>Das Weltsozialforum ist eine radikale Alternative zum Weltwirtschaftsforum: Im Kontrast zum exklusiven Treffen in Davos, bei dem die dominierenden Akteure der Wirtschaft nach neuen Wegen suchen, Mensch und Natur auszubeuten, ist das Weltsozialforum ein offenes Treffen der Zivilgesellschaft. Es zielt darauf ab, Strategien auszutauschen und neue Bündnisse zu schmieden, um eine Welt zu schaffen, in der Menschen und Natur gut zusammenleben können. Das Weltsozialforum 2026 in Cotonou hat gezeigt, dass eine gerechte und grundlegend demokratische Organisation von Rohstoffen, Technologie und Wirtschaft möglich ist. Dieses Webinar bietet einen Einblick in das Weltsozialforum in Cotonou und zwei Beispiele aus dem Forum für Kämpfe für eine Demokratisierung der Wirtschaft.</p>
+<b>Referent*innen:</b> 
+<ul>
+<li><b>Aïchata Kone</b> ist feministische Landrechtsaktivistin mit der Landrechtsbewegung UACDDDD in Mali und der dem transnationalen Bewegungsnetzwerk CGLTE-OA. Aïchata hat die politische Karawane, die hunderte  Landrechtsaktivist*innen aus 14 Ländern Westafrikas zum Weltsozialforum gebracht hat, mitkoordiniert.
+<li><b>Pascaline Agassounon</b> ist feministische Gewerkschafterin mit der Gewerkschaft für Hausangestellte ADDAD in Benin und dem transnationalen Bewegungsnetzwerk CGLTE-OA. Pascaline war Teil des Organisationssekretariats des Weltsozialforums in Cotonou 2026.
+</ul>
+<h3>Anmeldung</h3>
+<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
+{{< form-2 >}}
+{{< /termin >}}
+
+{{< termin titel="Webinar: KI aus sozialer Perspektive analysiert + Vortrag zur Bildungsreise" datum="09.11.2026" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
+<p>Beschreibung folgt bald, sobald wir Referent*innen gefunden haben. Auch der Titel ist aktuell ein Platzhalter.</p>
+<h3>Anmeldung</h3>
+<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
+{{< form-1 >}}
 {{< /termin >}}
 
 {{< termin titel="Kick-Off-Termin" datum="16.11.2026" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="online" optional="false" farbe="#ffffff" >}}

@@ -72,8 +72,13 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 {{< form-2 >}}
 {{< /termin >}}
 
-{{< termin titel="Webinar: KI aus sozialer Perspektive analysiert + Vortrag zur Bildungsreise" datum="09.11.2026" uhrzeit="19:00 - 21:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
-<p>Beschreibung folgt bald, sobald wir Referent*innen gefunden haben. Auch der Titel ist aktuell ein Platzhalter.</p>
+{{< termin titel="Webinar: Starter-Kit Antikapitalistische KI-Kritik + Vortrag zur Bildungsreise" datum="09.11.2026" uhrzeit="19:30 - 21:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
+<p>Alle reden über “KI”, aber was steckt eigentlich dahinter? Woher kommen die Daten, Rechenzentren und Ressourcen, die für KI gebraucht werden? Und warum investieren Google, Microsoft, Meta & Co. gerade so massiv in diese Technologien?</p>
+<p>Sarah und Dominik geben euch einen Überblick über Grundlagen, politische Hintergründe und aktuelle Debatten rund um KI und Big Tech. Danach gibt es Zeit für eure Fragen und eine gemeinsame Diskussion dazu, wie wir am besten gegen die Tech-Giganten aktiv werden können. Kein Vorwissen nötig!</p>
+<b>Referent*innen:</b> 
+<ul>
+<li><b>Sarah und Dominik</b> vom <a href="https://aiaiai-collective.de/">AiAiAi Kollektiv</a>
+</ul>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
 {{< form-1 >}}

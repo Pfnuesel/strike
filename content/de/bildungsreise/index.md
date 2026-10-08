@@ -69,7 +69,7 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 </ul>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-2 >}}
+{{< form-1 >}}
 {{< /termin >}}
 
 {{< termin titel="Webinar: Starter-Kit Antikapitalistische KI-Kritik + Vortrag zur Bildungsreise" datum="09.11.2026" uhrzeit="19:30 - 21:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
@@ -81,7 +81,7 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 </ul>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-1 >}}
+{{< form-2 >}}
 {{< /termin >}}
 
 {{< termin titel="Kick-Off-Termin" datum="16.11.2026" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="online" optional="false" farbe="#ffffff" >}}

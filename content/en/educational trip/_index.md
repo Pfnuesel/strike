@@ -45,7 +45,7 @@ The educational and protest trip to Davos brings together around 100 people to c
 {{< /highlight >}}
 
 ### Schedule
-**Participation in individual events:** You can participate in the entire program or in individual events. The latter are marked with "Individual registration possible." **To do so, please click "Mehr Infos" for the respective event and register there using the form.**
+**Participation in individual events:** You can participate in the entire program or in individual events. The latter are marked with "Individual registration." **To do so, please click "Mehr Infos" for the respective event and register there using the form.**
 
 **Goals of the events:** To ensure the Educational Trip is a success, there are several preparatory and follow-up sessions. Here, we’ll get to know each other, learn, network, and plan the trip and protest march. We’ve invited exciting **speakers** for many of the sessions.
 
@@ -53,7 +53,7 @@ The educational and protest trip to Davos brings together around 100 people to c
 
 **Participation for people outside Berlin:** Since many participants are not from Berlin, we’re holding some sessions entirely online or (at times) in a hybrid format. However, since our methods often require in-person participation, the digital program has been scaled back somewhat. That’s why some sessions list two time slots.
 
-{{< termin titel="Webinar: From data centers to mines: The extractive side of digitalization (in English) + Presentation on the Educational Trip" datum="Oct. 22, 2026" uhrzeit="6:00 PM – 8:00 PM" zielgruppe="Individual registration available" modus="online" optional="true" >}}
+{{< termin titel="Webinar: From data centers to mines: The extractive side of digitalization (in English) + Presentation on the Educational Trip" datum="Oct. 22, 2026" uhrzeit="6:00 PM – 8:00 PM" zielgruppe="Individual registration" modus="online" optional="true" >}}
 <p>Artificial intelligence is often perceived as clean and immaterial. In reality, AI depends on vast amounts of energy, water, and raw materials. As governments and corporations race to expand AI infrastructure, the environmental and social costs are increasingly shifted onto communities and ecosystems around the world.</p>
 <p>Together with Tiziana von Witzleben from Heiße Luft and Ben Hardman from EarthRights, we will explore the material foundations of AI. We will discuss the role of rare earth elements in digital infrastructure and the consequences of their extraction, particularly in Myanmar. We will also take a critical look at the rapid expansion of data centers in Germany, their growing demand for energy and water, and the political decisions that increasingly prioritize the growth of AI and digital infrastructure over environmental protection and community concerns.</p>
 <h3>Registration</h3>
@@ -61,7 +61,7 @@ The educational and protest trip to Davos brings together around 100 people to c
 {{< form-3 >}}
 {{< /termin >}}
 
-{{< termin titel="Webinar: World Social Forum (WSF): Connections for democratizing the economy from the bottom up + Presentation on the Educational Trip" datum="Nov. 02, 2026" uhrzeit="6:00 PM – 8:00 PM" zielgruppe="Individual registration available" modus="online" optional="true" >}}
+{{< termin titel="Webinar: World Social Forum (WSF): Connections for democratizing the economy from the bottom up + Presentation on the Educational Trip" datum="Nov. 02, 2026" uhrzeit="6:00 PM – 8:00 PM" zielgruppe="Individual registration" modus="online" optional="true" >}}
 <p>This webinar features organizers from the recent World Social Forum in Benin—who are also joining the Educational Trip. Simultaneous interpretation from French into German will be provided.</p>
 <p>The World Social Forum is a radical alternative to the World Economic Forum. In contrast to the exclusive gathering in Davos—where dominant economic players seek new ways to exploit people and nature—the World Social Forum is an open meeting of civil society. It aims to exchange strategies and forge new alliances to create a world where people and nature can coexist harmoniously. The 2026 World Social Forum in Cotonou demonstrated that a just and fundamentally democratic organization of raw materials, technology, and the economy is possible. This webinar offers an insight into the World Social Forum in Cotonou and presents two examples from the forum of struggles for the democratization of the economy.</p>
 <b>Speakers:</b>
@@ -74,7 +74,7 @@ The educational and protest trip to Davos brings together around 100 people to c
 {{< form-1 >}}
 {{< /termin >}}
 
-{{< termin titel="Webinar: Starter Kit: Anti-Capitalist Critique of AI + Presentation on the Educational Trip" datum="Nov. 09, 2026" uhrzeit="7:30 PM – 9:30 PM" zielgruppe="Individual registration possible" modus="online" optional="true" >}}
+{{< termin titel="Webinar: Starter Kit: Anti-Capitalist Critique of AI + Presentation on the Educational Trip" datum="Nov. 09, 2026" uhrzeit="7:30 PM – 9:30 PM" zielgruppe="Individual registration" modus="online" optional="true" >}}
 <p>Everyone is talking about “AI” but what is actually behind it? Where do the data, data centers, and resources required for AI come from? And why are Google, Microsoft, Meta, and others investing so heavily in these technologies right now?</p>
 <p>Sarah and Dominik will give you an overview of the fundamentals, political context, and current debates surrounding AI and Big Tech. Afterwards, there will be time for your questions and a group discussion on the best ways to take action against the tech giants. No prior knowledge required!</p>
 <b>Speakers:</b>
@@ -86,49 +86,53 @@ The educational and protest trip to Davos brings together around 100 people to c
 {{< form-2 >}}
 {{< /termin >}}
 
-{{< termin titel="Kick-Off Event" datum="Nov. 16, 2026" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Registered for Educational Trip" modus="online" optional="false" color="#ffffff" >}}
+{{< termin titel="Kick-Off Event" datum="Nov. 16, 2026" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="online" optional="false" color="#ffffff" >}}
 Although three content-focused sessions have already taken place, we’ll officially kick off the Educational Trip with this kick-off event. We’ll get to know each other, discuss the Educational Trip’s program, and you’ll have the chance to join a working group. You’ll also receive a "What Is (Strike)WEF 101" guide.
 {{< /termin >}}
 
-{{< termin titel="How to Protest Palantir (and Presentation on the Educational Trip)" datum="Dec. 1, 2026" uhrzeit="5:00 PM – 8:00 PM; 5:00 PM – 6:30 PM" zielgruppe="Registered for Educational Trip; individual registration possible" modus="präsenz;online" optional="false" color="#ffffff" >}}
-<p>What forms are protests against Palantir already taking? How can we effectively take action against Palantir? Kay from PurgePalantir and Jeff from #teslatakedown will give us an insight into the protests against Palantir in the U.S., which they help coordinate there.</p>
-<p><b>Program for in-person registrants:</b> Following the presentation by Kay and Jeff, we’ll discuss lessons learned for our own protest against Big Tech in Davos.</p>
+{{< termin titel="How to Protest Palantir (and Presentation on the Educational Trip)" datum="Dec. 1, 2026" uhrzeit="5:00 PM – 8:00 PM; 5:00 PM – 6:30 PM" zielgruppe="Educational Trip only; individual registration" modus="präsenz;online" optional="false" color="#ffffff" >}}
+<p>Palantir is an AI, surveillance, and defense tech company led by far-right billionaires Peter Thiel and Alex Karp. Their technology is integral to the US deportation machine, the genocide in Palestine, the attack on a children's school in Iran, and several current armed conflicts around the globe. In this workshop, we’ll explore what resistance against Palantir looks like across geographies, exchange updates and strategies, and map out the relationship between Peter Thiel, Palantir, and the rise of the fascist right across the world. Participants are encouraged to come ready to share about their work, and with questions that will benefit our organizing in different parts of the world.</p>
+<b>Speakers:</b> 
+<ul>
+<li><b>Kay</b> is a Black socialist movement builder who has worked with and learned from movements and organizations across the US and the world for over a decade. He is currently organizing against tech authoritarians with the Purge Palantir campaign, and campaigning in the US state of Georgia against data centers and energy companies. Prior to this, Kay spent several years organizing around racial justice, economic justice, and police violence.
+<li><b>Jeff Ordower</b> has been a labor and community organizer for over 30 years, getting his start organizing school cafeteria workers and janitors in Texas in the 1990s.  He has been fortunate enough to support communities organizing all across the US, and also done some work in Colombia. Over the years, he has helped organize Uber Drivers, renewable energy workers, people fighting extraction and much more. Recently, Ordower has joined the a small group called the Other Side Project, which has supported groups running campaigns against the oligarchs supporting authoritarianism, including campaigns against Tesla and Elon Musk, and Palantir and Peter Thiel.
+</ul><p><b>Program for in-person registrants:</b> Following the presentation by Kay and Jeff, we’ll discuss lessons learned for our own protest against Big Tech in Davos.</p>
 <p><b>Program for online participants:</b> The presentation will be live-streamed from the in-person venue. After the presentation, there will be a brief talk about the Educational Trip and what to expect in Davos.</p>
 <h3>Registration for online participation</h3>
 <p>Please register here only if you wish to participate in this event but are not already registered for the entire Educational Trip.</p>
 {{< form-4 >}}
 {{< /termin >}}
 
-{{< termin titel="Press Training" datum="Dec. 7, 2026" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Registered for Educational Trip" modus="online" optional="true" >}}
+{{< termin titel="Press Training" datum="Dec. 7, 2026" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="online" optional="true" >}}
 <p>In Davos, we’ll encounter a lot of press from all over the world. To ensure that we’re not only visible but also featured in the press with our demands and perspectives, we’re organizing a press training session. The press training is open to everyone coming to Davos, and especially to those who want to join the press delegation.</p>
 <p>The press training covers developing narratives and practicing interview scenarios.</p>
 {{< /termin >}}
 
-{{< termin titel="Workshop: From Dystopias to Utopias" datum="Dec. 12, 2026" uhrzeit="1:00 PM – 6:00 PM" zielgruppe="Registered for Educational Trip" modus="präsenz"  optional="false" color="#ffffff" >}}
+{{< termin titel="Workshop: From Dystopias to Utopias" datum="Dec. 12, 2026" uhrzeit="1:00 PM – 6:00 PM" zielgruppe="Educational Trip only" modus="präsenz"  optional="false" color="#ffffff" >}}
 <p>In this workshop, we’ll build on the knowledge gathered from previous sessions and weave it together into a cohesive whole. Why does it make sense to protest against Big Tech? What alternative perspective on social organization and change does the World Social Forum offer?</p>
 <p>We’ll also explore our emotions and reflect on what we need for our well-being and a long-term commitment to a world built on solidarity—beyond the protests against the WEF.</p>
 <p>Dinner will be served after the workshop.</p>
 <p>For anyone who still has questions about the Educational Trip, there will be time for an FAQ session before the workshop.</p>
 {{< /termin >}}
 
-{{< termin titel="Davos: The Scene of the Crime – Mobilization Talk" datum="Dec. 12, 2026" uhrzeit="9:00 PM – 10:00 PM" zielgruppe="Individual registration possible" modus="präsenz"  optional="true" color="#ffffff" >}}
+{{< termin titel="Davos: The Scene of the Crime – Mobilization Talk" datum="Dec. 12, 2026" uhrzeit="9:00 PM – 10:00 PM" zielgruppe="Individual registration" modus="präsenz"  optional="true" color="#ffffff" >}}
 <p>What happens every year at the Davos "crime scene"? We’ll look back on several years of protest marches against the WEF, share some behind-the-scenes stories about everything we’ve experienced, and talk in detail about how the WEF is organized. Get ready to learn about the special role of name tags, military exercises, and pop-up stores from Microsoft, LinkedIn, and others.</p>
 <h3>Registration</h3>
 <p>Please register here only if you’d like to attend this event but haven’t already signed up for the entire Educational Trip.</p>
 {{< form-5 >}}
 {{< /termin >}}
 
-{{< termin titel="Action Training and Finding Reference Groups" datum="January 3, 2027" uhrzeit="1:00 PM – 5:00 PM; 7:00 PM – 9:00 PM" zielgruppe="Registered for Educational Trip" modus="präsenz;online" optional="true" >}}
+{{< termin titel="Action Training and Finding Reference Groups" datum="January 3, 2027" uhrzeit="1:00 PM – 5:00 PM; 7:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="präsenz;online" optional="true" >}}
 <p>For anyone who hasn’t yet participated in an action training session, we’re organizing one specifically tailored to the protest march. The in-person action training includes practical exercises, while the online session will focus solely on discussing scenarios.</p>
 <p>If you don’t have a reference group yet, you can also find one here.</p>
 {{< /termin >}}
 
-{{< termin titel="Final Preparations" datum="Jan. 10, 2027" uhrzeit="2:00 PM – 6:00 PM;2:00 PM – 4:00 PM" zielgruppe="Registered for Educational Trip" modus="präsenz;online" color="#ffffff" >}}
+{{< termin titel="Final Preparations" datum="Jan. 10, 2027" uhrzeit="2:00 PM – 6:00 PM;2:00 PM – 4:00 PM" zielgruppe="Educational Trip only" modus="präsenz;online" color="#ffffff" >}}
 <p>During the Educational Trip, many topics always come up that need to be discussed before departure, often from the various working groups. This event is scheduled for that purpose. The meeting will be held in a hybrid format. Since some preparations cannot be done hybrid, the in-person portion of the meeting will take longer. If possible, it’s best if you attend in person.</p>
 <p>For anyone signing up at the last minute, there will be an onboarding session before this meeting.</p>
 {{< /termin >}}
 
-{{< termin titel="Educational Trip to Switzerland" datum="Jan. 14–18, 2027; Jan. 14–19, 2027" uhrzeit="" zielgruppe="Registered for Educational Trip (Weißer Bus); Registered for Educational Trip (Blauer Bus)" farbe="#E7D9EAFF" >}}
+{{< termin titel="Educational Trip to Switzerland" datum="Jan. 14–18, 2027; Jan. 14–19, 2027" uhrzeit="" zielgruppe="Educational Trip only (Weißer Bus); Educational Trip only (Blauer Bus)" farbe="#E7D9EAFF" >}}
 <b>Schedule:</b>
 <ul>
 <li><b>Thursday:</b> Travel to the Swiss accommodation via the Blauer Solibus and Weißer Solibus
@@ -149,7 +153,7 @@ Although three content-focused sessions have already taken place, we’ll offici
 The departure locations are all near the highway. So be sure to allow enough time to get there.
 {{< /termin >}}
 
-{{< termin titel="After Action" datum="Feb. 1, 2027" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Registered for Educational Trip" modus="hybrid" color="#ffffff" last="true" >}}
+{{< termin titel="After Action" datum="Feb. 1, 2027" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="hybrid" color="#ffffff" last="true" >}}
 We’ve been through a lot together. Some things certainly went well; others offer lessons to be learned. But there are definitely many stories to tell. We’d like to come together one last time to look back on our time together and think about how we can move forward.
 {{< /termin >}}
 

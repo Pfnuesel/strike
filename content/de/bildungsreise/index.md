@@ -42,7 +42,7 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 
 {{< /highlight >}}
 
-### Ablauf
+### Ablauf  {#Ablauf}
 **Teilnahme an einzelnen Terminen:** Du kannst am gesamten Programm oder einzelnen Terminen teilnehmen. Letztere sind mit "Einzelanmeldung möglich" markiert. **Hierfür bitte beim jeweiligen Termin auf "mehr Infos" gehen und dort über das Formular anmelden.**
 
 **Ziele der Termine:** Damit die Bildungsreise erfolgreich wird, gibt es mehrere Vor- und Nachbereitungstermine. Hier wollen wir uns kennenlernen, weiterbilden, vernetzen und die Reise und Protestwanderung planen. Für viele Termine haben wir spannende **Referent\*innen** eingeladen.
@@ -88,7 +88,12 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Off-Termin offiziell die Bildungsreise. Wir lernen uns kennen, sprechen über das Programm der Bildungsreise und ihr könnt euch den Arbeitsgruppen zuteilen. Außerdem bekommt ihr ein "Was ist (Strike)WEF 1x1".{{< /termin >}}
 
 {{< termin titel="How to Protest Palantir (und Vortrag zur Bildungsreise)" datum="01.12.2026" uhrzeit="17:00 - 20:00 Uhr;17:00 - 18:30 Uhr" zielgruppe="Angemeldet für Bildungsreise;Einzelanmeldung möglich" modus="präsenz;online" optional="false" farbe="#ffffff" >}}
-<p>Wie sehen bereits Praktiken zu Protest gegen Palantir aus? Wie effektiv gegen Palantir vorgehen? Kay von PurgePalantir und Jeff von #teslatakedown geben uns einen Einlick in die Proteste gegen Palantir in den USA, welche sie dort mitkoordinieren.</p>
+<p>Palantir ist ein Unternehmen für KI-, Überwachungs- und Verteidigungstechnologie, das von den rechtsextremen Milliardären Peter Thiel und Alex Karp geleitet wird. Ihre Technologie spielt eine zentrale Rolle beim US-Abschiebungsapparat, beim Völkermord in Palästina, beim Angriff auf eine Schule im Iran sowie bei diversen aktuellen bewaffneten Konflikten weltweit. In diesem Workshop untersuchen wir, wie der Widerstand gegen Palantir in verschiedenen Regionen aussieht, tauschen uns über aktuelle Entwicklungen und Strategien aus und beleuchten die Zusammenhänge zwischen Peter Thiel, Palantir und dem weltweiten Aufstieg der faschistischen Rechten. Die Teilnehmenden sind dazu eingeladen, von ihrer eigenen Arbeit zu berichten und Fragen einzubringen, die unserer Organisierung in verschiedenen Teilen der Welt zugutekommen.</p>
+<b>Referent*innen:</b> 
+<ul>
+<li><b>Kay</b> ist ein schwarzer sozialistischer Movement Builder, der seit über einem Jahrzehnt mit Bewegungen und Organisationen in den USA und auf der ganzen Welt zusammenarbeitet und von ihnen lernt. Derzeit organisiert er sich mit der <a href="https://purgepalantir.com">Purge Palantir-Kampagne</a> gegen Tech-Autoritäre und kämpft im US-Bundesstaat Georgia gegen Rechenzentren und Energieunternehmen. Zuvor war Kay mehrere Jahre damit beschäftigt, sich für Antirassismus, wirtschaftliche Gerechtigkeit und gegen Polizeigewalt einzusetzen.
+<li><b>Jeff Ordower</b> ist seit über 30 Jahren als Arbeits- und Gemeindeorganisator tätig und begann in den 1990er Jahren mit der Organisation von Schulkantinenarbeiter*innen und Hausmeister*innen in Texas. Er hatte das Glück, Gemeinden in den gesamten USA bei der Organisation zu unterstützen und auch in Kolumbien zu arbeiten. Im Laufe der Jahre hat er dabei geholfen, Uber-Fahrer*innen, Arbeiter*innen im Bereich der erneuerbaren Energien, Menschen, die gegen Extraktivismus kämpfen, und vieles mehr zu organisieren. Kürzlich hat sich Jeff einer kleinen Gruppe namens „Other Side Project“ angeschlossen, die Gruppen unterstützt hat, die Kampagnen gegen die Oligarchen durchführen, die den Autoritarismus unterstützen, darunter Kampagnen gegen Tesla und Elon Musk sowie Palantir und Peter Thiel.
+</ul>
 <p><b>Programm für Angemeldete in Präsenz:</b> Nach dem Input von Kay und Jeff diskutieren wir Learnings für unseren eigenen Protest gegen Big Tech in Davos.</p>
 <p><b>Programm für Onlineteilnehmende:</b> Der Input wird aus dem Präsenzraum live gestreamt. Nach dem Input gibt es einen kurzen Vortrag zu der Bildungsreise und was uns in Davos erwartet.</p>
 <h3>Anmeldung zur Onlineteilnahme</h3>

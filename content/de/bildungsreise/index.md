@@ -55,10 +55,11 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 <p>Künstliche Intelligenz erscheint oft als sauber und immateriell. Doch hinter Chatbots, Clouds und Rechenzentren stehen gewaltige Mengen an Energie, Wasser und Rohstoffen. Die Expansion von Big Tech treibt den weltweiten Bedarf an kritischen Rohstoffen voran und verschärft ökologische Zerstörung, Menschenrechtsverletzungen und Konflikte in den Abbaugebieten.</p>
 <p>Im Webinar beleuchten wir gemeinsam mit Tiziana von Witzleben von Heiße Luft und Ben Hardmann von EarthRights die materiellen Grundlagen von KI. Wir sprechen über die Rolle Seltener Erden und die Folgen ihres Abbaus, insbesondere in Myanmar. Außerdem werfen wir einen kritischen Blick auf den Ausbau von Rechenzentren in Deutschland, ihren steigenden Energie- und Wasserverbrauch sowie politische Entscheidungen, die den Interessen großer Technologiekonzerne zunehmend Vorrang vor Umwelt- und Gemeinwohlbelangen einräumen.</p>
 <h3>Anmeldung</h3>
-<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-3 >}}
+<p>Dieses Webinar hat bereits stattgefunden.</p>
 {{< /termin >}}
 
+---
+##### Zukünftige Veranstaltungen:
 {{< termin titel="Webinar: Weltsozialforum: Verbindungen für eine Demokratisierung der Wirtschaft von unten + Vortrag zur Bildungsreise" datum="02.11.2026" uhrzeit="18:00 - 20:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
 <p>Dieses Webinar ist mit Organi*innen des letzten Weltsozialforums in Benin, die auch mit zur Bildungsreise kommen. Es wird aus dem Französischen simultan ins Deutsche übersetzt.</p>
 <p>Das Weltsozialforum ist eine radikale Alternative zum Weltwirtschaftsforum: Im Kontrast zum exklusiven Treffen in Davos, bei dem die dominierenden Akteure der Wirtschaft nach neuen Wegen suchen, Mensch und Natur auszubeuten, ist das Weltsozialforum ein offenes Treffen der Zivilgesellschaft. Es zielt darauf ab, Strategien auszutauschen und neue Bündnisse zu schmieden, um eine Welt zu schaffen, in der Menschen und Natur gut zusammenleben können. Das Weltsozialforum 2026 in Cotonou hat gezeigt, dass eine gerechte und grundlegend demokratische Organisation von Rohstoffen, Technologie und Wirtschaft möglich ist. Dieses Webinar bietet einen Einblick in das Weltsozialforum in Cotonou und zwei Beispiele aus dem Forum für Kämpfe für eine Demokratisierung der Wirtschaft.</p>

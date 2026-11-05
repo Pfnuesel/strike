@@ -15,7 +15,7 @@ menu:
 **Join our [Signal channel](https://signal.group/#CjQKICBtqYHtNebU5Y6qarenANeP42bU4OxRzkOtv6ep87PqEhCVu3SJO08gs2pXWzZOlNop) to stay up to date on the events and everything happening during the protest march!**
 
 {{< highlight "#EF8023" >}}
-<b>For non-german-speaking people:</b> For new information, check out the german version of this page! This website was last updated on September 18th. This program will mostly be in german with whisper translation available during in-person events. Also most of the written communication will be in german. You might miss information. Pleas contact us if you have questions!
+<b>For non-german-speaking people:</b> For new information, check out the german version of this page! This program will mostly be in german with whisper translation available during in-person events. Also most of the written communication will be in german. You might miss information. Pleas contact us if you have questions!
 {{< /highlight >}}
 
 The World Economic Forum (WEF) has become a symbol of an authoritarian economic system that is driving the world into wars, social crises, and ecological crises. Big Tech companies are establishing a new power bloc in Davos: Their business model is based on surveillance, injustice, and the exploitation of people and nature worldwide.
@@ -57,11 +57,7 @@ The educational and protest trip to Davos brings together around 100 people to c
 <p>Artificial intelligence is often perceived as clean and immaterial. In reality, AI depends on vast amounts of energy, water, and raw materials. As governments and corporations race to expand AI infrastructure, the environmental and social costs are increasingly shifted onto communities and ecosystems around the world.</p>
 <p>Together with Tiziana von Witzleben from Heiße Luft and Ben Hardman from EarthRights, we will explore the material foundations of AI. We will discuss the role of rare earth elements in digital infrastructure and the consequences of their extraction, particularly in Myanmar. We will also take a critical look at the rapid expansion of data centers in Germany, their growing demand for energy and water, and the political decisions that increasingly prioritize the growth of AI and digital infrastructure over environmental protection and community concerns.</p>
 <h3>Registration</h3>
-<p>This event already took place.</p>
 {{< /termin >}}
-
----
-##### Upcoming events:
 
 {{< termin titel="Webinar: World Social Forum (WSF): Connections for democratizing the economy from the bottom up + Presentation on the Educational Trip" datum="Nov. 02, 2026" uhrzeit="6:00 PM – 8:00 PM" zielgruppe="Individual registration" modus="online" optional="true" >}}
 <p>This webinar features organizers from the recent World Social Forum in Benin—who are also joining the Educational Trip. Simultaneous interpretation from French into German will be provided.</p>
@@ -72,9 +68,11 @@ The educational and protest trip to Davos brings together around 100 people to c
 <li><b>Pascaline Agassounon</b> is a feminist trade unionist with the domestic workers' union ADDAD in Benin and the transnational movement network CGLTE-OA. Pascaline was part of the organizing secretariat for the 2026 World Social Forum in Cotonou.
 </ul>
 <h3>Registration</h3>
-<p>Please register here only if you wish to participate in this event but have not already registered for the entire Educational Trip.</p>
-{{< form-1 >}}
+<p>This event already took place.</p>
 {{< /termin >}}
+
+---
+##### Upcoming events:
 
 {{< termin titel="Webinar: Starter Kit: Anti-Capitalist Critique of AI + Presentation on the Educational Trip" datum="Nov. 09, 2026" uhrzeit="7:30 PM – 9:30 PM" zielgruppe="Individual registration" modus="online" optional="true" >}}
 <p>Everyone is talking about “AI” but what is actually behind it? Where do the data, data centers, and resources required for AI come from? And why are Google, Microsoft, Meta, and others investing so heavily in these technologies right now?</p>

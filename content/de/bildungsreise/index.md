@@ -58,8 +58,6 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 <p>Dieses Webinar hat bereits stattgefunden.</p>
 {{< /termin >}}
 
----
-##### Zukünftige Veranstaltungen:
 {{< termin titel="Webinar: Weltsozialforum: Verbindungen für eine Demokratisierung der Wirtschaft von unten + Vortrag zur Bildungsreise" datum="02.11.2026" uhrzeit="18:00 - 20:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
 <p>Dieses Webinar ist mit Organi*innen des letzten Weltsozialforums in Benin, die auch mit zur Bildungsreise kommen. Es wird aus dem Französischen simultan ins Deutsche übersetzt.</p>
 <p>Das Weltsozialforum ist eine radikale Alternative zum Weltwirtschaftsforum: Im Kontrast zum exklusiven Treffen in Davos, bei dem die dominierenden Akteure der Wirtschaft nach neuen Wegen suchen, Mensch und Natur auszubeuten, ist das Weltsozialforum ein offenes Treffen der Zivilgesellschaft. Es zielt darauf ab, Strategien auszutauschen und neue Bündnisse zu schmieden, um eine Welt zu schaffen, in der Menschen und Natur gut zusammenleben können. Das Weltsozialforum 2026 in Cotonou hat gezeigt, dass eine gerechte und grundlegend demokratische Organisation von Rohstoffen, Technologie und Wirtschaft möglich ist. Dieses Webinar bietet einen Einblick in das Weltsozialforum in Cotonou und zwei Beispiele aus dem Forum für Kämpfe für eine Demokratisierung der Wirtschaft.</p>
@@ -69,10 +67,11 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 <li><b>Pascaline Agassounon</b> ist feministische Gewerkschafterin mit der Gewerkschaft für Hausangestellte ADDAD in Benin und dem transnationalen Bewegungsnetzwerk CGLTE-OA. Pascaline war Teil des Organisationssekretariats des Weltsozialforums in Cotonou 2026.
 </ul>
 <h3>Anmeldung</h3>
-<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-1 >}}
+<p>Dieses Webinar hat bereits stattgefunden.</p>
 {{< /termin >}}
 
+---
+##### Zukünftige Veranstaltungen:
 {{< termin titel="Webinar: Starter-Kit Antikapitalistische KI-Kritik + Vortrag zur Bildungsreise" datum="09.11.2026" uhrzeit="19:30 - 21:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
 <p>Alle reden über “KI”, aber was steckt eigentlich dahinter? Woher kommen die Daten, Rechenzentren und Ressourcen, die für KI gebraucht werden? Und warum investieren Google, Microsoft, Meta & Co. gerade so massiv in diese Technologien?</p>
 <p>Sarah und Dominik geben euch einen Überblick über Grundlagen, politische Hintergründe und aktuelle Debatten rund um KI und Big Tech. Danach gibt es Zeit für eure Fragen und eine gemeinsame Diskussion dazu, wie wir am besten gegen die Tech-Giganten aktiv werden können. Kein Vorwissen nötig!</p>

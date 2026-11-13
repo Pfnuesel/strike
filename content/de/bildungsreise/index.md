@@ -70,8 +70,6 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 <p>Dieses Webinar hat bereits stattgefunden.</p>
 {{< /termin >}}
 
----
-##### Zukünftige Veranstaltungen:
 {{< termin titel="Webinar: Starter-Kit Antikapitalistische KI-Kritik + Vortrag zur Bildungsreise" datum="09.11.2026" uhrzeit="19:30 - 21:30 Uhr" zielgruppe="Einzelanmeldung möglich" modus="online" optional="true" >}}
 <p>Alle reden über “KI”, aber was steckt eigentlich dahinter? Woher kommen die Daten, Rechenzentren und Ressourcen, die für KI gebraucht werden? Und warum investieren Google, Microsoft, Meta & Co. gerade so massiv in diese Technologien?</p>
 <p>Sarah und Dominik geben euch einen Überblick über Grundlagen, politische Hintergründe und aktuelle Debatten rund um KI und Big Tech. Danach gibt es Zeit für eure Fragen und eine gemeinsame Diskussion dazu, wie wir am besten gegen die Tech-Giganten aktiv werden können. Kein Vorwissen nötig!</p>
@@ -84,14 +82,18 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 {{< form-2 >}}
 {{< /termin >}}
 
+---
+##### Zukünftige Veranstaltungen:
+
 {{< termin titel="Kick-Off-Termin" datum="16.11.2026" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="online" optional="false" farbe="#ffffff" >}}
-Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Off-Termin offiziell die Bildungsreise. Wir lernen uns kennen, sprechen über das Programm der Bildungsreise und ihr könnt euch den Arbeitsgruppen zuteilen. Außerdem bekommt ihr ein "Was ist (Strike)WEF 1x1".{{< /termin >}}
+Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Off-Termin offiziell die Bildungsreise. Wir lernen uns kennen, sprechen über das Programm der Bildungsreise und ihr könnt euch den Arbeitsgruppen zuteilen. 
+{{< /termin >}}
 
 {{< termin titel="How to Protest Palantir (und Vortrag zur Bildungsreise)" datum="01.12.2026" uhrzeit="17:00 - 20:00 Uhr;17:00 - 18:30 Uhr" zielgruppe="Angemeldet für Bildungsreise;Einzelanmeldung möglich" modus="präsenz;online" optional="false" farbe="#ffffff" >}}
 <p>Palantir ist ein Unternehmen für KI-, Überwachungs- und Verteidigungstechnologie, das von den rechtsextremen Milliardären Peter Thiel und Alex Karp geleitet wird. Ihre Technologie spielt eine zentrale Rolle beim US-Abschiebungsapparat, beim Völkermord in Palästina, beim Angriff auf eine Schule im Iran sowie bei diversen aktuellen bewaffneten Konflikten weltweit. In diesem Workshop untersuchen wir, wie der Widerstand gegen Palantir in verschiedenen Regionen aussieht, tauschen uns über aktuelle Entwicklungen und Strategien aus und beleuchten die Zusammenhänge zwischen Peter Thiel, Palantir und dem weltweiten Aufstieg der faschistischen Rechten. Die Teilnehmenden sind dazu eingeladen, von ihrer eigenen Arbeit zu berichten und Fragen einzubringen, die unserer Organisierung in verschiedenen Teilen der Welt zugutekommen.</p>
 <b>Referent*innen:</b> 
 <ul>
-<li><b>Kay</b> ist ein schwarzer sozialistischer Movement Builder, der seit über einem Jahrzehnt mit Bewegungen und Organisationen in den USA und auf der ganzen Welt zusammenarbeitet und von ihnen lernt. Derzeit organisiert er sich mit der <a href="https://purgepalantir.com">Purge Palantir-Kampagne</a> gegen Tech-Autoritäre und kämpft im US-Bundesstaat Georgia gegen Rechenzentren und Energieunternehmen. Zuvor war Kay mehrere Jahre damit beschäftigt, sich für Antirassismus, wirtschaftliche Gerechtigkeit und gegen Polizeigewalt einzusetzen.
+<li><b>Kay</b> ist ein Schwarzer sozialistischer Movement Builder, der seit über einem Jahrzehnt mit Bewegungen und Organisationen in den USA und auf der ganzen Welt zusammenarbeitet und von ihnen lernt. Derzeit organisiert er sich mit der <a href="https://purgepalantir.com">Purge Palantir-Kampagne</a> gegen Tech-Autoritäre und kämpft im US-Bundesstaat Georgia gegen Rechenzentren und Energieunternehmen. Zuvor war Kay mehrere Jahre damit beschäftigt, sich für Antirassismus, wirtschaftliche Gerechtigkeit und gegen Polizeigewalt einzusetzen.
 <li><b>Jeff Ordower</b> ist seit über 30 Jahren als Arbeits- und Gemeindeorganisator tätig und begann in den 1990er Jahren mit der Organisation von Schulkantinenarbeiter*innen und Hausmeister*innen in Texas. Er hatte das Glück, Gemeinden in den gesamten USA bei der Organisation zu unterstützen und auch in Kolumbien zu arbeiten. Im Laufe der Jahre hat er dabei geholfen, Uber-Fahrer*innen, Arbeiter*innen im Bereich der erneuerbaren Energien, Menschen, die gegen Extraktivismus kämpfen, und vieles mehr zu organisieren. Kürzlich hat sich Jeff einer kleinen Gruppe namens „Other Side Project“ angeschlossen, die Gruppen unterstützt hat, die Kampagnen gegen die Oligarchen durchführen, die den Autoritarismus unterstützen, darunter Kampagnen gegen Tesla und Elon Musk sowie Palantir und Peter Thiel.
 </ul>
 <p><b>Programm für Angemeldete in Präsenz:</b> Nach dem Input von Kay und Jeff diskutieren wir Learnings für unseren eigenen Protest gegen Big Tech in Davos.</p>
@@ -107,8 +109,7 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 {{< /termin >}}
 
 {{< termin titel="Workshop: Von Dystopien zu Utopien" datum="12.12.2026" uhrzeit="13:00 - 18:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="präsenz"  optional="false" farbe="#ffffff" >}}
-<p>In diesem Workshop greifen wir das gesammelte Wissen aus den vorherigen Terminen auf und weben es zu einem Teppich zusammen. Warum ist es sinnvoll gegen Big Tech zu protestieren? Welche alternative Perspektive auf gesellschaftliche Organisierung und Veränderung bietet das Weltsozialforum?</p>
-<p>Außerdem werden wir uns mit unseren Emotionen beschäftigen und reflektieren, was für unser Wohlergehen und ein langfristiges Engagement für eine solidarische Welt brauchen - über die Proteste gegen das WEF hinaus.</p> 
+<p>In diesem Workshop nehmen wir Big Tech unter die Lupe. Wir identifizieren ihre Ideologie und betrachten ihr Handeln in einer sich autokratisierenden Welt. In Vorbereitung auf die Protestwanderung stellen wir uns die Frage, was wir in Davos gegen sie unternehmen können.</p> 
 <p>Nach dem Workshop gibt es Essen.</p>
 <p>Für alle, die noch Fragen zur Bildungsreise haben, wird vor dem Workshop Zeit für eine FAQ-Session sein.</p>
 {{< /termin >}}
@@ -254,6 +255,9 @@ Die Bildungsreise aus Deutschland wird von der Ortsgruppe North von StrikeWEF or
 {{< bild src="IMG_4711.jpg" caption="Der Zaun um das Kongressgelände, welches im Hintergrund zu sehen ist" >}}
 
 ### Anmeldung Bildungsreise {#Anmeldung}
+{{< highlight "#ef2323" >}}
+<b>Warteliste:</b> Da wir aus organisatorischen Gründen noch einzelne Plätze reserviert halten müssen, gibt es mittlerweile eine Warteliste. Lass dich bitte hiervon nicht abschrecken, die Chancen stehen noch gut. Außerdem gibt es noch freie Plätze ab St. Gallen.
+{{< /highlight >}}
 Falls du dich nur für einen einzelnen Termin anmelden möchtest, mach dies bitte über das Anmeldeformular in der jeweiligen Terminbeschreibung. Über dieses Anmeldeformular meldest du dich für das gesamte Programm der Bildungsreise, inklusive aller Termine vorher und nachher an.
 
 Du kannst dich auch **[per Mail](mailto:strikewef-north@systemli.org)** unter Verwendung unseres PGP-Keys anmelden, da das Formular unverschlüsselt ist. Bitte gib alle Infos an, die Im Anmeldeformular abgefragt werden!

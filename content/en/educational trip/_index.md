@@ -71,9 +71,6 @@ The educational and protest trip to Davos brings together around 100 people to c
 <p>This event already took place.</p>
 {{< /termin >}}
 
----
-##### Upcoming events:
-
 {{< termin titel="Webinar: Starter Kit: Anti-Capitalist Critique of AI + Presentation on the Educational Trip" datum="Nov. 09, 2026" uhrzeit="7:30 PM – 9:30 PM" zielgruppe="Individual registration" modus="online" optional="true" >}}
 <p>Everyone is talking about “AI” but what is actually behind it? Where do the data, data centers, and resources required for AI come from? And why are Google, Microsoft, Meta, and others investing so heavily in these technologies right now?</p>
 <p>Sarah and Dominik will give you an overview of the fundamentals, political context, and current debates surrounding AI and Big Tech. Afterwards, there will be time for your questions and a group discussion on the best ways to take action against the tech giants. No prior knowledge required!</p>
@@ -85,6 +82,9 @@ The educational and protest trip to Davos brings together around 100 people to c
 <p>Please register here only if you’d like to participate in this event but haven’t already registered for the entire Educational Trip.</p>
 {{< form-2 >}}
 {{< /termin >}}
+
+---
+##### Upcoming events:
 
 {{< termin titel="Kick-Off Event" datum="Nov. 16, 2026" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="online" optional="false" color="#ffffff" >}}
 Although three content-focused sessions have already taken place, we’ll officially kick off the Educational Trip with this kick-off event. We’ll get to know each other, discuss the Educational Trip’s program, and you’ll have the chance to join a working group. You’ll also receive a "What Is (Strike)WEF 101" guide.
@@ -109,8 +109,7 @@ Although three content-focused sessions have already taken place, we’ll offici
 {{< /termin >}}
 
 {{< termin titel="Workshop: From Dystopias to Utopias" datum="Dec. 12, 2026" uhrzeit="1:00 PM – 6:00 PM" zielgruppe="Educational Trip only" modus="präsenz"  optional="false" color="#ffffff" >}}
-<p>In this workshop, we’ll build on the knowledge gathered from previous sessions and weave it together into a cohesive whole. Why does it make sense to protest against Big Tech? What alternative perspective on social organization and change does the World Social Forum offer?</p>
-<p>We’ll also explore our emotions and reflect on what we need for our well-being and a long-term commitment to a world built on solidarity—beyond the protests against the WEF.</p>
+<p>In this workshop we take a closer look at Big Tech. We identify their ideology and look at their actions in an autocratizing world. In preparation for the protest hike, we are asking ourselves what we can do against them in Davos.</p>
 <p>Dinner will be served after the workshop.</p>
 <p>For anyone who still has questions about the Educational Trip, there will be time for an FAQ session before the workshop.</p>
 {{< /termin >}}
@@ -256,6 +255,10 @@ The Educational Trip from Germany is organized by the StrikeWEF North chapter. I
 {{< bild src="IMG_4711.jpg" caption="The fence around the convention grounds, visible in the background" >}}
 
 ### Educational Trip Registration {#Registration}
+{{< highlight "#ef2323" >}}
+<b>Waiting list:</b> Since we still have to reserve individual places for organizational reasons, there is now a waiting list. Please don't let this put you off, the chances are still good.
+{{< /highlight >}}
+
 If you’d like to register for just a single event, please do so using the registration form in the description for that specific event. By using this registration form, you’re signing up for the entire Educational Trip program, including all events before and after.
 
 You can also register **[by email](mailto:strikewef-north@systemli.org)** using our PGP key, since the form is unencrypted. Please provide all the information requested in the registration form!

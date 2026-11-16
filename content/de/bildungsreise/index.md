@@ -256,7 +256,7 @@ Die Bildungsreise aus Deutschland wird von der Ortsgruppe North von StrikeWEF or
 
 ### Anmeldung Bildungsreise {#Anmeldung}
 {{< highlight "#ef2323" >}}
-<b>Warteliste:</b> Da wir aus organisatorischen Gründen noch einzelne Plätze reserviert halten müssen, gibt es mittlerweile eine Warteliste. Lass dich bitte hiervon nicht abschrecken, die Chancen stehen noch gut. Außerdem gibt es noch freie Plätze ab St. Gallen.
+<b>Warteliste:</b> Da wir aus organisatorischen Gründen noch einzelne Plätze reserviert halten müssen, gibt es mittlerweile eine Warteliste. Lass dich bitte hiervon nicht abschrecken, die Möglichkeit einer Teilnahme existieren noch.
 {{< /highlight >}}
 Falls du dich nur für einen einzelnen Termin anmelden möchtest, mach dies bitte über das Anmeldeformular in der jeweiligen Terminbeschreibung. Über dieses Anmeldeformular meldest du dich für das gesamte Programm der Bildungsreise, inklusive aller Termine vorher und nachher an.
 

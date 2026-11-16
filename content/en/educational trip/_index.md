@@ -256,7 +256,7 @@ The Educational Trip from Germany is organized by the StrikeWEF North chapter. I
 
 ### Educational Trip Registration {#Registration}
 {{< highlight "#ef2323" >}}
-<b>Waiting list:</b> Since we still have to reserve individual places for organizational reasons, there is now a waiting list. Please don't let this put you off, the chances are still good.
+<b>Waiting list:</b> There is now a waiting list. You can still sign up.
 {{< /highlight >}}
 
 If you’d like to register for just a single event, please do so using the registration form in the description for that specific event. By using this registration form, you’re signing up for the entire Educational Trip program, including all events before and after.

@@ -83,12 +83,12 @@ The educational and protest trip to Davos brings together around 100 people to c
 {{< form-2 >}}
 {{< /termin >}}
 
----
-##### Upcoming events:
-
 {{< termin titel="Kick-Off Event" datum="Nov. 16, 2026" uhrzeit="6:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="online" optional="false" color="#ffffff" >}}
 Although three content-focused sessions have already taken place, we’ll officially kick off the Educational Trip with this kick-off event. We’ll get to know each other, discuss the Educational Trip’s program, and you’ll have the chance to join a working group. You’ll also receive a "What Is (Strike)WEF 101" guide.
 {{< /termin >}}
+
+---
+##### Upcoming events:
 
 {{< termin titel="How to Protest Palantir (and Presentation on the Educational Trip)" datum="Dec. 1, 2026" uhrzeit="5:00 PM – 8:00 PM; 5:00 PM – 6:30 PM" zielgruppe="Educational Trip only; individual registration" modus="präsenz;online" optional="false" color="#ffffff" >}}
 <p>Palantir is an AI, surveillance, and defense tech company led by far-right billionaires Peter Thiel and Alex Karp. Their technology is integral to the US deportation machine, the genocide in Palestine, the attack on a children's school in Iran, and several current armed conflicts around the globe. In this workshop, we’ll explore what resistance against Palantir looks like across geographies, exchange updates and strategies, and map out the relationship between Peter Thiel, Palantir, and the rise of the fascist right across the world. Participants are encouraged to come ready to share about their work, and with questions that will benefit our organizing in different parts of the world.</p>
@@ -110,15 +110,23 @@ Although three content-focused sessions have already taken place, we’ll offici
 
 {{< termin titel="Workshop: From Dystopias to Utopias" datum="Dec. 12, 2026" uhrzeit="1:00 PM – 6:00 PM" zielgruppe="Educational Trip only" modus="präsenz"  optional="false" color="#ffffff" >}}
 <p>In this workshop we take a closer look at Big Tech. We identify their ideology and look at their actions in an autocratizing world. In preparation for the protest hike, we are asking ourselves what we can do against them in Davos.</p>
-<p>Dinner will be served after the workshop.</p>
 <p>For anyone who still has questions about the Educational Trip, there will be time for an FAQ session before the workshop.</p>
 {{< /termin >}}
 
 {{< termin titel="Davos: The Scene of the Crime – Mobilization Talk" datum="Dec. 12, 2026" uhrzeit="9:00 PM – 10:00 PM" zielgruppe="Individual registration" modus="präsenz"  optional="true" color="#ffffff" >}}
+<p><b>Venue: Remise (U Magdalenenstraße)</p></b>
 <p>What happens every year at the Davos "crime scene"? We’ll look back on several years of protest marches against the WEF, share some behind-the-scenes stories about everything we’ve experienced, and talk in detail about how the WEF is organized. Get ready to learn about the special role of name tags, military exercises, and pop-up stores from Microsoft, LinkedIn, and others.</p>
 <h3>Registration</h3>
 <p>Please register here only if you’d like to attend this event but haven’t already signed up for the entire Educational Trip.</p>
 {{< form-5 >}}
+{{< /termin >}}
+
+{{< termin titel="Solidarityparty: Techno not Techbros" datum="12.12.2026" uhrzeit="Starting 6:00 OM" zielgruppe="Everyone (without registration)" modus="präsenz" optional="true" >}}
+<p><b>Venue: Remise (U Magdalenenstraße)</p></b>
+<p>Look forward to a cozy winter atmosphere with a fire barrel, warm food and delicious waffles (all vegan), many more surprises - and of course: music in very different forms and sounds, from punk to techno!</p>
+<p>All the money from the party goes to StrikeWEF's repression costs fund. StrikeWEF protests year after year against, exactly, the WEF. So the World Economic Forum in Davos - the platform on which the super-rich and those in power strengthen their increasingly authoritarian economic policies. At the forefront: Big Tech, the Elon Musks of this world, who are massively exacerbating wars, the climate crisis and exploitation.</p>
+<p>Those who oppose this, fight for democratic self-government and a climate-friendly world, are often confronted with state repression. That means: costs. So come, drink, eat, celebrate with us - and donate as much as you can!</p>
+<p>We are looking forward seeing you!</p>
 {{< /termin >}}
 
 {{< termin titel="Action Training and Finding Reference Groups" datum="January 3, 2027" uhrzeit="1:00 PM – 5:00 PM; 7:00 PM – 9:00 PM" zielgruppe="Educational Trip only" modus="präsenz;online" optional="true" >}}

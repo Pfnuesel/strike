@@ -15,7 +15,11 @@ toc = false
 **Don't have a printer? We have pre-printed! Write us an email and we'll see how you can get a poster :)**
 
 ---
+## 2027
+### Poster German - [Download](/files/Poster2027.pdf)
+![Poster 2027](/img/Poster2027.png)
 
+---
 ## 2026
 ### Poster German - [Download](/files/Poster2026.pdf)
 ![Poster 2026](/img/Poster2026.png)

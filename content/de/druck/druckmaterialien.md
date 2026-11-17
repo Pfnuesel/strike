@@ -15,6 +15,12 @@ toc = false
 **Hast du keinen Drucker? Wir haben vorgedruckt! Schreib uns eine Mail und wir schauen wie du ein Plakat bekommst :)**
 ---
 
+## 2027
+### Plakat Deutsch - [Download](/files/Poster2027.pdf)
+![Poster 2027](/img/Poster2027.png)
+
+---
+
 ## 2026
 ### Plakat Deutsch - [Download](/files/Poster2026.pdf)
 ![Poster 2026](/img/Poster2026.png)

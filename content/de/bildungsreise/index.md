@@ -82,12 +82,13 @@ Die Bildungs- und Protestreise nach Davos bringt rund 100 Menschen zusammen, um 
 {{< form-2 >}}
 {{< /termin >}}
 
----
-##### Zukünftige Veranstaltungen:
-
 {{< termin titel="Kick-Off-Termin" datum="16.11.2026" uhrzeit="18:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="online" optional="false" farbe="#ffffff" >}}
 Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Off-Termin offiziell die Bildungsreise. Wir lernen uns kennen, sprechen über das Programm der Bildungsreise und ihr könnt euch den Arbeitsgruppen zuteilen. 
 {{< /termin >}}
+
+
+---
+##### Zukünftige Veranstaltungen:
 
 {{< termin titel="How to Protest Palantir (und Vortrag zur Bildungsreise)" datum="01.12.2026" uhrzeit="17:00 - 20:00 Uhr;17:00 - 18:30 Uhr" zielgruppe="Angemeldet für Bildungsreise;Einzelanmeldung möglich" modus="präsenz;online" optional="false" farbe="#ffffff" >}}
 <p>Palantir ist ein Unternehmen für KI-, Überwachungs- und Verteidigungstechnologie, das von den rechtsextremen Milliardären Peter Thiel und Alex Karp geleitet wird. Ihre Technologie spielt eine zentrale Rolle beim US-Abschiebungsapparat, beim Völkermord in Palästina, beim Angriff auf eine Schule im Iran sowie bei diversen aktuellen bewaffneten Konflikten weltweit. In diesem Workshop untersuchen wir, wie der Widerstand gegen Palantir in verschiedenen Regionen aussieht, tauschen uns über aktuelle Entwicklungen und Strategien aus und beleuchten die Zusammenhänge zwischen Peter Thiel, Palantir und dem weltweiten Aufstieg der faschistischen Rechten. Die Teilnehmenden sind dazu eingeladen, von ihrer eigenen Arbeit zu berichten und Fragen einzubringen, die unserer Organisierung in verschiedenen Teilen der Welt zugutekommen.</p>
@@ -110,15 +111,23 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 
 {{< termin titel="Workshop: Von Dystopien zu Utopien" datum="12.12.2026" uhrzeit="13:00 - 18:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="präsenz"  optional="false" farbe="#ffffff" >}}
 <p>In diesem Workshop nehmen wir Big Tech unter die Lupe. Wir identifizieren ihre Ideologie und betrachten ihr Handeln in einer sich autokratisierenden Welt. In Vorbereitung auf die Protestwanderung stellen wir uns die Frage, was wir in Davos gegen sie unternehmen können.</p> 
-<p>Nach dem Workshop gibt es Essen.</p>
 <p>Für alle, die noch Fragen zur Bildungsreise haben, wird vor dem Workshop Zeit für eine FAQ-Session sein.</p>
 {{< /termin >}}
 
 {{< termin titel="Tatort Davos Mobivortrag" datum="12.12.2026" uhrzeit="21:00 - 22:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="präsenz"  optional="true" farbe="#ffffff" >}}
+<p><b>Ort: Remise (U Magdalenenstraße)</p></b>
 <p>Was passiert jährlich am Tatort Davos? Wir blicken auf mehrere Jahre Protestwanderung gegen das WEF, plaudern aus dem Nähkästchen, was wir schon alles erlebt haben und sprechen ausführlich darüber, wie das WEF organisiert ist. Seid gespannt auf die besondere Rolle von Namensschildern, Militärübungen und Pop-Up-Stores von Microsoft, LinkedIn und co.</p>
 <h3>Anmeldung</h3>
 <p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
 {{< form-5 >}}
+{{< /termin >}}
+
+{{< termin titel="Soliparty: Techno statt Techbro" datum="12.12.2026" uhrzeit="Ab 18:00 Uhr" zielgruppe="Alle (ohne Anmeldung)" modus="präsenz" optional="true" >}}
+<p><b>Ort: Remise (U Magdalenenstraße)</p></b>
+<p>Freut euch auf gemütlich-winterliche Stimmung mit Feuertonne, warmem Essen und leckeren Waffeln (alles vegan), viele weitere Überraschungen – und natürlich: Musik in ganz verschiedenen Formen und Klängen, von Punk bis Techno!</p>
+<p>Alle Erlöse der Party wandern in die Repressionskostenkasse von Strike WEF. Strike WEF protestiert Jahr für Jahr gegen, genau, das WEF. Also das World Economic Forum in Davos – die Plattform auf der Superreiche und Regierende ihre immer autoritärere Wirtschaftspolitik vorantreiben. Ganz vorne mit dabei: Big Tech, die Elon Musks dieser Welt, die Kriege, Klimakrise und Ausbeutung massiv verschärfen.</p>
+<p>Wer dem etwas entgegensetzt, kämpft für demokratische Selbstverwaltung und eine klimagerechte Welt, ist oft mit staatlicher Repression konfrontiert. Das bedeutet: Kosten. Also kommt, trinkt, esst, feiert mit uns – und spendet, so viel ihr gerade könnt!</p>
+<p>Wir freuen uns auf euch!</p>
 {{< /termin >}}
 
 {{< termin titel="Aktionstraining und Bezugsgruppenfindung" datum="03.01.2027" uhrzeit="13:00 - 17:00 Uhr;19:00 - 21:00 Uhr" zielgruppe="Angemeldet für Bildungsreise" modus="präsenz;online" optional="true" >}}
@@ -256,7 +265,7 @@ Die Bildungsreise aus Deutschland wird von der Ortsgruppe North von StrikeWEF or
 
 ### Anmeldung Bildungsreise {#Anmeldung}
 {{< highlight "#ef2323" >}}
-<b>Warteliste:</b> Da wir aus organisatorischen Gründen noch einzelne Plätze reserviert halten müssen, gibt es mittlerweile eine Warteliste. Lass dich bitte hiervon nicht abschrecken, die Möglichkeit einer Teilnahme existieren noch.
+<b>Warteliste:</b> Es gibt mittlerweile eine Warteliste. Lass dich bitte hiervon nicht abschrecken, die Möglichkeit einer Teilnahme existiert noch.
 {{< /highlight >}}
 Falls du dich nur für einen einzelnen Termin anmelden möchtest, mach dies bitte über das Anmeldeformular in der jeweiligen Terminbeschreibung. Über dieses Anmeldeformular meldest du dich für das gesamte Programm der Bildungsreise, inklusive aller Termine vorher und nachher an.
 

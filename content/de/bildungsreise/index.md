@@ -91,6 +91,7 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 ##### Zukünftige Veranstaltungen:
 
 {{< termin titel="How to Protest Palantir (und Vortrag zur Bildungsreise)" datum="01.12.2026" uhrzeit="17:00 - 20:00 Uhr;17:00 - 18:30 Uhr" zielgruppe="Angemeldet für Bildungsreise;Einzelanmeldung möglich" modus="präsenz;online" optional="false" farbe="#ffffff" >}}
+<p><b>Sprache: Englisch</p></b>
 <p>Palantir ist ein Unternehmen für KI-, Überwachungs- und Verteidigungstechnologie, das von den rechtsextremen Milliardären Peter Thiel und Alex Karp geleitet wird. Ihre Technologie spielt eine zentrale Rolle beim US-Abschiebungsapparat, beim Völkermord in Palästina, beim Angriff auf eine Schule im Iran sowie bei diversen aktuellen bewaffneten Konflikten weltweit. In diesem Workshop untersuchen wir, wie der Widerstand gegen Palantir in verschiedenen Regionen aussieht, tauschen uns über aktuelle Entwicklungen und Strategien aus und beleuchten die Zusammenhänge zwischen Peter Thiel, Palantir und dem weltweiten Aufstieg der faschistischen Rechten. Die Teilnehmenden sind dazu eingeladen, von ihrer eigenen Arbeit zu berichten und Fragen einzubringen, die unserer Organisierung in verschiedenen Teilen der Welt zugutekommen.</p>
 <b>Referent*innen:</b> 
 <ul>

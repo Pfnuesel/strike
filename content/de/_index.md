@@ -8,12 +8,24 @@ draft = false
 +++
 
 # Protestwanderung 2027
+#### 📣 Strike WEF! Tech-Faschismus! Nicht mit uns! 📣
 
-Wir organisieren jährlich eine Protestwanderung gegen das Weltwirtschaftsforum. Die nächste Protestwanderung wird am **16. + 17. Januar 2027** stattfinden. 
+Am **16. + 17. Januar 2027** organisieren wir die einzige Demonstration über mitten im Herzen des Weltwirtschaftsforums. Das grösste, elitärste Treffen der globalen Kapitalist*innen. 🏔️🔥
 
-Wenn du aus Deutschland kommst, kannst du auch mit der **Bildungsreise von StrikeWEF North** zu unserer Wanderung dazustoßen. Alle Infos hierzu findest du unter [Bildungsreise](https://strikewef.org/de/bildungsreise/).
+Während die Elite hinter Zäunen tagt, nehmen wir die Strasse ein: Zwei Tage Strike WEF, laut und farbenfroh, mitten in Davos! 🗣️🪧
 
-Sobald wir mehr Infos teilen können, werden wir sie auf der Webseite, auf [Instagram](https://www.instagram.com/strike.wef) und auf [Telegram](https://t.me/+2TxRe_-qBFE3MGFk) veröffentlichen. **Stay tuned!**
+Anwesend am WEF sind die Tech-Giganten. Elon Musk, Jeff Bezos, Bill Gates. Die reichsten Männer der Welt, hier, um ihre Interessen zu schützen: Profit um jeden Preis, egal was es die Menschen kostet! 🌏
+
+❗ Ihre Handlungen betreffen uns alle: Rechenzentren, die Energie und Wasserressourcen aufbrauchen! 😡 KI-bedingte Jobverluste! 🤖 "Superintelligenz" bedroht die Gesellschaft! 💸 Steigende Lebenshaltungskosten!
+
+Wir sagen NEIN zum Tech-Faschismus! JA zur People power und Klimagerechtigkeit!
+
+{{< button ziel="https://cryptpad.fr/form/#/2/form/view/o2I4fbCEdpnaEyuiZOBAhFJNeg4PWKY82+cEyANiKpo/" text="Zur Protestwanderung anmelden" >}}
+
+Wenn du aus Deutschland kommst, kannst du auch mit der **Bildungsreise von StrikeWEF North** zur Wanderung dazustoßen. Alle Infos hierzu findest du unter [Bildungsreise](https://strikewef.org/de/bildungsreise/).
+
+Stets informiert bleibst du übrigens auf [Instagram](https://www.instagram.com/strike.wef) und auf [Telegram](https://t.me/+2TxRe_-qBFE3MGFk). Auch unsere Webseite wird langsam aktualisiert. **Stay tuned!**
+
 
 ---
 # Was ist das Weltwirtschaftsforum?

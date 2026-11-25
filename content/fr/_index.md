@@ -11,8 +11,19 @@ draft = false
 ---
 
 # Marche de protestation 2027
+#### 📣 Strike WEF ! Tech-fascisme ! Pas avec nous ! 📣
 
-Nous organisons chaque année une marche de protestation contre le Forum économique mondial. La prochaine marche de protestation aura lieu les **16 et 17 janvier 2027**.
+**Les 16 et 17 janvier 2026**, nous organisons la seule manifestation au cœur du Forum économique mondial. Le plus grand et le plus élitiste rassemblement des capitalistes mondiaux. 🏔️🔥
+
+Pendant que l'élite se réunit derrière des clôtures, nous prenons la rue: Strike WEF, bruyant et coloré, au cœur de Davos! 🗣️🪧
+
+Présents au FEM, les géants de la tech: Elon Musk, Jeff Bezos, Bill Gates. Les hommes les plus riches du monde, ici pour défendre leurs intérêts : le profit à tout prix, peu importe le coût pour les gens! 🌏
+
+❗ Leurs actions nous concernent tous: Des centres de données qui engloutissent énergie et ressources en eau! 😡 Des pertes d'emplois liées à l'IA! 🤖 La « superintelligence » qui menace la société! 💸 Un coût de la vie qui grimpe!
+
+Nous disons NON au tech-fascisme! OUI au pouvoir du peuple et à la justice climatique!
+
+{{< button ziel="https://cryptpad.fr/form/#/2/form/view/o2I4fbCEdpnaEyuiZOBAhFJNeg4PWKY82+cEyANiKpo/" text="S'inscrire à la marche de protestation" >}}
 
 Si tu viens d’Allemagne, tu peux également rejoindre notre marche dans le cadre du **voyage éducatif organisé par StrikeWEF North**. Tu trouveras toutes les informations à ce sujet sous [Voyage éducatif](/en/educational-trip/) (en anglais et en allemand uniquement).
 

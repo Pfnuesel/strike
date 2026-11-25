@@ -114,14 +114,6 @@ Although three content-focused sessions have already taken place, we’ll offici
 <p>For anyone who still has questions about the Educational Trip, there will be time for an FAQ session before the workshop.</p>
 {{< /termin >}}
 
-{{< termin titel="Davos: The Scene of the Crime – Mobilization Talk" datum="Dec. 12, 2026" uhrzeit="9:00 PM – 10:00 PM" zielgruppe="Individual registration" modus="präsenz"  optional="true" color="#ffffff" >}}
-<p><b>Venue: Remise (U Magdalenenstraße)</p></b>
-<p>What happens every year at the Davos "crime scene"? We’ll look back on several years of protest marches against the WEF, share some behind-the-scenes stories about everything we’ve experienced, and talk in detail about how the WEF is organized. Get ready to learn about the special role of name tags, military exercises, and pop-up stores from Microsoft, LinkedIn, and others.</p>
-<h3>Registration</h3>
-<p>Please register here only if you’d like to attend this event but haven’t already signed up for the entire Educational Trip.</p>
-{{< form-5 >}}
-{{< /termin >}}
-
 {{< termin titel="Solidarityparty: Techno not Techbros" datum="12.12.2026" uhrzeit="Starting 6:00 OM" zielgruppe="Everyone (without registration)" modus="präsenz" optional="true" >}}
 <p><b>Venue: Remise (U Magdalenenstraße)</p></b>
 <p>Look forward to a cozy winter atmosphere with a fire barrel, warm food and delicious waffles (all vegan), many more surprises - and of course: music in very different forms and sounds, from punk to techno!</p>

@@ -11,12 +11,23 @@ draft = false
 ---
 
 # Protest Hike 2027
+#### 📣 Strike WEF! Tech Fascism! Not with us! 📣
 
-We organize an annual protest hike against the World Economic Forum. The next protest hike will take place on **January 16 and 17, 2027**.
+**On 16th and 17th of January 2027** we are organising the only Demonstration at the heart of World Economic Forum. The biggest, most elite gathering of global capitalists. 🏔️🔥
+
+While the elite meet behind fences, we take the streets: Two days Strike WEF, loud and colourful, in the heart of Davos! 🗣️🪧
+
+Present at WEF are the Tech giants. Elon Musk, Jeff Bezos, Bill Gates. The world's richest men, here to protect their interests: profit no matter the cost to people! 🌏  
+
+❗ Their actions affect us all: Data Centers sucking up energy and water resources! 😡 AI job losses! 🤖 'Superintelligence' threatening society! 💸 Cost of living rising!
+
+We say NO to Tech Fascism! Yes to People's Power and Climate Justice!
+
+{{< button ziel="https://cryptpad.fr/form/#/2/form/view/o2I4fbCEdpnaEyuiZOBAhFJNeg4PWKY82+cEyANiKpo/" text="Register for the protest hike" >}}
 
 If you’re from Germany, you can also join our march by taking part in the **StrikeWEF North educational trip**. You can find all the details at [Educational Trip](/en/educational-trip/).
 
-As soon as we have more information to share, we’ll post it on our website, on [Instagram](https://www.instagram.com/strike.wef), and on [Telegram](https://t.me/+2TxRe_-qBFE3MGFk). **Stay tuned!**
+Stay informed via [Instagram](https://www.instagram.com/strike.wef), and [Telegram](https://t.me/+2TxRe_-qBFE3MGFk). Also this website will be updated time by time. **Stay tuned!**
 
 ---
 # What is the World Economic Forum?
@@ -55,7 +66,7 @@ The core goals of the protest are:
 
 3. To send a strong message in support of global human rights and the protection of our environment.
 
-## Join us on January 16 and 16, 2027
+## Join us on January 16 and 17, 2027
 
 You can find all the important information about participating in the demonstration on our channels. Starting in September, we’ll be posting regular updates there about the 2027 demonstration.
 

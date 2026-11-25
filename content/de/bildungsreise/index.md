@@ -115,14 +115,6 @@ Obwohl bereits drei inhaltliche Termine vorbei sind, starten wir mit dem Kick-Of
 <p>Für alle, die noch Fragen zur Bildungsreise haben, wird vor dem Workshop Zeit für eine FAQ-Session sein.</p>
 {{< /termin >}}
 
-{{< termin titel="Tatort Davos Mobivortrag" datum="12.12.2026" uhrzeit="21:00 - 22:00 Uhr" zielgruppe="Einzelanmeldung möglich" modus="präsenz"  optional="true" farbe="#ffffff" >}}
-<p><b>Ort: Remise (U Magdalenenstraße)</p></b>
-<p>Was passiert jährlich am Tatort Davos? Wir blicken auf mehrere Jahre Protestwanderung gegen das WEF, plaudern aus dem Nähkästchen, was wir schon alles erlebt haben und sprechen ausführlich darüber, wie das WEF organisiert ist. Seid gespannt auf die besondere Rolle von Namensschildern, Militärübungen und Pop-Up-Stores von Microsoft, LinkedIn und co.</p>
-<h3>Anmeldung</h3>
-<p>Melde dich hier nur an, wenn du an dieser Veranstaltung teilnehmen möchtest, aber nicht bereits zur gesamten Bildungsreise angemeldet bist.</p>
-{{< form-5 >}}
-{{< /termin >}}
-
 {{< termin titel="Soliparty: Techno statt Techbro" datum="12.12.2026" uhrzeit="Ab 18:00 Uhr" zielgruppe="Alle (ohne Anmeldung)" modus="präsenz" optional="true" >}}
 <p><b>Ort: Remise (U Magdalenenstraße)</p></b>
 <p>Freut euch auf gemütlich-winterliche Stimmung mit Feuertonne, warmem Essen und leckeren Waffeln (alles vegan), viele weitere Überraschungen – und natürlich: Musik in ganz verschiedenen Formen und Klängen, von Punk bis Techno!</p>
@@ -266,7 +258,7 @@ Die Bildungsreise aus Deutschland wird von der Ortsgruppe North von StrikeWEF or
 
 ### Anmeldung Bildungsreise {#Anmeldung}
 {{< highlight "#ef2323" >}}
-<b>Warteliste:</b> Es gibt mittlerweile eine Warteliste. Lass dich bitte hiervon nicht abschrecken, die Möglichkeit einer Teilnahme existiert noch.
+<b>Warteliste:</b> Es gibt mittlerweile eine Warteliste, sodass wir eine Teilnahme nicht garantieren können.
 {{< /highlight >}}
 Falls du dich nur für einen einzelnen Termin anmelden möchtest, mach dies bitte über das Anmeldeformular in der jeweiligen Terminbeschreibung. Über dieses Anmeldeformular meldest du dich für das gesamte Programm der Bildungsreise, inklusive aller Termine vorher und nachher an.
 
